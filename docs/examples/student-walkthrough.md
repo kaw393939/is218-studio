@@ -46,3 +46,5 @@ These were agent-operated student-path checks, not a study of real students.
 Followed home → Section 001 → individual record → A/B preview, and separately checked Section 003. RPS empty input produced a useful message; rock versus paper showed the expected loss and rule; reset cleared the result. DeskReady rejected an empty service, then showed the chosen service/time and an unconfirmed pending request. The preview author also tested all nine RPS outcomes and request combinations.
 
 Fixed: an assignment anchor containing a long dash, duplicate stage names in the example outline, ambiguous “fourth project” wording, and scores that gave too much credit to missing evidence. The phone-width class card, menu and career page fit the screen; wide tables scroll internally. The actual course backend, Canvas submission and human participation were not completed in this rehearsal.
+
+**Published-site check:** GitHub Pages navigation and static-preview JavaScript were verified after deployment. The local-link/anchor checks and preview logic checks also passed in GitHub Actions. External employer availability can still change.
