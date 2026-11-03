@@ -11,18 +11,22 @@
 
 **RPS-001:** 003 due **Monday November 2, 11:59 p.m.**; 001 due **Wednesday November 4, 11:59 p.m.** Keep the published scope and 100-point rubric. [Current Studio checklist](/projects/studios#rps-001-posted).
 
+## This week and next week
+
+This week, review RPS-001 and start the portfolio, creative game and group customer discovery. Next week, **architecture and Docker teaching is planned** alongside project work and peer review. Exact timing and any graded Docker evidence will be confirmed; keep the existing research/planning targets below.
+
 ## Planned project reviews
 
 These targets organize preparation. **No future review deadline on this table has been posted in Canvas yet.** The first three reviews would be due at the section's class start; the final target is the shared Sunday cutoff.
 
-| Individual and group | Section 003 | Section 001 |
+| Review of all three products | Section 003 | Section 001 |
 | --- | --- | --- |
 | 1 · Plan | Nov 12, 2:30 p.m. | Nov 13, 10 a.m. |
 | 2 · First working slice | Nov 19, 2:30 p.m. | Nov 20, 10 a.m. |
 | 3 · Integrated build | Nov 30, 2:30 p.m. | Dec 2, 10 a.m. |
 | 4 · Improve and hand off | **Dec 6, 11:59 p.m.** | **Dec 6, 11:59 p.m.** |
 
-The group and individual use the same stage dates. [Later planned Studios](/projects/studios) practice tests/design and architecture/integration inside your selected creative app, in its chosen language/framework. Reuse the evidence instead of adding another report.
+The game, customer project and portfolio share these preparation targets. **Career research and portfolio planning finish at Review 1: the last class next week, Nov 12 (003) or Nov 13 (001).** Build on that work in later updates. [Later planned Studios](/projects/studios) focus on accounts/saved games, then dashboard/account maintenance inside the same creative app. Reuse its evidence rather than writing another report.
 
 ## Exceptions and protected time
 

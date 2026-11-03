@@ -4,6 +4,8 @@ These fictional records show the level of reasoning and evidence to aim for. **T
 
 | Your task | Start here |
 | --- | --- |
+| Research and design a professional portfolio | [Two portfolio draft records and feedback](/examples/portfolio) |
+| Interview a prepared customer | [Choose and start the simulator](/projects/customer-simulator) |
 | Explore a working architecture and pattern | [Bot Lab: two opponents, match state and actual tests](/examples/bot-lab) |
 | Learn from agent output | [Success and disappointment: two filled notes](/examples/agent-learning) |
 | Choose scope and explain your own work | [Two individual records: RPS Replay and Gesture Coach](/examples/individual) |
@@ -22,4 +24,4 @@ These are static HTML/CSS/JavaScript examples. They are valid browser examples f
 
 The example records use **Complete, Thoughtful, Checked and Understood**, 25 points each, as a [proposed future-review teaching rubric](/course/milestones#how-the-worked-examples-are-assessed). Scores are provisional assessments of the actual supplied record, preview and technical receipts. Fictional peer/team claims earn no execution or human-review credit; missing full-system evidence lowers later-stage scores. They do not replace RPS-001's published 30/30/15/15/10 rubric or establish a real student's understanding.
 
-Creative work is assessed for the chosen promise and architecture, not for using Python or adding an unnecessary server. Actual students must supply their own working repository, tests, pattern experiment, agent-learning note, real peer participation and evidence required by the posted brief. The examples do not turn pending work into completion.
+The final creative game requires the full [account/result journey](/projects/game-app); these browser previews cover only part of it. The chosen language/framework does not change the behavior required. Actual students must supply their own working repository, tests, pattern experiment, agent-learning note, real peer participation and evidence required by the posted brief. The examples do not turn pending work into completion.

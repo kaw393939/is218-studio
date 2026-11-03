@@ -13,10 +13,10 @@ For the creative work **after the baseline, you may choose any programming langu
 | Part | Your decision | Example: Battle of the Bots |
 | --- | --- | --- |
 | **Dream** | What larger experience would you love to make? | An arena where visitors discover how different opponents behave. |
-| **Promise** | Which complete journey will your final version deliver? | Choose one of two opponents, play a short match, read the result and restart. |
+| **Promise** | Which complete journey will your final version deliver? | Sign in, choose an opponent, play, save the result, view my dashboard and update my account. |
 | **Experiment** | Which uncertain idea will you investigate? | Can an opponent use recent moves in a way the player can understand? |
 
-The promise needs a working interface, actual program behavior, meaningful tests and a clear finish. The experiment may succeed, change direction or be dropped. Write a **stop rule before starting**: “After 60 minutes, if I cannot explain its behavior and check one useful result, I will keep the reliable opponent and record what I learned.” Sixty minutes is an example, not a required work limit.
+The final promise includes [accounts, saved scores, a private dashboard and account maintenance](/projects/game-app). The ideas below describe the creative game core inside that shared application journey. Keep one game mode small; use the required account features with every direction. The experiment may succeed, change direction or be dropped. Write a **stop rule before starting**: “After 60 minutes, if I cannot explain its behavior and check one useful result, I will keep the reliable opponent and record what I learned.” Sixty minutes is an example, not a required work limit.
 
 An ambitious plan with a small finished promise can be strong work. An unfinished promise is not rescued by a long feature list or by saying AI failed.
 
@@ -27,7 +27,7 @@ Choose, combine or replace these ideas. You choose the project; AI helps you exp
 <details>
 <summary>Seven ways to make RPS feel much bigger</summary>
 
-| Challenge | A finishable promise | One optional experiment |
+| Challenge | Creative core to add | One optional experiment |
 | --- | --- | --- |
 | **Story tournament** | Three duels in one illustrated story, with a clear ending and restart. | Try a branching scene without losing track of match state. |
 | **Battle of the Bots** | Two opponent strategies, a short match and a readable move history. | Compare a predictable opponent with one that uses recent moves. Explain what “learning” means here. |
@@ -51,7 +51,7 @@ These are creative directions, not seven assignments. One scene or one short mat
 | **Campus event shortlister** | Synthetic events, a few preferences and an explanation of the shortlist. | Matching rules, unsupported preferences and no matching events. |
 | **Equipment-request planner** | One request journey, validation and a truthful pending status using synthetic data. | Missing information, incompatible selections and the difference between a request and a confirmed booking. |
 
-Another idea is welcome. Give it an identifiable user, real program behavior, a changing state and a checkable end-to-end task. Agree how any separately posted Studio skills fit before replacing their work.
+For a different game, keep equivalent score/history measures. For an already agreed non-game idea, confirm its equivalent meaningful result/history workflow. Keep the account journey and tests. The group has its own [prepared customer choices](/projects/customer-simulator).
 
 </details>
 
@@ -68,7 +68,8 @@ First ask me three short questions about my interests, the experience
 I want to create, and the time/tools I have. Wait for my answers.
 
 Then suggest three ambitious, distinct pitches. Include a surprising
-RPS direction and a non-game option. For each, give a user, a memorable
+RPS direction and another simple game. Each must fit accounts, a
+private dashboard, saved results and account maintenance. Give a user, a memorable
 interaction, a small complete version, and one technical uncertainty.
 
 Help me compare two pitches I select. Challenge your own assumptions
@@ -83,8 +84,8 @@ AI can also propose architecture or tests. You still decide which boundaries hel
 | Review | What your creative project adds |
 | --- | --- |
 | **1 · Plan** | Two ideas, a selected promise, a small architecture sketch, checks and the experiment's stop rule. |
-| **2 · First slice** | One new creative journey beyond the completed baseline; show working behavior, tests and a design decision. |
-| **3 · Integrate** | The promised pieces work together. Compare approaches, record the experiment's actual outcome and get peer feedback. |
+| **2 · First slice** | Accounts and one correct saved game; actual tests and a design decision. |
+| **3 · Integrate** | Dashboard, scores and account maintenance work together. Compare approaches, record the experiment's result and get peer feedback. |
 | **4 · Improve** | Resolve a meaningful feedback issue, retest, hand off the chosen version and explain what you would do differently. |
 
 Keep short notes in your [existing record](/templates/project-record). No extra idea essay or full chat transcript. [Two filled AI-learning examples](/examples/agent-learning) show how a success and a disappointment can both improve your judgment. Follow Canvas for the actual posted requirements and dates.

@@ -1,6 +1,6 @@
 # Show the work. Explain the decision.
 
-Demonstrate your individual application and your own contribution to the group application. Use a real working task, one decision and its checks, plus one feedback-driven improvement. A polished narration cannot replace work you can explain.
+Start from your portfolio, demonstrate your creative account-based game and explain your own contribution to the group customer application. Use a real working task, one decision and its checks, plus one feedback-driven improvement. A polished narration cannot replace work you can explain.
 
 ## Dates and status
 
@@ -15,9 +15,9 @@ Demonstrate your individual application and your own contribution to the group a
 
 ## Prepare a short demonstration
 
-1. State the user and task in one sentence.
-2. Run the individual workflow; explain one choice and a test's expected result.
-3. Run the group workflow; identify your work and a teammate's connected part.
+1. Open your portfolio: state your career direction and show where the résumé, GitHub and LinkedIn links live.
+2. Run the individual account → game → saved result/dashboard journey. Show account maintenance and one independently expected check.
+3. Name the simulated customer and agreed workflow; run it and identify your work and a teammate's connected part.
 4. Show an issue, the meaningful change and the retest.
 5. Explain an architecture/pattern choice and one test that would catch a real mistake.
 6. Compare an agent-coding expectation with the actual result: what succeeded or disappointed, and what would you change next time? Name a remaining limit.

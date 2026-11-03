@@ -1,5 +1,5 @@
 <script setup>
-defineProps({ botLab: { type: Boolean, default: false } })
+defineProps({ botLab: { type: Boolean, default: false }, accounts: { type: Boolean, default: false } })
 </script>
 <template>
   <figure class="architecture-sketch" aria-label="Example responsibilities and checks in a small creative application">
@@ -8,12 +8,18 @@ defineProps({ botLab: { type: Boolean, default: false } })
       <section><span>core.mjs</span><h3>Match rules and state</h3><p>Call the supplied opponent, apply rules and return the next state.</p><small>Independent state tests</small></section>
       <section><span>strategies.mjs</span><h3>Replaceable opponent</h3><p>Completed history in; a move and explanation out.</p><small>Fixed-history expectations</small></section>
     </div>
+    <div v-else-if="accounts" class="architecture-grid">
+      <section><span>Player interface</span><h3>Choose and understand</h3><p>Sign in, play, read the dashboard and maintain the account.</p><small>Real browser journeys</small></section>
+      <section><span>Backend rules and access</span><h3>Validate and decide</h3><p>Identify the user, enforce access, apply game rules and validate updates.</p><small>Rule, session and ownership checks</small></section>
+      <section><span>Persistent data</span><h3>Save and return</h3><p>Keep accounts and owned results; read correct totals and history later.</p><small>Database and integration checks</small></section>
+    </div>
     <div v-else class="architecture-grid">
       <section><span>Input and presentation</span><h3>Try the experience</h3><p>Buttons, keyboard, a game scene or another interface.</p><small>User-journey checks</small></section>
       <section><span>Rules and state</span><h3>Decide what happens</h3><p>Validate actions, apply rules and return the next state.</p><small>Independent core tests</small></section>
       <section class="optional"><span>Optional integrations</span><h3>Connect what you need</h3><p>Storage, a service or an AI model, when the promise needs it.</p><small>Boundary and failure checks</small></section>
     </div>
     <figcaption v-if="botLab">The interface injects a selected opponent function into the match core. The core supplies completed history and returns a new match result; it does not read the page.</figcaption>
+    <figcaption v-else-if="accounts">The creative final connects all three responsibilities. A portfolio may be static; the game's account and saved-result journey needs backend enforcement and persistent data.</figcaption>
     <figcaption v-else>Trace one action through your actual parts. A browser-only app may need only the first two; a different stack may draw different boundaries.</figcaption>
   </figure>
 </template>

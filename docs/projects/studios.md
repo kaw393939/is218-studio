@@ -28,13 +28,15 @@ Its rubric uses complete/full, partial/half, or missing/zero evidence per row. [
 
 ## Two later Studios — planned
 
-The instructor's **November 3 creative direction** replaces the earlier prospective accounts/dashboard outline with transferable engineering practice. Use your chosen creative application and its language/framework. These briefs, dates and rubrics remain planned until Canvas posts them; RPS-001 above is unchanged.
+The updated November 3 direction keeps creative technology choices and adds a full account/game journey. Use the chosen creative application. These future briefs, dates and rubrics remain planned until Canvas posts them; RPS-001 above is unchanged.
 
-| Studio | Evidence in the selected app | Planning target |
+| Studio | Bounded result and engineering evidence | Planning target |
 | --- | --- | --- |
-| **Studio 002 · Tests and design decisions** | A new working slice, independently expected automated checks, and a useful pattern experiment compared with a simpler alternative. Explain the problem the design solves. | 003 Nov 19, 2:30 p.m.; 001 Nov 20, 10 a.m. |
-| **Studio 003 · Architecture and integration** | Connected responsibilities, a tested change/refactoring, a realistic user journey and actual check/CI results. Explain an agent-generated change you kept, revised or rejected. | 003 Nov 30, 2:30 p.m.; 001 Dec 2, 10 a.m. |
+| **Studio 002 · Accounts and first saved game** | Sign up/sign in, play one correct game, save its result and sign out. Separate responsibilities, independently expected tests and one useful pattern experiment. | 003 Nov 19, 2:30 p.m.; 001 Nov 20, 10 a.m. |
+| **Studio 003 · Dashboard and account maintenance** | Private persisted scores/history, display-name/password maintenance, ownership and session checks. Integrate, retest and explain an agent-generated change you kept or revised. | 003 Nov 30, 2:30 p.m.; 001 Dec 2, 10 a.m. |
 
-No second RPS account system is required just because you chose another creative app. Accounts, persistence or a dashboard can be useful design choices where your task needs them; claims about them need actual checks. A browser-only creative app can be appropriate for a browser-only promise.
+[The full account/game contract](/projects/game-app) defines what to demonstrate. Keep one game repository and record. A Studio receipt links the focused skill/check; the project review explains progress using the same evidence.
 
-Keep one evolving spec per project. A Studio receipt links the focused skill and check; the project review explains the whole app's progress. Reuse evidence rather than writing two reports. [Creative challenge](/projects/creative-challenge) · [Architecture and patterns](/process/architecture) · [Current section dates](/course/schedule).
+The full local Studio 0.4 pilot is an instructor resource, not six extra assignments or a required additional application. Here the coach follows **Try → Decide → Build → Check → Keep** inside your project. Confirm the next action, make your own prediction, inspect the result and keep accurate evidence.
+
+[Creative brief](/projects/individual) · [Portfolio](/projects/portfolio) · [Customer simulator](/projects/customer-simulator) · [Section dates](/course/schedule).

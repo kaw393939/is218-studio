@@ -1,6 +1,6 @@
 # Write a résumé you can explain
 
-**Optional professional preparation.** IS218 does not add a new graded portfolio or career reflection through this guide. Use this help to extend your existing portfolio and professional materials; follow Canvas if a separate activity is assigned.
+**Portfolio component.** Use this guide in your IS218 portfolio. Keep actual profiles, project claims and materials consistent. Portfolio dates and points remain planned until posted in Canvas. [Portfolio brief](/projects/portfolio).
 
 Aim for about one readable page for an early-career résumé. Describe **your contribution + what you built or checked + evidence**. Label course projects; do not invent employment, credentials, metrics or tests.
 
@@ -46,7 +46,7 @@ EXPERIENCE / ACTIVITIES
 
 Use clear headings and readable text. Open the exported file, select its text, click its links and try it on a phone. A selectable-text PDF is useful for applications. Ask a peer whether they can find your two projects and distinguish your contribution from the team's work.
 
-Tailor emphasis to a real role while keeping the facts consistent. Be ready to show every claimed skill, including how you used and checked AI. Extend your existing portfolio with the updated résumé if useful; this does not create another project or upload.
+Tailor emphasis to a real role while keeping the facts consistent. Be ready to show every claimed skill, including how you used and checked AI. Include the updated résumé in your IS218 portfolio. Reuse the same accurate file rather than maintaining conflicting versions.
 
 [NJIT résumé resources](https://www.njit.edu/careerservices/resumes-and-cover-letters) · [Find your career advisor](https://www.njit.edu/careerservices/find-your-career-advisor).
 

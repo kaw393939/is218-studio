@@ -9,9 +9,21 @@ Instructor reference · Canvas research November 2; creative direction updated N
 - Both homes announce four individual/four group reviews, two or three more Studios, RPS accounts/dashboard development, an individual creative app and a modest group business app. No future review/Studio assignments were visible in the reviewed inventory. Their dates on this site remain planned.
 - RPS-001's original rubric is 30/30/15/15/10. The proposed future-review rubric and illustrative grades do not change it.
 
-## Instructor direction · November 3
+## Instructor direction · November 3, updated
 
-The creative project is open to any language, framework or engine. Students should imagine a bigger experience, finish a bounded user journey, practice tests/design patterns/architecture and investigate what agent coding delivers. A short success/disappointment/next-time record belongs in the existing spec. The revised prospective Studio 002/003 plan applies these skills in the chosen application; accounts/dashboard remain possible task-specific choices. This supersedes only the earlier unposted RPS-002/003 proposal. The posted RPS-001 scope, deadlines and rubric remain intact. Canvas future briefs must be updated to match before adopting the planned assessments.
+The current plan has **three products**: creative game, group simulated-customer workflow and professional portfolio. The creative game may use any suitable language/framework and includes real login/logout, persistent scores, a private dashboard and account maintenance. Studio 002/003 focus that work; tests, patterns, architecture and concise agent-learning evidence remain central. The portfolio begins with FDE and other AI-role research across industries and uses a self-contained short audience/brand/spec/A-B/peer-review process. The group selects a predesigned customer from a local AGENTS-based simulator kit.
+
+The instructor also plans architecture/Docker teaching next week, using the existing application. Exact timing and graded Docker evidence are not yet confirmed. This week reviews the current Studio and launches all three project tasks.
+
+This latest direction supersedes the earlier November 3 proposal that made game accounts optional and omitted a portfolio. **The posted RPS-001 scope, deadlines and rubric are unchanged.** Later briefs remain planned until Canvas is aligned; no category-weight change is implied.
+
+## Studio teaching reference
+
+The current public [373_hosting README](https://github.com/kaw393939/373_hosting#next--build-your-application) hands off to the separate [IS373 App Studio](https://github.com/kaw393939/is373-app-studio). Its cumulative sequence is branded homepage → accounts/private dashboard/logout → server-enforced roles, with **Try → Decide → Build → Check → Keep**, actual checks and reviewed learner notes. The app starts locally; hosting/deployment is a separate step.
+
+IS218 adapts that progression in its own docs and chosen game. The Part 2 starter does **not** already implement the new game scores or account-maintenance requirement. Member/admin roles, VPS/DNS/Traefik and a second deployment curriculum are not imported as IS218 requirements. The older local `is373Server` checkout predates the current public Studio and is not the adopted source. No IS373 repository was changed.
+
+The local Studio 0.4 is a coaching/assessment reference, not six new Campus Picks assignments. The group packet is a character simulation, not a real client or a claim of validated customer demand.
 
 ## Syllabus and grading boundaries
 

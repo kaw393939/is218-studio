@@ -1,6 +1,6 @@
 # Make your GitHub useful to a new reader
 
-**Optional professional preparation.** IS218 does not add a new graded portfolio or career reflection through this guide. Use this help to extend your existing portfolio and professional materials; follow Canvas if a separate activity is assigned.
+**Portfolio component.** Use this guide in your IS218 portfolio. Keep actual profiles, project claims and materials consistent. Portfolio dates and points remain planned until posted in Canvas. [Portfolio brief](/projects/portfolio).
 
 Your portfolio shows the result; GitHub shows the source and how you worked. Link your **own profile**, individual repository and shared group repository. Do not duplicate the group's code just to claim a separate project.
 
@@ -26,7 +26,7 @@ These are fictional teaching descriptions. Use only claims your own work support
 
 Keep setup commands accurate for the chosen revision. Link the existing spec instead of copying its whole history. Show a useful decision and test, not a long technology list or commit count. Pin strong work when helpful; a separate profile README is optional.
 
-Ask a peer to find your contribution and run one project from its README. Fix the first missing step and try again. Extend your existing portfolio with these links rather than building another site for this guide.
+Ask a peer to find your contribution and run one project from its README. Fix the first missing step and try again. Include these links in the one portfolio you are building or improving for IS218.
 
 [GitHub README guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) · [Pin work on your profile](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile).
 

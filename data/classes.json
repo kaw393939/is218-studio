@@ -1,12 +1,12 @@
 {
   "001": {
     "courseId": 70712,
-    "meeting": "Wednesday/Friday \u00b7 10:00\u201311:20 a.m. \u00b7 CKB 313",
+    "meeting": "Wednesday/Friday · 10:00–11:20 a.m. · CKB 313",
     "timezone": "America/New_York",
     "checkpoints": [
       {
         "key": "rps-001",
-        "title": "RPS-001 \u2014 Build and Verify a Round",
+        "title": "RPS-001 — Build and Verify a Round",
         "date": "2026-11-04",
         "time": "11:59 p.m.",
         "status": "posted",
@@ -14,79 +14,107 @@
       },
       {
         "key": "individual-1",
-        "title": "Individual Review 1 \u2014 Plan",
+        "title": "Individual Review 1 — Plan",
         "date": "2026-11-13",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "group-1",
-        "title": "Group Review 1 \u2014 Plan",
+        "title": "Group Review 1 — Plan",
         "date": "2026-11-13",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "individual-2",
-        "title": "Individual Review 2 \u2014 First working slice",
+        "title": "Individual Review 2 — First working slice",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "group-2",
-        "title": "Group Review 2 \u2014 First working slice",
+        "title": "Group Review 2 — First working slice",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "individual-3",
-        "title": "Individual Review 3 \u2014 Integrated build",
+        "title": "Individual Review 3 — Integrated build",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "group-3",
-        "title": "Group Review 3 \u2014 Integrated build",
+        "title": "Group Review 3 — Integrated build",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "individual-4",
-        "title": "Individual Review 4 \u2014 Improve and hand off",
+        "title": "Individual Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
         "status": "planned"
       },
       {
         "key": "group-4",
-        "title": "Group Review 4 \u2014 Improve and hand off",
+        "title": "Group Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
         "status": "planned"
       },
       {
         "key": "studio-002",
-        "title": "Studio 002 \u2014 Tests and design decisions",
+        "title": "Studio 002 — Accounts and first saved game",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
         "status": "planned"
       },
       {
         "key": "studio-003",
-        "title": "Studio 003 \u2014 Architecture and integration",
+        "title": "Studio 003 — Dashboard and account maintenance",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-1",
+        "title": "Portfolio Review 1 — Research and plan",
+        "date": "2026-11-13",
+        "time": "10:00 a.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-2",
+        "title": "Portfolio Review 2 — First presentation options",
+        "date": "2026-11-20",
+        "time": "10:00 a.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-3",
+        "title": "Portfolio Review 3 — Integrated portfolio",
+        "date": "2026-12-02",
+        "time": "10:00 a.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-4",
+        "title": "Portfolio Review 4 — Improve and hand off",
+        "date": "2026-12-06",
+        "time": "11:59 p.m.",
         "status": "planned"
       }
     ],
     "classes": [
       {
         "date": "2026-11-04",
-        "label": "Wed Nov 4 \u00b7 Finish the posted RPS-001 task",
+        "label": "Wed Nov 4 · Finish the posted RPS-001 task",
         "bring": "Your RPS repository, SPEC, code, tests and actual results.",
         "work": "Run the real round and full checks; inspect the diff and prepare the reviewed PR.",
         "review": "Explain one test and the mistake it would catch. Try replay and keyboard controls.",
@@ -96,7 +124,8 @@
         ],
         "next": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "guide": {
           "link": "/projects/studios#rps-001-posted",
@@ -110,37 +139,39 @@
       },
       {
         "date": "2026-11-06",
-        "label": "Fri Nov 6 \u00b7 Plan the two projects",
-        "bring": "Your current work, personal interests and one ambitious experience you would like to make.",
-        "work": "Use AI to interview your interests and compare two concepts. Choose Dream, working promise and experiment; sketch responsibilities.",
-        "review": "Can a classmate identify the finished promise, the risk and an independent success check?",
-        "update": "Choose any language/framework for the creative app. Keep one project record; groups name owners and reviewers.",
+        "label": "Fri Nov 6 · Start the three products",
+        "bring": "Your current code, interests and one ambitious game idea.",
+        "work": "Introduce career research and portfolio design, the creative account/game journey and the customer-scenario menu.",
+        "review": "Compare two career/game directions. Choose a group customer and prepare discovery questions.",
+        "update": "Create three short records. Use any suitable stack and reuse earlier tests/pattern knowledge; Studios stay inside the game.",
         "due": [],
         "next": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "guide": {
-          "link": "/projects/creative-challenge",
-          "text": "Find your creative challenge"
+          "link": "/course/overview",
+          "text": "Your three products"
         },
         "example": {
-          "link": "/examples/agent-learning",
-          "text": "Two agent-learning records"
+          "link": "/examples/portfolio",
+          "text": "Two portfolio draft records"
         },
         "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting."
       },
       {
         "date": "2026-11-11",
-        "label": "Wed Nov 11 \u00b7 Plan workshop and peer questions",
-        "bring": "Two concepts, the chosen promise, architecture sketch, three to five checks and group responsibilities.",
-        "work": "Question the plan and largest uncertainty. Try a short pattern/design experiment in the selected app.",
-        "review": "Can another person trace input, rules/state and output, and explain what the first check would catch?",
-        "update": "Keep the selected scope, rejected option, stack reason and experiment stopping rule in the same record.",
+        "label": "Wed Nov 11 · Plan workshop and peer questions",
+        "bring": "Three role cards, two portfolio directions, the game/account plan and a chosen group customer.",
+        "work": "Planned architecture/Docker introduction using the same app, then portfolio/design review and customer discovery. Compare local/container startup; exact lesson timing will be confirmed.",
+        "review": "Can a peer identify the audience, required game journey and customer problem without coaching?",
+        "update": "Keep career/design notes with the portfolio; game checks and labeled customer notes stay in their own records.",
         "due": [],
         "next": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "guide": {
           "link": "/process/architecture",
@@ -150,27 +181,29 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": ""
+        "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets."
       },
       {
         "date": "2026-11-13",
-        "label": "Fri Nov 13 \u00b7 Review 1 target; start a working slice",
-        "bring": "The two project specs, chosen stacks and a new creative path to implement.",
-        "work": "Build one new creative journey beyond RPS001, or one useful journey in another app. Separate responsibilities enough to test.",
-        "review": "Check whether the expected result is independent of the code or AI claim.",
-        "update": "Link source, independent success/failure checks and the first design decision.",
+        "label": "Fri Nov 13 · Review 1 target; start a working slice",
+        "bring": "Portfolio research/design, game/account stories and the group’s agreed customer scope.",
+        "work": "Start the game account/result slice, the customer workflow and two small portfolio presentation options.",
+        "review": "Predict one successful task and one rejected action before testing.",
+        "update": "Link actual code/checks and current portfolio drafts; use the same three records.",
         "due": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "next": [
           "individual-2",
           "group-2",
-          "studio-002"
+          "studio-002",
+          "portfolio-2"
         ],
         "guide": {
-          "link": "/process/architecture",
-          "text": "Design a testable slice"
+          "link": "/projects/game-app",
+          "text": "Account/game journeys"
         },
         "example": {
           "link": "/examples/individual",
@@ -180,16 +213,17 @@
       },
       {
         "date": "2026-11-18",
-        "label": "Wed Nov 18 \u00b7 Build workshop and cross-review",
-        "bring": "A working slice, the current tests, and one task for a reviewer.",
-        "work": "Implement and test the promised slice; compare a pattern-based design with a simpler alternative. Partners cross-review.",
-        "review": "Try a real task without coaching; give a specific strength and obstacle.",
-        "update": "Record the actual agent result, observed problem, design response and checks.",
+        "label": "Wed Nov 18 · Build workshop and cross-review",
+        "bring": "Accounts plus a playable game slice, group workflow code and two portfolio presentations.",
+        "work": "Test a saved game and account boundaries; cross-review the group slice and try portfolio reader tasks.",
+        "review": "Observe a real classmate, open a useful issue and compare the design alternatives.",
+        "update": "Record actual checks, pattern/AI decisions and peer findings; reuse game evidence for Studio 002.",
         "due": [],
         "next": [
           "individual-2",
           "group-2",
-          "studio-002"
+          "studio-002",
+          "portfolio-2"
         ],
         "guide": {
           "link": "/process/collaboration",
@@ -203,24 +237,26 @@
       },
       {
         "date": "2026-11-20",
-        "label": "Fri Nov 20 \u00b7 Review 2 target; integrate the build",
-        "bring": "Current individual/group slices and selected-app testing/design evidence.",
-        "work": "Integrate the promise. Introduce the architecture/refactoring Studio and explain the final AI-learning and peer-review record.",
-        "review": "Which responsibility boundary or failed expectation needs a change? Name a test that would catch the problem.",
-        "update": "Link focused Studio checks from the same project record; label unfinished work.",
+        "label": "Fri Nov 20 · Review 2 target; integrate the build",
+        "bring": "Current game/accounts, group slice and chosen portfolio presentation.",
+        "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
+        "review": "Which account/data boundary or customer assumption needs a test or change?",
+        "update": "Reuse the game evidence for the Studio; update customer notes and portfolio case studies.",
         "due": [
           "individual-2",
           "group-2",
-          "studio-002"
+          "studio-002",
+          "portfolio-2"
         ],
         "next": [
           "individual-3",
           "group-3",
-          "studio-003"
+          "studio-003",
+          "portfolio-3"
         ],
         "guide": {
-          "link": "/process/architecture",
-          "text": "Architecture and integration"
+          "link": "/projects/game-app",
+          "text": "Dashboard and account maintenance"
         },
         "example": {
           "link": "/examples/bot-lab",
@@ -230,16 +266,17 @@
       },
       {
         "date": "2026-11-25",
-        "label": "Wed Nov 25 \u00b7 Integration and review workshop",
-        "bring": "Integrated paths, setup instructions, and a task for each project.",
-        "work": "Check the integrated journey, a useful pattern/refactoring and the uncertain experiment. Decide what to keep, change or drop.",
-        "review": "A peer runs a task and explains the result/status in their own words.",
-        "update": "Record the actual revision, tests, observed problem and retest plan; explain AI success or disappointment.",
+        "label": "Wed Nov 25 · Integration and review workshop",
+        "bring": "Integrated account/game, customer workflow and portfolio with current links.",
+        "work": "Check persistence, dashboard, account updates and ownership. Resolve the customer change and test portfolio navigation.",
+        "review": "Try each product’s agreed task without coaching; compare expected with actual behavior.",
+        "update": "Record defects, actual tests and response/retest plans. Freeze scope before finishing week.",
         "due": [],
         "next": [
           "individual-3",
           "group-3",
-          "studio-003"
+          "studio-003",
+          "portfolio-3"
         ],
         "guide": {
           "link": "/process/collaboration",
@@ -253,19 +290,21 @@
       },
       {
         "date": "2026-12-02",
-        "label": "Wed Dec 2 \u00b7 Build snapshot; protected finishing work",
-        "bring": "Review 3 build links, selected-app integration, design decisions and unresolved issues.",
-        "work": "Capture the build snapshot, then repair, complete missed peer reviews and rehearse. No new topic.",
-        "review": "Observe a real task; choose a meaningful change and check it again.",
-        "update": "Keep the same URLs and source record; repair the promise and complete the AI-learning note.",
+        "label": "Wed Dec 2 · Build snapshot; protected finishing work",
+        "bring": "Three Review 3 snapshots, game integration checks and unresolved issues.",
+        "work": "Capture the snapshots; repair account/data, customer workflow and portfolio issues. Complete missed peer reviews; no new topic.",
+        "review": "Observe the changed task and rerun the affected checks.",
+        "update": "Keep the same three records and URLs; finalize actual AI-learning and contribution notes.",
         "due": [
           "individual-3",
           "group-3",
-          "studio-003"
+          "studio-003",
+          "portfolio-3"
         ],
         "next": [
           "individual-4",
-          "group-4"
+          "group-4",
+          "portfolio-4"
         ],
         "guide": {
           "link": "/process/quality",
@@ -279,15 +318,16 @@
       },
       {
         "date": "2026-12-04",
-        "label": "Fri Dec 4 \u00b7 Protected reviews and rehearsal",
+        "label": "Fri Dec 4 · Protected reviews and rehearsal",
         "bring": "All working projects, issue responses, final links and actual contribution notes.",
-        "work": "Finish repairs and real reviews; rehearse the architecture, a discriminating test and what you learned about agent coding.",
+        "work": "Finish repairs and real reviews for game, customer project and portfolio; rehearse the architecture, evidence and professional introduction.",
         "review": "Have a peer try the changed task again; verify the result and remaining limits.",
         "update": "Finalize the same record: actual checks, pattern choice and one next-time change. No new feature area.",
         "due": [],
         "next": [
           "individual-4",
-          "group-4"
+          "group-4",
+          "portfolio-4"
         ],
         "guide": {
           "link": "/process/quality",
@@ -301,14 +341,15 @@
       },
       {
         "date": "2026-12-06",
-        "label": "Sun Dec 6 \u00b7 Planned final-ready target \u2014 no class",
-        "bring": "The selected versions, existing records and final source revisions.",
+        "label": "Sun Dec 6 · Planned final-ready target — no class",
+        "bring": "The chosen game, customer workflow and portfolio; existing records and final source revisions.",
         "work": "No Sunday class is scheduled. This is the proposed final-ready cutoff.",
         "review": "Include actual feedback/change/retest evidence; do not invent a missing check.",
         "update": "Keep the same working links for the proposed class demos.",
         "due": [
           "individual-4",
-          "group-4"
+          "group-4",
+          "portfolio-4"
         ],
         "next": [],
         "guide": {
@@ -323,9 +364,9 @@
       },
       {
         "date": "2026-12-09",
-        "label": "Wed Dec 9 \u00b7 Planned regular-class Demo Day",
-        "bring": "Your assigned time if announced, both projects, source/spec and evidence.",
-        "work": "Demonstrate if scheduled; give useful feedback on classmates\u2019 work.",
+        "label": "Wed Dec 9 · Planned regular-class Demo Day",
+        "bring": "Your assigned time if announced, all three products, source/spec and evidence.",
+        "work": "Demonstrate if scheduled; give useful feedback on classmates’ work.",
         "review": "Explain your contribution, one choice, a check and a meaningful improvement.",
         "update": "Keep the same URLs and follow actual instructor feedback.",
         "due": [],
@@ -342,9 +383,9 @@
       },
       {
         "date": "2026-12-11",
-        "label": "Fri Dec 11 \u00b7 Planned regular-class Demo Day",
-        "bring": "Your assigned time if announced, both projects, source/spec and evidence.",
-        "work": "Demonstrate if scheduled; give useful feedback on classmates\u2019 work.",
+        "label": "Fri Dec 11 · Planned regular-class Demo Day",
+        "bring": "Your assigned time if announced, all three products, source/spec and evidence.",
+        "work": "Demonstrate if scheduled; give useful feedback on classmates’ work.",
         "review": "Explain your contribution, one choice, a check and a meaningful improvement.",
         "update": "Keep the same URLs and follow actual instructor feedback.",
         "due": [],
@@ -361,11 +402,11 @@
       },
       {
         "date": "2026-12-16",
-        "label": "Wed Dec 16 \u00b7 Announced final / redo block",
+        "label": "Wed Dec 16 · Announced final / redo block",
         "bring": "Confirmed presentation instructions and working project links.",
-        "work": "Remaining presentations and needed redos, 2:30\u20135 p.m. Eastern.",
+        "work": "Remaining presentations and needed redos, 2:30–5 p.m. Eastern.",
         "review": "Explain actual work and evidence; identify limits.",
-        "update": "Follow the instructor\u2019s confirmed final arrangements.",
+        "update": "Follow the instructor’s confirmed final arrangements.",
         "due": [],
         "next": [],
         "guide": {
@@ -382,12 +423,12 @@
   },
   "003": {
     "courseId": 70713,
-    "meeting": "Monday/Thursday \u00b7 2:30\u20133:50 p.m. \u00b7 CKB 226",
+    "meeting": "Monday/Thursday · 2:30–3:50 p.m. · CKB 226",
     "timezone": "America/New_York",
     "checkpoints": [
       {
         "key": "rps-001",
-        "title": "RPS-001 \u2014 Build and Verify a Round",
+        "title": "RPS-001 — Build and Verify a Round",
         "date": "2026-11-02",
         "time": "11:59 p.m.",
         "status": "posted",
@@ -395,79 +436,107 @@
       },
       {
         "key": "individual-1",
-        "title": "Individual Review 1 \u2014 Plan",
+        "title": "Individual Review 1 — Plan",
         "date": "2026-11-12",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "group-1",
-        "title": "Group Review 1 \u2014 Plan",
+        "title": "Group Review 1 — Plan",
         "date": "2026-11-12",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "individual-2",
-        "title": "Individual Review 2 \u2014 First working slice",
+        "title": "Individual Review 2 — First working slice",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "group-2",
-        "title": "Group Review 2 \u2014 First working slice",
+        "title": "Group Review 2 — First working slice",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "individual-3",
-        "title": "Individual Review 3 \u2014 Integrated build",
+        "title": "Individual Review 3 — Integrated build",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "group-3",
-        "title": "Group Review 3 \u2014 Integrated build",
+        "title": "Group Review 3 — Integrated build",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "individual-4",
-        "title": "Individual Review 4 \u2014 Improve and hand off",
+        "title": "Individual Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
         "status": "planned"
       },
       {
         "key": "group-4",
-        "title": "Group Review 4 \u2014 Improve and hand off",
+        "title": "Group Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
         "status": "planned"
       },
       {
         "key": "studio-002",
-        "title": "Studio 002 \u2014 Tests and design decisions",
+        "title": "Studio 002 — Accounts and first saved game",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
         "status": "planned"
       },
       {
         "key": "studio-003",
-        "title": "Studio 003 \u2014 Architecture and integration",
+        "title": "Studio 003 — Dashboard and account maintenance",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-1",
+        "title": "Portfolio Review 1 — Research and plan",
+        "date": "2026-11-12",
+        "time": "2:30 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-2",
+        "title": "Portfolio Review 2 — First presentation options",
+        "date": "2026-11-19",
+        "time": "2:30 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-3",
+        "title": "Portfolio Review 3 — Integrated portfolio",
+        "date": "2026-11-30",
+        "time": "2:30 p.m.",
+        "status": "planned"
+      },
+      {
+        "key": "portfolio-4",
+        "title": "Portfolio Review 4 — Improve and hand off",
+        "date": "2026-12-06",
+        "time": "11:59 p.m.",
         "status": "planned"
       }
     ],
     "classes": [
       {
         "date": "2026-11-02",
-        "label": "Mon Nov 2 \u00b7 Finish the posted RPS-001 task",
+        "label": "Mon Nov 2 · Finish the posted RPS-001 task",
         "bring": "Your RPS repository, SPEC, code, tests and actual results.",
         "work": "Run the real round and full checks; inspect the diff and prepare the reviewed PR.",
         "review": "Explain one test and the mistake it would catch. Try replay and keyboard controls.",
@@ -477,7 +546,8 @@
         ],
         "next": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "guide": {
           "link": "/projects/studios#rps-001-posted",
@@ -491,37 +561,39 @@
       },
       {
         "date": "2026-11-05",
-        "label": "Thu Nov 5 \u00b7 Plan the two projects",
-        "bring": "Your current work, personal interests and one ambitious experience you would like to make.",
-        "work": "Use AI to interview your interests and compare two concepts. Choose Dream, working promise and experiment; sketch responsibilities.",
-        "review": "Can a classmate identify the finished promise, the risk and an independent success check?",
-        "update": "Choose any language/framework for the creative app. Keep one project record; groups name owners and reviewers.",
+        "label": "Thu Nov 5 · Start the three products",
+        "bring": "Your current code, interests and one ambitious game idea.",
+        "work": "Introduce career research and portfolio design, the creative account/game journey and the customer-scenario menu.",
+        "review": "Compare two career/game directions. Choose a group customer and prepare discovery questions.",
+        "update": "Create three short records. Use any suitable stack and reuse earlier tests/pattern knowledge; Studios stay inside the game.",
         "due": [],
         "next": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "guide": {
-          "link": "/projects/creative-challenge",
-          "text": "Find your creative challenge"
+          "link": "/course/overview",
+          "text": "Your three products"
         },
         "example": {
-          "link": "/examples/agent-learning",
-          "text": "Two agent-learning records"
+          "link": "/examples/portfolio",
+          "text": "Two portfolio draft records"
         },
         "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting."
       },
       {
         "date": "2026-11-09",
-        "label": "Mon Nov 9 \u00b7 Plan workshop and peer questions",
-        "bring": "Two concepts, the chosen promise, architecture sketch, three to five checks and group responsibilities.",
-        "work": "Question the plan and largest uncertainty. Try a short pattern/design experiment in the selected app.",
-        "review": "Can another person trace input, rules/state and output, and explain what the first check would catch?",
-        "update": "Keep the selected scope, rejected option, stack reason and experiment stopping rule in the same record.",
+        "label": "Mon Nov 9 · Plan workshop and peer questions",
+        "bring": "Three role cards, two portfolio directions, the game/account plan and a chosen group customer.",
+        "work": "Planned architecture/Docker introduction using the same app, then portfolio/design review and customer discovery. Compare local/container startup; exact lesson timing will be confirmed.",
+        "review": "Can a peer identify the audience, required game journey and customer problem without coaching?",
+        "update": "Keep career/design notes with the portfolio; game checks and labeled customer notes stay in their own records.",
         "due": [],
         "next": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "guide": {
           "link": "/process/architecture",
@@ -531,27 +603,29 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": ""
+        "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets."
       },
       {
         "date": "2026-11-12",
-        "label": "Thu Nov 12 \u00b7 Review 1 target; start a working slice",
-        "bring": "The two project specs, chosen stacks and a new creative path to implement.",
-        "work": "Build one new creative journey beyond RPS001, or one useful journey in another app. Separate responsibilities enough to test.",
-        "review": "Check whether the expected result is independent of the code or AI claim.",
-        "update": "Link source, independent success/failure checks and the first design decision.",
+        "label": "Thu Nov 12 · Review 1 target; start a working slice",
+        "bring": "Portfolio research/design, game/account stories and the group’s agreed customer scope.",
+        "work": "Start the game account/result slice, the customer workflow and two small portfolio presentation options.",
+        "review": "Predict one successful task and one rejected action before testing.",
+        "update": "Link actual code/checks and current portfolio drafts; use the same three records.",
         "due": [
           "individual-1",
-          "group-1"
+          "group-1",
+          "portfolio-1"
         ],
         "next": [
           "individual-2",
           "group-2",
-          "studio-002"
+          "studio-002",
+          "portfolio-2"
         ],
         "guide": {
-          "link": "/process/architecture",
-          "text": "Design a testable slice"
+          "link": "/projects/game-app",
+          "text": "Account/game journeys"
         },
         "example": {
           "link": "/examples/individual",
@@ -561,16 +635,17 @@
       },
       {
         "date": "2026-11-16",
-        "label": "Mon Nov 16 \u00b7 Build workshop and cross-review",
-        "bring": "A working slice, the current tests, and one task for a reviewer.",
-        "work": "Implement and test the promised slice; compare a pattern-based design with a simpler alternative. Partners cross-review.",
-        "review": "Try a real task without coaching; give a specific strength and obstacle.",
-        "update": "Record the actual agent result, observed problem, design response and checks.",
+        "label": "Mon Nov 16 · Build workshop and cross-review",
+        "bring": "Accounts plus a playable game slice, group workflow code and two portfolio presentations.",
+        "work": "Test a saved game and account boundaries; cross-review the group slice and try portfolio reader tasks.",
+        "review": "Observe a real classmate, open a useful issue and compare the design alternatives.",
+        "update": "Record actual checks, pattern/AI decisions and peer findings; reuse game evidence for Studio 002.",
         "due": [],
         "next": [
           "individual-2",
           "group-2",
-          "studio-002"
+          "studio-002",
+          "portfolio-2"
         ],
         "guide": {
           "link": "/process/collaboration",
@@ -584,24 +659,26 @@
       },
       {
         "date": "2026-11-19",
-        "label": "Thu Nov 19 \u00b7 Review 2 target; integrate the build",
-        "bring": "Current individual/group slices and selected-app testing/design evidence.",
-        "work": "Integrate the promise. Introduce the architecture/refactoring Studio and explain the final AI-learning and peer-review record.",
-        "review": "Which responsibility boundary or failed expectation needs a change? Name a test that would catch the problem.",
-        "update": "Link focused Studio checks from the same project record; label unfinished work.",
+        "label": "Thu Nov 19 · Review 2 target; integrate the build",
+        "bring": "Current game/accounts, group slice and chosen portfolio presentation.",
+        "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
+        "review": "Which account/data boundary or customer assumption needs a test or change?",
+        "update": "Reuse the game evidence for the Studio; update customer notes and portfolio case studies.",
         "due": [
           "individual-2",
           "group-2",
-          "studio-002"
+          "studio-002",
+          "portfolio-2"
         ],
         "next": [
           "individual-3",
           "group-3",
-          "studio-003"
+          "studio-003",
+          "portfolio-3"
         ],
         "guide": {
-          "link": "/process/architecture",
-          "text": "Architecture and integration"
+          "link": "/projects/game-app",
+          "text": "Dashboard and account maintenance"
         },
         "example": {
           "link": "/examples/bot-lab",
@@ -611,16 +688,17 @@
       },
       {
         "date": "2026-11-23",
-        "label": "Mon Nov 23 \u00b7 Integration and review workshop",
-        "bring": "Integrated paths, setup instructions, and a task for each project.",
-        "work": "Check the integrated journey, a useful pattern/refactoring and the uncertain experiment. Decide what to keep, change or drop.",
-        "review": "A peer runs a task and explains the result/status in their own words.",
-        "update": "Record the actual revision, tests, observed problem and retest plan; explain AI success or disappointment.",
+        "label": "Mon Nov 23 · Integration and review workshop",
+        "bring": "Integrated account/game, customer workflow and portfolio with current links.",
+        "work": "Check persistence, dashboard, account updates and ownership. Resolve the customer change and test portfolio navigation.",
+        "review": "Try each product’s agreed task without coaching; compare expected with actual behavior.",
+        "update": "Record defects, actual tests and response/retest plans. Freeze scope before finishing week.",
         "due": [],
         "next": [
           "individual-3",
           "group-3",
-          "studio-003"
+          "studio-003",
+          "portfolio-3"
         ],
         "guide": {
           "link": "/process/collaboration",
@@ -634,19 +712,21 @@
       },
       {
         "date": "2026-11-30",
-        "label": "Mon Nov 30 \u00b7 Build snapshot; protected finishing work",
-        "bring": "Review 3 build links, selected-app integration, design decisions and unresolved issues.",
-        "work": "Capture the build snapshot, then repair, complete missed peer reviews and rehearse. No new topic.",
-        "review": "Observe a real task; choose a meaningful change and check it again.",
-        "update": "Keep the same URLs and source record; repair the promise and complete the AI-learning note.",
+        "label": "Mon Nov 30 · Build snapshot; protected finishing work",
+        "bring": "Three Review 3 snapshots, game integration checks and unresolved issues.",
+        "work": "Capture the snapshots; repair account/data, customer workflow and portfolio issues. Complete missed peer reviews; no new topic.",
+        "review": "Observe the changed task and rerun the affected checks.",
+        "update": "Keep the same three records and URLs; finalize actual AI-learning and contribution notes.",
         "due": [
           "individual-3",
           "group-3",
-          "studio-003"
+          "studio-003",
+          "portfolio-3"
         ],
         "next": [
           "individual-4",
-          "group-4"
+          "group-4",
+          "portfolio-4"
         ],
         "guide": {
           "link": "/process/quality",
@@ -660,15 +740,16 @@
       },
       {
         "date": "2026-12-03",
-        "label": "Thu Dec 3 \u00b7 Protected reviews and rehearsal",
+        "label": "Thu Dec 3 · Protected reviews and rehearsal",
         "bring": "All working projects, issue responses, final links and actual contribution notes.",
-        "work": "Finish repairs and real reviews; rehearse the architecture, a discriminating test and what you learned about agent coding.",
+        "work": "Finish repairs and real reviews for game, customer project and portfolio; rehearse the architecture, evidence and professional introduction.",
         "review": "Have a peer try the changed task again; verify the result and remaining limits.",
         "update": "Finalize the same record: actual checks, pattern choice and one next-time change. No new feature area.",
         "due": [],
         "next": [
           "individual-4",
-          "group-4"
+          "group-4",
+          "portfolio-4"
         ],
         "guide": {
           "link": "/process/quality",
@@ -682,14 +763,15 @@
       },
       {
         "date": "2026-12-06",
-        "label": "Sun Dec 6 \u00b7 Planned final-ready target \u2014 no class",
-        "bring": "The selected versions, existing records and final source revisions.",
+        "label": "Sun Dec 6 · Planned final-ready target — no class",
+        "bring": "The chosen game, customer workflow and portfolio; existing records and final source revisions.",
         "work": "No Sunday class is scheduled. This is the proposed final-ready cutoff.",
         "review": "Include actual feedback/change/retest evidence; do not invent a missing check.",
         "update": "Keep the same working links for the proposed class demos.",
         "due": [
           "individual-4",
-          "group-4"
+          "group-4",
+          "portfolio-4"
         ],
         "next": [],
         "guide": {
@@ -704,9 +786,9 @@
       },
       {
         "date": "2026-12-07",
-        "label": "Mon Dec 7 \u00b7 Planned regular-class Demo Day",
-        "bring": "Your assigned time if announced, both projects, source/spec and evidence.",
-        "work": "Demonstrate if scheduled; give useful feedback on classmates\u2019 work.",
+        "label": "Mon Dec 7 · Planned regular-class Demo Day",
+        "bring": "Your assigned time if announced, all three products, source/spec and evidence.",
+        "work": "Demonstrate if scheduled; give useful feedback on classmates’ work.",
         "review": "Explain your contribution, one choice, a check and a meaningful improvement.",
         "update": "Keep the same URLs and follow actual instructor feedback.",
         "due": [],
@@ -723,9 +805,9 @@
       },
       {
         "date": "2026-12-10",
-        "label": "Thu Dec 10 \u00b7 Planned regular-class Demo Day",
-        "bring": "Your assigned time if announced, both projects, source/spec and evidence.",
-        "work": "Demonstrate if scheduled; give useful feedback on classmates\u2019 work.",
+        "label": "Thu Dec 10 · Planned regular-class Demo Day",
+        "bring": "Your assigned time if announced, all three products, source/spec and evidence.",
+        "work": "Demonstrate if scheduled; give useful feedback on classmates’ work.",
         "review": "Explain your contribution, one choice, a check and a meaningful improvement.",
         "update": "Keep the same URLs and follow actual instructor feedback.",
         "due": [],
@@ -742,11 +824,11 @@
       },
       {
         "date": "2026-12-16",
-        "label": "Wed Dec 16 \u00b7 Announced final / redo block",
+        "label": "Wed Dec 16 · Announced final / redo block",
         "bring": "Confirmed presentation instructions and working project links.",
-        "work": "Remaining presentations and needed redos, 2:30\u20135 p.m. Eastern.",
+        "work": "Remaining presentations and needed redos, 2:30–5 p.m. Eastern.",
         "review": "Explain actual work and evidence; identify limits.",
-        "update": "Follow the instructor\u2019s confirmed final arrangements.",
+        "update": "Follow the instructor’s confirmed final arrangements.",
         "due": [],
         "next": [],
         "guide": {

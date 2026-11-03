@@ -1,6 +1,6 @@
 # Internships near NYC and Newark
 
-**Choose two leads, check eligibility, and pick one next step.** Include related software, implementation, and solutions roles. No exact-title Newark FDE internship was confirmed in this search.
+**For applications, choose two leads, check eligibility, and pick one next step.** Include related software, implementation, and solutions roles. No exact-title Newark FDE internship was confirmed in this search.
 
 Research checked **November 2, 2026**. Open the original listing before applying. “Not stated” means the reviewed source did not establish a deadline; it does not mean applications stay open indefinitely.
 
@@ -45,7 +45,7 @@ These links preserve earlier course research. **Their availability, dates and el
 
 </details>
 
-## Make a two-role comparison
+## Use these leads in your research
 
 For each role, record **link + date checked, location, program dates, deadline, eligibility, three skills, one piece of your evidence, and one gap**. If something is unclear, write “not confirmed” and name what you need to check.
 

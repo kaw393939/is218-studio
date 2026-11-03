@@ -8,13 +8,13 @@ For example, a service company receives incomplete requests. An FDE might talk w
 
 ## What IS218 helps you practice
 
-Turn a rule into code, test every outcome, connect a web interface to server behavior, and explain the result.
+Carry earlier programming and pattern practice into a creative account-based game, a simulated customer workflow and an evidence-based portfolio. Test rules, sessions and saved data; explain the result.
 
 | Professional habit | Your practice here |
 | --- | --- |
-| Learn what the user needs | Scope your individual application and your group’s business task. |
+| Learn what the user needs | Research your portfolio reader and interview the group’s simulated customer; label the simulation. |
 | Turn a need into behavior | Write a small spec with inputs, outputs, errors, and checks. |
-| Build and debug | Choose an appropriate architecture; test its rules, interactions and failure behavior. Authentication needs tests when the task uses it. |
+| Build and debug | Choose an appropriate architecture; test its rules, interactions and failure behavior. The creative final includes accounts, private saved scores and maintenance checks. |
 | Work with people | Use issues, branches, pull requests, and partner checks. |
 | Deliver and explain | Demonstrate the workflow, show checks, and name remaining limits. |
 
@@ -22,11 +22,11 @@ This is a foundation. FDE roles often expect more programming, databases, cloud 
 
 ## Choose a next step
 
-1. Compare two roles using [career exploration](/career/explore).
+1. Research three roles and compare two directions using [career exploration](/career/explore).
 2. Choose one skill gap that your current project can help you address.
 3. Show accurate evidence through [GitHub](/career/github), [LinkedIn](/career/linkedin), and your [résumé](/career/resume).
 
-Networking and applications are career goals, not extra graded deliverables unless Canvas assigns them. You are assessed on your work and process, not on getting hired.
+Career research is the starting point for the planned [portfolio project](/projects/portfolio). Compare FDE with [other AI roles across industries](/career/ai-roles). Networking and applications are professional next steps; assessment concerns your research, work and process, not getting hired.
 
 ## Start a professional conversation
 

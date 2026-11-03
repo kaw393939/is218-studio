@@ -4,6 +4,8 @@ outline: false
 
 # Two group projects, four reviews each
 
+**Earlier workflow drafts:** these written examples illustrate work division and review, but do not complete the updated group task. Start with [the prepared customer menu](/projects/customer-simulator), record the selected character and discovery, and implement its agreed persistent workflow. The static previews below have no such backend or completed customer interaction.
+
 Read one record first. Notice how a small workflow grows through four reviews, rather than becoming four separate projects.
 
 **Everything about these teams, classmates, issue numbers, check results and conversations is fictional.** These are filled teaching scenarios, not reports of real collaboration or completed student work. Scores assess the actual written packet, available preview and executed preview notes; fictional team/peer claims earn no execution or human-review credit. They use the [proposed future-review rubric](/course/milestones#how-the-worked-examples-are-assessed); they are not official grades or changes to the current RPS rubric.

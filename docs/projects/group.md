@@ -1,37 +1,42 @@
-# Build one useful business workflow together
+# Group Customer Studio: build for a simulated customer
 
-Choose a realistic product or service and make **one useful task** work from beginning to end. A service inquiry, content approval, equipment request or small order workflow is enough. An AI product is optional; you may use AI coding assistance to build a traditional service.
+**Act as a small FDE team: understand a customer's problem, agree on one useful workflow, then build and check it.** Your customer is an AI character with a prepared business situation. Your teammates and peer reviewers are real people.
 
-Use your instructor-approved team. Any language, framework or engine is welcome when you can run, test and explain the result. Start from existing experience and tools. A large catalog, payments, live customer data or a new framework is not a requirement by default. Define real program behavior and checks. If the approved workflow needs stored data or permissions, specify and verify the actual backend behavior; a static form alone cannot prove persistence or access control.
+Choose one industry scenario in the [customer simulator](/projects/customer-simulator): a repair shop, a volunteer organization or a clinic's nonclinical supply desk. The kit has an `AGENTS.md` file to start the customer conversation in your own agent. No API integration is needed. All organizations, people and records in the kit are fictional.
 
-## Agree on a small spec
+## One workflow, any language or framework
 
-Define the user and business need, compare two feasible approaches, and choose one. Write three to five stories with checkable outcomes. State what is deferred and which data is synthetic. A simulated customer brief may help clarify scope; label its answers and still get real peer feedback.
+Compare two feasible approaches with the customer. Agree on **three to five stories**, the data and allowed status changes, and clear success/failure checks. Build a real program that saves the workflow's records and keeps their status consistent after restart. A decorated form or browser role selector does not establish the finished workflow.
 
-Example: a campus organization requests a room setup. The application collects the needed details and shows **pending review**, rather than pretending a preferred time is a confirmed booking. A single form and a clear status/history can provide a meaningful path.
+Choose any language/framework you can run, test and explain. Use synthetic data. Keep the scope small: no payments, live customer data, automated messages or external integrations unless specifically agreed and manageable. A submitted request is **pending**, not a confirmed repair, volunteer place or fulfilled supply order.
 
 ## Share design, development and QA
 
-| Member | Coherent slice | Cross-review |
+| Member | Example useful slice | Cross-review |
 | --- | --- | --- |
-| A | Research/form wording, request validation and success/error states. | Try B's history/status path and check its meaning. |
-| B | Status/history design and implementation, readable confirmation. | Try A's valid/missing/unsupported-input paths. |
-| Both | Approve the spec, integrate early, run the full path and explain their work. | Rotate owner/reviewer roles; record actual findings. |
+| A | Request form, validation and clear success/error states; matching implementation and tests. | Try B's queue and status changes, including a rejected transition. |
+| B | Coordinator queue, status/history and persistence; matching implementation and tests. | Try A's valid, missing and unsupported inputs. |
+| Both | Discover the need, compare designs, agree stories, integrate early and explain their own work. | Rotate owner/reviewer roles; test the full path and record real findings. |
 
-This is an example, not a fixed job assignment. Aim for comparable effort. Everyone makes design decisions, implements meaningful work and checks another's work. Commit counts do not measure equal contributions.
+For a trio, split a third coherent slice such as review/history and rebalance the effort. Everyone makes design decisions, implements meaningful work and checks someone else's work. Compare effort and responsibility; commit counts do not measure equal contribution.
 
-Practice testing, architecture and a useful pattern/design experiment as you go. A request validator, stateful workflow or replaceable data source can provide a concrete design question. Keep the AI expectation/result/next-time note in the shared record; each member explains their own decisions. [Engineering guide](/process/architecture).
+Sketch the actual architecture and try **one useful pattern** against a simpler design. A validator strategy or workflow state boundary can provide a real design question. Use meaningful automated tests and record the AI suggestion, your inspection and what you would do differently. [Engineering guide](/process/architecture).
 
 ## Four reviews, one shared record
 
-Understand/plan → first slice → integrated build → improve/handoff. Keep one record and one shared repository. Link the current work, owners/reviewers, relevant PRs, actual checks and limits. Canvas will specify the submission arrangement when these planned reviews are posted.
+| Review | New evidence |
+| --- | --- |
+| **1 · Plan** | Selected customer; two scope options; agreed three to five stories; data/status rules; architecture; owners and reviewers. |
+| **2 · First working slice** | One stored request flows into the coordinator queue. Real positive/negative checks; actual design/pattern experiment and member contributions. |
+| **3 · Integrated build** | Agreed workflow works across its parts. Respond to the kit's one bounded customer change, or record a justified deferral. Freeze new scope before the protected finish week. |
+| **4 · Improve and hand off** | Real peer issue → meaningful change → retest. Reproducible setup, selected revision, checks, limits and a customer acceptance conversation grounded in actual evidence. |
 
-Give a real classmate a task without coaching. Record what happens, respond in an issue, make a meaningful change and retest. A roleplayed partner or AI approval cannot replace real collaboration.
+Keep one shared repository and evolving spec. `customer-kit/CUSTOMER-NOTES.md` records the simulated customer's agreements; link it from the [project record](/templates/project-record) instead of repeating it. An AI customer's approval is a simulated scope decision, not proof that code works or a real person finds it usable.
 
-## See two complete records
+Give a real classmate a task without coaching. Record what happens, respond in a GitHub issue, make a meaningful change and retest. The customer simulation cannot replace that review or genuine team collaboration. [Review routine](/process/collaboration).
 
-[DeskReady and ClubKit](/examples/group) show different scopes, work plans, four stages and proposed rubric feedback. All peer/team stories are fictional teaching scenarios.
+## Examples and dates
 
-<a href="/is218-studio/examples/deskready/a.html" target="_self" data-native-route="true">Try DeskReady A</a> · <a href="/is218-studio/examples/deskready/b.html" target="_self" data-native-route="true">Compare B</a>. The browser-only preview makes synthetic inquiries; it does not reserve a room, send a message or prove backend persistence.
+[DeskReady and ClubKit](/examples/group) are earlier, partial teaching records. Their static previews illustrate wording and A/B design; they do **not** meet the new customer kit's stored-workflow contract. Use the kit's stories and your own executed checks for your project.
 
-[Review routine](/process/collaboration) · [Short record](/templates/project-record) · [Section dates](/course/schedule).
+[Start the customer simulator](/projects/customer-simulator) · [Section dates](/course/schedule). Future dates and grading arrangements remain planned until posted in Canvas; the current RPS-001 assignment is unchanged.

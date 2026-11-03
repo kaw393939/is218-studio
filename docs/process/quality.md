@@ -13,7 +13,7 @@
 
 Expected answers should come from the spec or an independent example. A test that calculates its expected answer using the same function being tested may repeat the same mistake.
 
-Accounts, a database or a server belong in the test plan when your promised experience uses them. Verify actual enforcement or persistence when claimed. A static creative app can instead demonstrate its own rules, state changes and interface behavior.
+The creative final requires real account/session, private saved-score and maintenance checks. Test anonymous and second-user requests directly, persisted results, password/session changes and logout. [Five required journeys](/projects/game-app). Bot Lab checks a game core only. A static portfolio instead needs reader, link, mobile and keyboard checks; use the checks appropriate to each product.
 
 ## Add evidence at each review
 

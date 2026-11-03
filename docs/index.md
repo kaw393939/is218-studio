@@ -12,18 +12,18 @@ hero:
       text: See the whole plan
       link: /course/overview
 features:
-  - title: Your individual application
-    details: Choose any language or framework. Turn RPS, another simple game or your own idea into a creative experience.
+  - title: Creative Extravaganza
+    details: Choose any language or framework. Build a creative game with accounts, saved scores, a private dashboard and account maintenance.
     link: /projects/individual
     linkText: See the individual project
-  - title: Your group business workflow
-    details: Solve one useful task together. Share design, development, and testing fairly.
+  - title: Group Customer Studio
+    details: Choose a prepared customer, discover a useful workflow, and share design, development and QA.
     link: /projects/group
     linkText: See the group project
-  - title: Your Studios
-    details: Practice a focused skill in the app you already own. Reuse that evidence in project reviews.
-    link: /projects/studios
-    linkText: Continue the current Studio
+  - title: Your professional portfolio
+    details: Explore FDE and other AI careers. Design a site with your projects, résumé, GitHub and LinkedIn.
+    link: /projects/portfolio
+    linkText: Start the portfolio
 ---
 
 **Start with your section:** [001 · Wednesday/Friday](/course/section-001) · [003 · Monday/Thursday](/course/section-003).
@@ -36,4 +36,4 @@ features:
 
 In the first class, we introduce a small task. Next class, bring your work, try it with a classmate, record issues and make changes. Submit when the next step starts, then keep building from that same work. [See the steps](/course/milestones).
 
-No new portfolio project is required for IS218. Use your actual code, tests and decisions to strengthen the professional materials you already have. [Explore the career connection](/career/fde).
+[Studios](/projects/studios) practice focused skills inside the creative game. [Career research](/career/explore) starts the portfolio; [choose a customer](/projects/customer-simulator) to start the group project. Reuse the same records and evidence.

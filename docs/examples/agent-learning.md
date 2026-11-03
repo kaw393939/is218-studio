@@ -4,6 +4,8 @@ outline: [2, 2]
 
 # What did you learn from building with an agent?
 
+These fictional notes concern **creative-core experiments**. They do not demonstrate the final application's required account, saved-score, dashboard or maintenance work; use [the full app contract](/projects/game-app) for that scope.
+
 **Explain the gap between what you expected and what happened.** A successful feature and an abandoned experiment can both teach you something useful. Neither replaces a working project promise, meaningful checks or your own understanding.
 
 The students, builds, observations and results below are **fictional teaching scenarios**. No experiments or tests were executed for these records, and no code, CI receipts or real peer evidence is attached. They model concise notes; they do not establish that an application passed. Your submission needs actual evidence at its actual revision.
@@ -47,7 +49,7 @@ The students, builds, observations and results below are **fictional teaching sc
 | **Agent task** | I asked it to extend my local prototype into a room-based game. My request did not specify who owns the result or when a round becomes final. |
 | **Observed result in the scenario** | The first demonstration looks impressive. When I submit from both views quickly, the score changes twice and the screens disagree after restart. I cannot yet explain how clients agree on the current round. I stop the experiment at the agreed time. |
 | **Test and expectation** | Submit both moves for the same round → exactly one committed result; repeat a submission → no second score change; submit an old round after restart → reject it. The scenario's prototype fails these expectations. These are fictional observations, not executed test receipts. My real local version would still need its own rule, turn, completion, repeat-click and restart checks. |
-| **Design / architecture decision** | The generated prototype lets each client update its own authoritative score. A shared game needs one agreed owner of match state and explicit round identifiers/transitions. I record that architecture gap rather than adding more event handlers I cannot explain. For the final local promise, one match-state component owns turns and results; the spectator view only displays them. |
+| **Design / architecture decision** | The generated prototype lets each client update its own authoritative score. A shared game needs one agreed owner of match state and explicit round identifiers/transitions. I record that architecture gap rather than adding more event handlers I cannot explain. For this local game-core slice, one match-state component owns turns and results; the spectator view only displays them. |
 | **Kept / dropped** | Keep the local tournament, spectator view and clear results. Drop network play from this release and label it experimental. I do not call a local game “working online multiplayer.” |
 | **Next time** | Ask AI to map state ownership before writing connection code. Prototype one round across two clients first, including repeated and out-of-order events. Make it pass those checks before adding tournament screens. |
 

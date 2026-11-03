@@ -4,11 +4,22 @@
 
 ## Trace one action
 
-<ArchitectureSketch />
+<ArchitectureSketch accounts />
 
-Sketch your actual app, then point to the matching code. For an RPS broadcast, a click becomes a move, the rules update the match, and the screen displays the result. Changing the headline should not change who wins. A failed network experiment should not destroy a local match that already works.
+Sketch your actual app, then point to the matching code. For an RPS broadcast, a click becomes a move, the rules update the match, and the screen displays the result. Changing the headline should not change who wins. The backend owns access and the authoritative saved result; the browser shows it. Keep an optional AI experiment separate from the reliable account/game journey.
 
-The sketch is a thinking tool, not a required set of servers, classes or folders. A small app can use a few functions/modules. [Fowler explains separating presentation, domain decisions and data access](https://martinfowler.com/bliki/PresentationDomainDataLayering.html).
+The creative final needs backend enforcement and persistent data, but not a class hierarchy or a particular folder layout. Use supported account components and small testable functions/modules. The portfolio may use a simpler static architecture. [Fowler explains separating presentation, domain decisions and data access](https://martinfowler.com/bliki/PresentationDomainDataLayering.html).
+
+## Next week: explore how the app runs
+
+Architecture describes responsibilities; Docker packages an application and its dependencies so it can run in a consistent environment. The planned class lesson uses the same game or backend, with a small comparison:
+
+- Run a known user task locally and predict its result.
+- Inspect the Docker setup and run the equivalent task in its container environment.
+- Explain ports, configuration and where saved data lives. Container removal should not erase the account/history data you promised to retain.
+- Record an actual result and a limitation. A container running locally does not establish a public deployment.
+
+Use supported tooling for your chosen stack; a game engine may use containers for its backend or tests. Exact lesson timing and any graded Docker evidence will be confirmed. [Docker overview](https://docs.docker.com/get-started/docker-overview/) · [Docker storage volumes](https://docs.docker.com/engine/storage/volumes/).
 
 ## Try a pattern on a real problem
 

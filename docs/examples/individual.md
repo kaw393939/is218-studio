@@ -4,6 +4,8 @@ outline: false
 
 # Two individual project records
 
+**Scope update · November 3:** the final creative game now includes [accounts, saved scores, dashboard and account maintenance](/projects/game-app). The records below demonstrate **partial game-core drafts**, not complete final products. Their browser source does not implement those later requirements. Expand the same record and app; do not claim the missing backend work is complete.
+
 Start with one record that fits your current stage. Both identities and peer interactions are **fictional teaching scenarios**. Scores assess the written record and implementation evidence actually provided here, not the fictional person’s claimed execution. Imagined peer results earn no checked-evidence credit. These are not real Canvas grades or evidence of individual mastery. [How the proposed rubric works](/course/milestones#how-the-worked-examples-are-assessed).
 
 These are developing creative-project records, assessed against the November 3 direction: any language/framework, a working promise, tests, architecture, a pattern experiment and agent-learning evidence. The browser RPS preview is valid evidence of its own small behavior; it does not complete the separately posted Python RPS-001 task. [Bot Lab](/examples/bot-lab) supplies a richer working technical reference.
@@ -19,7 +21,7 @@ These are developing creative-project records, assessed against the November 3 d
 
 **Two approaches:** A puts the choices first, with a short explanation beside the result. B puts a result overview first and the controls below. Both use the same nine outcomes and wording. I choose A provisionally because it starts the task sooner; I will compare both with the same losing round.
 
-**Stories/checks:** a player can choose a move and see both choices; all nine fixed matchups match the assignment table; a losing result explains the relationship; a keyboard user can make another round. For this promise I choose browser JavaScript and defer scores, sound and accounts. Another student may choose a different stack. My next design experiment will compare one replaceable explanation function with scattered presentation conditions; its implementation and tests are still pending.
+**Stories/checks:** a player can choose a move and see both choices; all nine fixed matchups match the assignment table; a losing result explains the relationship; a keyboard user can make another round. For this promise I choose browser JavaScript and defer sound while account/result/dashboard work is still pending. Another student may choose a different stack. My next design experiment will compare one replaceable explanation function with scattered presentation conditions; its implementation and tests are still pending.
 
 **AI/ownership:** AI may draft options and code; I predict outcomes, inspect the changes and explain tests. Keep these notes in the RPS `SPEC.md`.
 
@@ -27,7 +29,7 @@ These are developing creative-project records, assessed against the November 3 d
 
 The described slice handles one round through the existing core and interface. I compare the result to literal expected outcomes rather than asking the same winner function to generate its own expected answer. Starter checks alone do not establish the rules.
 
-**Supplied evidence:** the browser source separates rules from UI, and the preview receipt records independent outcomes and real browser checks. **Still needed:** the architecture explanation, actual pattern comparison, reproducible check/CI links for the evaluated revision and concise agent-learning note. Any server or storage claim would need corresponding checks; this promise makes neither claim. RPS-001 still needs its own exact Python receipts.
+**Supplied evidence:** the browser source separates rules from UI, and the preview receipt records independent outcomes and real browser checks. **Still needed:** the architecture explanation, actual pattern comparison, reproducible check/CI links for the evaluated revision and concise agent-learning note. Any server or storage claim would need corresponding checks; this partial slice makes neither claim; both are required in the final application. RPS-001 still needs its own exact Python receipts.
 
 ## 3 · Integrated build
 
@@ -47,8 +49,8 @@ The final record links the chosen/alternate version, exact source revision, setu
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
 | 1 | 22 | 22 | 17 | 20 | **81** | The written scope/comparison are useful. Add the architecture sketch and independent prediction; the audience need remains a hypothesis. |
 | 2 | 18 | 21 | 18 | 18 | **75** | A browser implementation and narrow actual preview checks exist. Architecture/pattern practice and revision-specific delivery receipts remain incomplete; listing planned evidence earns no execution credit. |
-| 3 | 16 | 22 | 15 | 18 | **71** | The supplied A/B previews are coherent. The architecture/pattern experiment and actual peer observation remain missing; a backend is not required for this browser-only promise. |
-| 4 | 12 | 22 | 8 | 18 | **60** | The reasoning is clear, but the human issue/change/retest is fictional and earns no peer-review evidence credit. The pattern/agent-learning record and complete handoff receipts remain missing. |
+| 3 | 8 | 22 | 15 | 18 | **63** | The supplied A/B previews are coherent. The architecture/pattern experiment and actual peer observation remain missing; required accounts, saved scores, dashboard and maintenance are absent. |
+| 4 | 5 | 22 | 8 | 18 | **53** | The reasoning is clear, but the human issue/change/retest is fictional and earns no peer-review evidence credit. The pattern/agent-learning record and complete handoff receipts remain missing. |
 
 **What would raise the later scores:** complete the architecture/pattern experiment and short agent-learning note; link actual selected-stack checks and revision; obtain a real peer task, change and retest. Explain the code independently. Completing RPS-001 remains a separate baseline requirement.
 
@@ -67,7 +69,7 @@ The final record links the chosen/alternate version, exact source revision, setu
 
 **Two approaches:** A uses familiar word buttons; B adds gesture illustrations with the same text labels and rule logic. Choose A first because a missing illustration should not prevent playing. Defer sound and animation. The two approaches do not require two servers or different rules.
 
-My initial stories omit error behavior. Feedback should ask what happens when the rules receive an unsupported move or a gesture is ambiguous, and what an actual test would assert. A server is optional for this creative promise; the separately posted RPS task keeps its server checks.
+My initial stories omit error behavior. Feedback should ask what happens when the rules receive an unsupported move or a gesture is ambiguous, and what an actual test would assert. This is a game-core proposal only; the final project still needs backend-enforced accounts and saved results. The separately posted RPS task keeps its own checks.
 
 ## 2 · First working slice
 

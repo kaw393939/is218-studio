@@ -4,11 +4,11 @@ outline: [2, 3]
 
 # RPS Bot Lab: a bigger idea, a small reliable slice
 
-**Dream:** a game lab where people discover how an opponent predicts them. **Finished promise:** choose one of two bots, play a first-to-two match, see why each round happened, and reset. **Experiment:** can a frequency-based bot exploit a player's habits?
+**Dream:** a game lab where people discover how an opponent predicts them. **Game-core slice:** choose one of two bots, play a first-to-two match, see why each round happened, and reset. **Experiment:** can a frequency-based bot exploit a player's habits?
 
 <a href="/is218-studio/examples/bot-lab/a.html" target="_self" data-native-route="true">Play the Bot Lab →</a>
 
-This is an authored, runnable teaching reference. It is not a real student's submission, a claimed human review, or a completed Python RPS-001 assignment. Its checks demonstrate the browser game's logic; they do not replace the posted baseline assignment or later Studio requirements.
+This is an authored, runnable teaching reference. It is not a real student's submission, a claimed human review, or a completed Python RPS-001 assignment. Its checks demonstrate the browser game's logic. **The expanded final project still needs login, saved scores, a private dashboard and account maintenance.** [See the full journey](/projects/game-app). Those features are not implemented in this preview.
 
 ## Try it before reading the code
 
@@ -24,7 +24,7 @@ The second bot is a **deterministic frequency heuristic**, not a trained model o
 | --- | --- | --- |
 | Standard nine RPS outcomes; first to two; ties; clear choices/results; reset; keyboard controls. | Compare a fixed cycle with a habit guess. Change how the bot explains its decision. | Accounts, online multiplayer, camera gestures, a tournament service, and claims about learning outcomes. |
 
-You could imagine a sci-fi duel, a museum exhibit about prediction, or a coaching tool. Keep the first playable promise small enough to finish and check. A striking story does not need a large backend.
+You could imagine a sci-fi duel, a museum exhibit about prediction, or a coaching tool. Keep the first playable promise small enough to finish and check. This slice can be built and tested before connecting the required account/backend journey.
 
 ## One useful pattern, three small modules
 
