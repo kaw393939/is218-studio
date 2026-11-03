@@ -23,6 +23,17 @@ jobs:
       - run: npm ci
       - run: npm run check
       - run: npm run check:examples
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Install runnable example dependencies
+        run: python -m pip install -r docs/public/examples/full-game/requirements.txt
+      - name: Check runnable example
+        working-directory: docs/public/examples/full-game
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: python -B -m pytest -q -p no:cacheprovider tests
+      - run: python -B docs/public/examples/full-game/package.py --check
       - run: npm run docs:build
       - run: npm run check:built
       - uses: actions/upload-pages-artifact@v3

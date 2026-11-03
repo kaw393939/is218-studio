@@ -14,9 +14,16 @@ This is the IS218 portfolio brief. Reuse your existing website if you have one; 
 
 A **case study** is a short project story: problem → your decisions and contribution → checked result → what you learned. Link to the existing specs, issues, PRs and checks instead of copying every development note. Show current group progress until that project is finished; label planned work and update the same case study later.
 
+## Start with a job that interests you
+
+Find one original employer posting. What would you actually do in that job? Write three responsibilities and one skill you want to build. Then use the [career research task](/career/explore) to complete the three-role comparison for your planning hand-in.
+
+<details>
+<summary>Career research → audience → design → build → review</summary>
+
 ## Use this small design process
 
-Keep one short portfolio record in the repository. Each step informs the next; you do not need separate reports for each heading.
+Keep one short public portfolio record in the repository with your chosen audience, goals and project evidence. Submit the full role comparison and personal reflection privately in Canvas; do not copy them into the public record. Each step informs the next; no separate report per heading is needed.
 
 ### 1. Research three roles and compare two directions
 
@@ -85,6 +92,9 @@ Give a real peer this task: **“Find my individual project, tell me what I did 
 Record the observation in a GitHub issue in **your portfolio repository**. Make at least one meaningful change, link the revision, repeat the affected task, and record the actual result. A broken link, unclear contribution or hidden résumé matters more than “I like blue.” Use the [review routine](/process/collaboration) and [issue format](/process/github-feedback).
 
 Choose the finished version. Check its links, layout, keyboard access and résumé file. Keep the full career reflection private when it includes personal circumstances; publish suitable goals and project evidence.
+
+
+</details>
 
 ## Keep the workload connected
 

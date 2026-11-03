@@ -1,54 +1,46 @@
-# Three projects. One professional process.
+# Three projects. Skills you can show.
 
-**Make creative software, work with a simulated customer, and show what you can do.** Choose any language or framework you can run, test and explain. Use AI to attempt a bigger idea, then take responsibility for the result.
+**Build something you care about, improve it with other people, and explain what you learned.** Start with [Section 001](/course/section-001#before-next-class) or [Section 003](/course/section-003#before-next-class). Your class card tells you the next action.
 
 ## Your three finished products
 
-| Product | What it demonstrates | Start here |
-| --- | --- | --- |
-| **Creative Extravaganza · individual game** | RPS or another simple game with real accounts, saved scores, a private dashboard and account maintenance. Keep an ambitious theme and one bounded experiment. | [Game brief](/projects/individual) |
-| **Group Customer Studio** | A useful workflow for one prepared customer scenario. Interview the simulated customer, agree scope, share implementation and respond to feedback. | [Group brief](/projects/group) |
-| **Professional portfolio** | Research FDE and other AI careers, choose an audience, design two directions and present your projects, résumé, GitHub and LinkedIn. | [Portfolio brief](/projects/portfolio) |
-
-The portfolio can improve a site you already own. Keep one evolving record per product. Studios practice engineering inside the creative game; they reuse its source, tests and evidence.
-
-## Use what you already learned
-
-| Earlier assigned work | Reuse now |
+| Make this | What you can show someone |
 | --- | --- |
-| Python, Git and testing | Reproducible setup, meaningful expectations and reviewed revisions. |
-| OOP and statistics calculators | Separate responsibilities; explain a useful pattern or simpler alternative. |
-| CLI calculator and GitHub Actions | Trace input → rules → result; test errors and inspect CI. |
-| AI Futures and RPS-001 | Compare your expectations with what AI actually delivers. Predict, inspect, test and explain. |
+| **[Creative Extravaganza](/projects/individual)** | Your take on RPS or another simple game, with accounts, saved scores, dashboard and account maintenance. |
+| **[Group Customer Studio](/projects/group)** | A useful workflow built with teammates for one prepared customer scenario. |
+| **[Your portfolio](/projects/portfolio)** | Your career direction, projects, résumé, GitHub and LinkedIn. Improve an existing site if you have one. |
 
-Earlier calculator tasks asked you to type the code to learn the mechanics. RPS and the later projects permit agent coding with your own decisions, predictions, review and evidence. Follow each posted assignment's rules.
-
-## Follow one class at a time
-
-<ProcessFlow />
-
-**Introduce → next class: work and review → submit and carry forward.** Come ready to participate as both owner and reviewer. Use GitHub issues to record actual observations, decisions and retests. Follow the syllabus and approved accommodations.
-
-Reviews 1–4 mean **Plan → first slice → integrated build → improve/handoff**. Both middle reviews develop the Build phase. Compare two meaningful options without making two separate full applications. [Your dates](/course/schedule) · [What to hand in](/course/milestones).
+[See the working game](/examples/full-game) · [Meet the customers](/projects/customer-simulator) · [See a short update](/examples/).
 
 ## This week and next week
 
-**This week:** review the current RPS Studio and start all three products: career research/portfolio direction, two creative-game concepts, and a selected group customer with discovery questions.
+**This week:** review RPS-001; find an interesting AI job, compare two game ideas and choose a group customer.
 
-**Next week, planned:** use class to explore architecture and Docker with the same application. See how the interface, backend and data connect; compare normal local startup with a containerized run, then check the same behavior. Docker packages an application and its dependencies; it does not replace game rules, account design or tests. The exact lesson day and any graded Docker evidence will be confirmed in Canvas.
+**Next week, planned:** use the same app to explore architecture and Docker. Work with classmates and finish the first research/planning cycle. Exact lesson timing will be confirmed in Canvas.
 
-Keep the first research/planning review targets shown on [your schedule](/course/schedule). The new teaching topic supports the ongoing projects; it does not restart them.
+## Follow one class at a time
+
+We introduce the task → next class you work, get feedback and improve → hand in the current work as the next step begins. Keep the same project records. Use GitHub to track a feature or feedback, link the change and check the result.
+
+## Why this prepares you for professional work
+
+You will have a project story: **the need, your decision, what you built and how you checked it.** That is useful in a conversation about an internship, AI role or client project. [Explore the careers](/career/explore).
+
+<details>
+<summary>Earlier work, final requirements and schedule details</summary>
+
+## Use what you already learned
+
+Reuse Python/Git/testing, your OOP and pattern work, the CLI calculator and GitHub Actions. Earlier tasks asked you to type code to learn the mechanics. Later agent-assisted work asks you to make decisions, inspect output and check the result. Follow each posted task's rules.
 
 ## Keep ambition and scope together
 
-Define a **Dream**, a **working promise** and an **experiment**. The game promise includes the required account/result journey; its theme, opponent, story or interaction is yours. The group chooses one prepared customer and a small agreed workflow. Career research guides the portfolio's audience and design. [Find a creative angle](/projects/creative-challenge) · [Explore AI careers](/career/explore).
-
-These are foundations for customer-facing engineering: understand a need, deliver, check and explain. An FDE or AI job can require deeper data, integration and production experience. [See the career connection](/career/fde).
+Choose your language/framework. Keep a bigger creative idea and a small finished promise that includes the account/game requirements. Try one uncertain experiment; explain what worked or disappointed. Compare two meaningful approaches and use real peer feedback. [Full brief](/projects/individual) · [Engineering help](/process/architecture).
 
 ## Posted and planned
 
-**Posted:** RPS-001, with its supplied Python starter, original scope, checks, deadline and rubric. **Planned:** the three-product reviews and later Studios described here. The instructor's updated November 3 direction adds the portfolio and requires accounts, scores, dashboard and maintenance in the later creative game. Future Canvas briefs must match before grading starts; category weights are unchanged.
+RPS-001 keeps its supplied Python starter, original scope, checks, deadline and rubric. Later reviews and Studios remain planned until Canvas posts them; no category weights change. [What to hand in and the rubrics](/course/milestones).
 
-**Nov 30–Dec 4 is finishing time:** no new topic. The announced final/redo block is **Dec 16, 2:30–5 p.m. Eastern**. [Demo details](/demo-days).
+Nov 30–Dec 4 is finishing/review time. The announced final/redo block is Dec 16, 2:30–5 p.m. Eastern. [Dates](/course/schedule) · [Demo details](/demo-days).
 
-**Start now:** open [your next class](/course/schedule) and its linked task. You do not need to read the whole site.
+</details>

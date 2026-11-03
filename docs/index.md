@@ -2,38 +2,38 @@
 layout: home
 hero:
   name: IS218 Studio
-  text: Build. Check. Explain.
-  tagline: Dream bigger. Build a working promise. Use tests, patterns and architecture to learn what AI can help you make.
+  text: Build something you want to show.
+  tagline: Make a game. Work with a customer. Use AI, test your work, and build a story for your next opportunity.
   actions:
     - theme: brand
-      text: Find my next class
-      link: /course/schedule
+      text: Section 001 · My next class
+      link: /course/section-001#before-next-class
     - theme: alt
-      text: See the whole plan
-      link: /course/overview
+      text: Section 003 · My next class
+      link: /course/section-003#before-next-class
 features:
   - title: Creative Extravaganza
-    details: Choose any language or framework. Build a creative game with accounts, saved scores, a private dashboard and account maintenance.
+    details: Make RPS or another small game your own—with accounts, saved scores and a dashboard.
     link: /projects/individual
-    linkText: See the individual project
+    linkText: See the game brief
   - title: Group Customer Studio
-    details: Choose a prepared customer, discover a useful workflow, and share design, development and QA.
+    details: Choose a customer, ask good questions and build one useful workflow with your team.
     link: /projects/group
-    linkText: See the group project
+    linkText: Meet the customers
   - title: Your professional portfolio
-    details: Explore FDE and other AI careers. Design a site with your projects, résumé, GitHub and LinkedIn.
+    details: Explore AI careers and show your projects, résumé, GitHub and LinkedIn.
     link: /projects/portfolio
-    linkText: Start the portfolio
+    linkText: Start your portfolio
 ---
 
-**Start with your section:** [001 · Wednesday/Friday](/course/section-001) · [003 · Monday/Thursday](/course/section-003).
+## Start with one class
 
-**Posted or planned?** RPS-001 is an existing Canvas assignment. Later review and Studio dates on this site are **planning targets** until Canvas posts them. Canvas holds official deadlines, submissions, grades and private questions.
+Open your section above. The card shows **what to do, when to hand it in, and the points when posted**. You will have class time to work, get feedback and improve.
 
-[Find an idea with AI](/projects/creative-challenge) · [Practice architecture and patterns](/process/architecture).
+This week: review RPS-001 and choose a first direction for each project. Architecture and Docker teaching is planned for next week using the same application.
 
-<ProcessFlow />
+**See what you can build:** [run the complete game example](/examples/full-game). Sign in, play, save a result and see your dashboard. Use it to understand the pieces, then make your own choices.
 
-In the first class, we introduce a small task. Next class, bring your work, try it with a classmate, record issues and make changes. Submit when the next step starts, then keep building from that same work. [See the steps](/course/milestones).
+**Why it matters:** you will have work you can demonstrate and explain in an internship or client conversation.
 
-[Studios](/projects/studios) practice focused skills inside the creative game. [Career research](/career/explore) starts the portfolio; [choose a customer](/projects/customer-simulator) to start the group project. Reuse the same records and evidence.
+[The whole plan](/course/overview) · [What to hand in](/course/milestones) · [Examples](/examples/). Canvas holds official assignments and grades; future targets here remain planned until posted.

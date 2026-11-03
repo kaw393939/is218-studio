@@ -10,7 +10,8 @@
         "date": "2026-11-04",
         "time": "11:59 p.m.",
         "status": "posted",
-        "assignmentId": 768166
+        "assignmentId": 768166,
+        "points": 100
       },
       {
         "key": "individual-1",
@@ -135,7 +136,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "RPS-001 is due at 11:59 p.m., not before this class. Future targets are planned until Canvas posts them."
+        "note": "RPS-001 is due at 11:59 p.m., not before this class. Future targets are planned until Canvas posts them.",
+        "win": "Make a round work, explain a test, and show the code you checked."
       },
       {
         "date": "2026-11-06",
@@ -158,7 +160,8 @@
           "link": "/examples/portfolio",
           "text": "Two portfolio draft records"
         },
-        "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting."
+        "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting.",
+        "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
       },
       {
         "date": "2026-11-11",
@@ -181,7 +184,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets."
+        "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets.",
+        "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
       },
       {
         "date": "2026-11-13",
@@ -209,7 +213,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": ""
+        "note": "",
+        "win": "Show one working path from sign-in to a saved game result."
       },
       {
         "date": "2026-11-18",
@@ -233,7 +238,8 @@
           "link": "/examples/bot-lab",
           "text": "Bot Lab architecture example"
         },
-        "note": ""
+        "note": "",
+        "win": "Show one working path from sign-in to a saved game result."
       },
       {
         "date": "2026-11-20",
@@ -262,7 +268,8 @@
           "link": "/examples/bot-lab",
           "text": "Bot Lab design and checks"
         },
-        "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week."
+        "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week.",
+        "win": "Show one working path from sign-in to a saved game result."
       },
       {
         "date": "2026-11-25",
@@ -286,7 +293,8 @@
           "link": "/examples/agent-learning",
           "text": "From expectation to evidence"
         },
-        "note": "Friday conversion day: Section 001 meets Wednesday November 25 at its usual Friday time."
+        "note": "Friday conversion day: Section 001 meets Wednesday November 25 at its usual Friday time.",
+        "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
         "date": "2026-12-02",
@@ -314,7 +322,8 @@
           "link": "/examples/student-walkthrough",
           "text": "Student walkthrough"
         },
-        "note": "Planned build target after the holiday. This does not add a new report or restart the project."
+        "note": "Planned build target after the holiday. This does not add a new report or restart the project.",
+        "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
         "date": "2026-12-04",
@@ -337,7 +346,8 @@
           "link": "/examples/student-walkthrough",
           "text": "Walkthrough and limits"
         },
-        "note": ""
+        "note": "",
+        "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
         "date": "2026-12-06",
@@ -360,7 +370,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Planned until posted in Canvas; 11:59 p.m. Eastern."
+        "note": "Planned until posted in Canvas; 11:59 p.m. Eastern.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
         "date": "2026-12-09",
@@ -379,7 +390,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details."
+        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
         "date": "2026-12-11",
@@ -398,7 +410,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details."
+        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
         "date": "2026-12-16",
@@ -417,7 +430,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Both sections share the announced block. Canvas says Zoom; Registrar lists FMH 408. Delivery details must be confirmed."
+        "note": "Both sections share the announced block. Canvas says Zoom; Registrar lists FMH 408. Delivery details must be confirmed.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       }
     ]
   },
@@ -432,7 +446,8 @@
         "date": "2026-11-02",
         "time": "11:59 p.m.",
         "status": "posted",
-        "assignmentId": 767675
+        "assignmentId": 767675,
+        "points": 100
       },
       {
         "key": "individual-1",
@@ -557,7 +572,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "RPS-001 is due at 11:59 p.m., not before this class. Future targets are planned until Canvas posts them."
+        "note": "RPS-001 is due at 11:59 p.m., not before this class. Future targets are planned until Canvas posts them.",
+        "win": "Make a round work, explain a test, and show the code you checked."
       },
       {
         "date": "2026-11-05",
@@ -580,7 +596,8 @@
           "link": "/examples/portfolio",
           "text": "Two portfolio draft records"
         },
-        "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting."
+        "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting.",
+        "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
       },
       {
         "date": "2026-11-09",
@@ -603,7 +620,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets."
+        "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets.",
+        "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
       },
       {
         "date": "2026-11-12",
@@ -631,7 +649,8 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": ""
+        "note": "",
+        "win": "Show one working path from sign-in to a saved game result."
       },
       {
         "date": "2026-11-16",
@@ -655,7 +674,8 @@
           "link": "/examples/bot-lab",
           "text": "Bot Lab architecture example"
         },
-        "note": ""
+        "note": "",
+        "win": "Show one working path from sign-in to a saved game result."
       },
       {
         "date": "2026-11-19",
@@ -684,7 +704,8 @@
           "link": "/examples/bot-lab",
           "text": "Bot Lab design and checks"
         },
-        "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week."
+        "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week.",
+        "win": "Show one working path from sign-in to a saved game result."
       },
       {
         "date": "2026-11-23",
@@ -708,7 +729,8 @@
           "link": "/examples/agent-learning",
           "text": "From expectation to evidence"
         },
-        "note": "No class Thursday November 26; the next meeting is Monday November 30."
+        "note": "No class Thursday November 26; the next meeting is Monday November 30.",
+        "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
         "date": "2026-11-30",
@@ -736,7 +758,8 @@
           "link": "/examples/student-walkthrough",
           "text": "Student walkthrough"
         },
-        "note": "Planned build target after the holiday. This does not add a new report or restart the project."
+        "note": "Planned build target after the holiday. This does not add a new report or restart the project.",
+        "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
         "date": "2026-12-03",
@@ -759,7 +782,8 @@
           "link": "/examples/student-walkthrough",
           "text": "Walkthrough and limits"
         },
-        "note": ""
+        "note": "",
+        "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
         "date": "2026-12-06",
@@ -782,7 +806,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Planned until posted in Canvas; 11:59 p.m. Eastern."
+        "note": "Planned until posted in Canvas; 11:59 p.m. Eastern.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
         "date": "2026-12-07",
@@ -801,7 +826,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details."
+        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
         "date": "2026-12-10",
@@ -820,7 +846,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details."
+        "note": "Regular-class demo dates are planned; Canvas will confirm slots, duration and delivery details.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
         "date": "2026-12-16",
@@ -839,7 +866,8 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Both sections share the announced block. Canvas says Zoom; Registrar lists FMH 408. Delivery details must be confirmed."
+        "note": "Both sections share the announced block. Canvas says Zoom; Registrar lists FMH 408. Delivery details must be confirmed.",
+        "win": "Show what you built, explain your contribution and describe what you learned."
       }
     ]
   }

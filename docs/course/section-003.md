@@ -6,6 +6,11 @@
 
 <ClassWorkCard section="003" />
 
+Open the linked task and one example. Bring your progress to class; keep using the same project record.
+
+<details>
+<summary>Full class plan, dates and course notes</summary>
+
 **Posted:** RPS-001, due **Nov 2, 11:59 p.m. Eastern**. **Planned:** later project reviews, further Studios and regular-class demo dates. Use Canvas for official deadlines and submissions; a planning target is not a new active assignment.
 
 ## The rhythm
@@ -34,3 +39,5 @@ A Studio receipt links a focused skill/check; the project review links that same
 **Dec 7 and Dec 10:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. Delivery and presentation slots still need confirmation. [Demo Days](/demo-days).
 
 [Current Studios](/projects/studios) · [Individual app](/projects/individual) · [Customer project](/projects/group) · [Portfolio](/projects/portfolio) · [Canvas assignments](https://njit.instructure.com/courses/70713/assignments) · [Section 001](/course/section-001).
+
+</details>

@@ -22,6 +22,8 @@ The character is a **simulation**, not a real client or a report of market resea
 | **Harbor Helpers · volunteer organization** | Request a shift, review capacity, and record confirmation. | Coordinator-assisted signup, or volunteer request plus coordinator approval. |
 | **Clear Shelf · clinic supply desk** | Request nonclinical supplies, review the quantity, and record fulfillment. | Staff intake queue, or departmental request plus coordinator review. |
 
+**Choose a local or hosted workflow with the customer.** A trusted-staff app can run locally for the demo. If people use it through a public site, protect coordinator actions with real server-side sign-in and permissions; a role dropdown does not do that.
+
 All use synthetic fixtures, persistent records and explicit states. They do not need live integrations. The clinic scenario contains **no patient, diagnostic or clinical data**. The kit's scenario files contain the full facts and acceptance checks; they are references, not secret assessment answers.
 
 ## Use the change request without scope creep

@@ -2,7 +2,7 @@
 
 **Start here for the portfolio’s research stage.** Learn about FDE work and other AI responsibilities, then choose what your portfolio should communicate. This is part of the **proposed IS218 portfolio brief**; Canvas will confirm its assignment, points and dates before it becomes graded work.
 
-Keep the research in your portfolio project record. You are making decisions for one portfolio, not writing a separate career essay or building another site.
+Keep the role comparison and reflection in the private Canvas submission. Your public portfolio record needs only the chosen audience, goals and suitable evidence. You are making decisions for one portfolio, not building another site.
 
 ## 1 · Read three original job descriptions
 

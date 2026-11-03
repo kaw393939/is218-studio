@@ -1,6 +1,18 @@
-# Four reviews. Three products grow.
+# What to hand in
 
-Keep an **individual game**, **shared customer project** and **personal portfolio**. The future review dates, points and submission boxes remain **planned until posted in Canvas**. The current RPS-001 grade and rubric are unchanged.
+**Update the same record for each active project.** Send the links requested by its Canvas assignment:
+
+- Your current work and source repository.
+- The short project record.
+- A useful issue/change link and what you checked.
+- A few lines: **changed / checked / next**.
+
+The group shares one record and names each person's work. A Studio can use the same game evidence. Keep private career reflections in the instructor's private submission route.
+
+**See the size to aim for:** [short update example](/examples/). [Your next class](/course/schedule) has the current task and date.
+
+<details>
+<summary>What each of the four reviews adds</summary>
 
 ## What each review adds
 
@@ -13,22 +25,8 @@ Keep an **individual game**, **shared customer project** and **personal portfoli
 
 Compare two options where the decision matters. Shared code, content and assets are fine. You do not need two full game backends or two independent portfolio sites.
 
-## One small hand-in per product
 
-Update the same record for each product. Link the current revision/demo, relevant issue/PR and actual checks. Add **what changed, what was checked and what is next**. A Studio can point to the same game evidence; no duplicate report or prompt transcript is needed.
-
-Example receipt:
-
-```text
-Product: creative game · Review 2 / Studio 002
-Revision/demo: [actual links]
-Spec + account/game stories: [same record]
-Tests + CI: [actual result links; name anything not run]
-Issue/PR: [actual links]
-Changed / checked / next: three short notes
-```
-
-The group keeps one shared record and identifies each person's design, implementation and QA. The portfolio's career/design notes live with that project; private reflection can be submitted through the instructor's stated private route. Follow Canvas for the actual submission settings.
+</details>
 
 ## Proposed example rubric {#how-the-worked-examples-are-assessed}
 

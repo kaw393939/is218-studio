@@ -67,7 +67,7 @@ The health system’s **Senior Product Services & Management Analyst**, requisit
 
 **IS218 evidence:** linking a need to a story, implementation, test and peer-reported improvement. **Next gap:** healthcare workflows, regulated systems and sustained adoption work.
 
-[Original Northwell Health posting](https://jobs.northwell.edu/job-3/23437682/senior-product-services-management-analyst-melville-ny/). Indexed only; availability unconfirmed. This is a healthcare employer, not a software vendor.
+**Historical role example:** the original requisition URL returned 404 on November 3. The summary above came from indexed employer text; do not treat it as a confirmed opening. [Search current Northwell roles](https://jobs.northwell.edu/) before choosing an application target. This is a healthcare employer, not a software vendor.
 
 </details>
 

@@ -2,17 +2,13 @@
 
 **Imagine a game you want to make. Finish a small version that someone can sign into, play, return to and manage.** RPS or another simple game supplies the core. Any language, framework or engine is welcome when it supports the required behavior and meaningful tests.
 
-## Keep three things in view
+Canvas will confirm this planned final brief; the posted RPS-001 task stays unchanged.
 
-| Part | Your decision |
-| --- | --- |
-| **Dream** | The bigger experience and who would enjoy it: a sci-fi duel, accessible arcade, prediction exhibit or your own idea. |
-| **Working promise** | One complete account → game → saved result → dashboard → account-update journey. |
-| **Experiment** | One uncertain creative idea to investigate with AI. Set a stopping point and keep a usable fallback. |
+## Start with one playable idea
 
-For example: a **Battle of the Bots** arena. A player signs in, chooses an opponent, finishes a short match, sees saved results and changes their display name. Reactive commentary is the experiment; a whole multiplayer league stays outside this term's promise.
+Two rough directions help you choose. Build **one** finished game/account flow; shared code and assets are fine.
 
-[Compare two creative directions](/projects/creative-challenge). Keep the theme ambitious and the number of game modes small.
+[Try the complete game reference](/examples/full-game), then choose a theme, opponent or interaction that interests you. Sketch two possible first screens. Your own code and checks will grow from that choice.
 
 ## Required final experience
 
@@ -25,6 +21,21 @@ For example: a **Battle of the Bots** arena. A player signs in, chooses an oppon
 Keep other users' private results and account changes protected. Use a maintained authentication library/framework and synthetic test accounts. A visual login screen or browser storage alone cannot establish these behaviors. [Exact journeys and checks](/projects/game-app).
 
 A non-game idea already agreed with the instructor needs an equivalent meaningful result/history workflow. Agree that mapping before building; the account and evidence expectations still apply.
+
+<details>
+<summary>Planning, engineering evidence and the four reviews</summary>
+
+## Keep three things in view
+
+| Part | Your decision |
+| --- | --- |
+| **Dream** | The bigger experience and who would enjoy it: a sci-fi duel, accessible arcade, prediction exhibit or your own idea. |
+| **Working promise** | One complete account → game → saved result → dashboard → account-update journey. |
+| **Experiment** | One uncertain creative idea to investigate with AI. Set a stopping point and keep a usable fallback. |
+
+For example: a **Battle of the Bots** arena. A player signs in, chooses an opponent, finishes a short match, sees saved results and changes their display name. Reactive commentary is the experiment; a whole multiplayer league stays outside this term's promise.
+
+[Compare two creative directions](/projects/creative-challenge). Keep the theme ambitious and the number of game modes small.
 
 ## Design and engineering evidence
 
@@ -52,3 +63,5 @@ Both middle reviews develop Build. Studios link the focused account/game and int
 The already posted [RPS-001](/projects/studios#rps-001-posted) still requires its supplied Python app and excludes accounts/scores/storage **for that assignment**. This final-game brief is later work. Preserve the completed baseline and original evidence; reuse it where useful.
 
 [Bot Lab](/examples/bot-lab) demonstrates a game core and Strategy, not the complete account-based final project. A failed optional experiment can show good judgment; the required account/game journey still needs to work.
+
+</details>

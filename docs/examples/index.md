@@ -1,3 +1,21 @@
+# See it work. Then make it yours.
+
+**[Run the complete account-based game](/examples/full-game).** It has real sign-in, saved results, a private dashboard and account maintenance. Start with its short setup guide, then inspect one part you need.
+
+## A short review update
+
+This illustrates the size and specificity of an update; replace it with your own work and actual links.
+
+> **Changed:** I put saved scores on the dashboard and added a clear empty state.
+> **Checked:** I used a new account, played a round and reopened the dashboard. I also checked that another account could not read the result.
+> **Next:** have a classmate try the task and use their feedback to improve it.
+> **Links:** current revision, source, tests and issue/PR in the existing record.
+
+[Choose a customer](/projects/customer-simulator) · [Portfolio draft examples](/examples/portfolio) · [What to hand in](/course/milestones).
+
+<details>
+<summary>More game, group and agent-learning examples</summary>
+
 # See the work, then try the task
 
 These fictional records show the level of reasoning and evidence to aim for. **They are teaching examples, not actual student submissions, peer reviews or grades.** Open one relevant example instead of reading every page.
@@ -25,3 +43,14 @@ These are static HTML/CSS/JavaScript examples. They are valid browser examples f
 The example records use **Complete, Thoughtful, Checked and Understood**, 25 points each, as a [proposed future-review teaching rubric](/course/milestones#how-the-worked-examples-are-assessed). Scores are provisional assessments of the actual supplied record, preview and technical receipts. Fictional peer/team claims earn no execution or human-review credit; missing full-system evidence lowers later-stage scores. They do not replace RPS-001's published 30/30/15/15/10 rubric or establish a real student's understanding.
 
 The final creative game requires the full [account/result journey](/projects/game-app); these browser previews cover only part of it. The chosen language/framework does not change the behavior required. Actual students must supply their own working repository, tests, pattern experiment, agent-learning note, real peer participation and evidence required by the posted brief. The examples do not turn pending work into completion.
+
+</details>
+
+<details>
+<summary>Inspect a complete learner-trial source packet (optional)</summary>
+
+Three connected products: a customized account-based game, a persistent repair queue and two portfolio layouts with a résumé outline and role research. [Download the runnable source packet](/downloads/is218-learner-trial.zip); start with its README.
+
+This is an assistant-run learning simulation with actual files and local checks. Learner reactions and customer dialogue are authored examples. Real peer feedback, team participation and student-owned professional profiles remain to be completed; the packet is not a full-credit student submission. No extra reading or hand-in is required.
+
+</details>
