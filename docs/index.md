@@ -3,7 +3,7 @@ layout: home
 hero:
   name: IS218 Studio
   text: Build. Check. Explain.
-  tagline: Keep a small application growing through useful changes, real reviews, and evidence you understand.
+  tagline: Dream bigger. Build a working promise. Use tests, patterns and architecture to learn what AI can help you make.
   actions:
     - theme: brand
       text: Find my next class
@@ -13,7 +13,7 @@ hero:
       link: /course/overview
 features:
   - title: Your individual application
-    details: Give the RPS app a creative direction. Keep one repository, spec, and set of checks.
+    details: Choose any language or framework. Turn RPS, another simple game or your own idea into a creative experience.
     link: /projects/individual
     linkText: See the individual project
   - title: Your group business workflow
@@ -29,6 +29,8 @@ features:
 **Start with your section:** [001 · Wednesday/Friday](/course/section-001) · [003 · Monday/Thursday](/course/section-003).
 
 **Posted or planned?** RPS-001 is an existing Canvas assignment. Later review and Studio dates on this site are **planning targets** until Canvas posts them. Canvas holds official deadlines, submissions, grades and private questions.
+
+[Find an idea with AI](/projects/creative-challenge) · [Practice architecture and patterns](/process/architecture).
 
 <ProcessFlow />
 

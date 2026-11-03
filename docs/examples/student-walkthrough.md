@@ -7,7 +7,7 @@ This is an authored rehearsal of the instructions, not a study of typical studen
 | Moment | What the student does | What carries forward |
 | --- | --- | --- |
 | **Current RPS-001** | Opens the actual Canvas task, predicts a round, completes the supplied workflow and checks it. | The student's own RPS repository and `SPEC.md`; the original rubric stays intact. |
-| **Launch** | Chooses a creative RPS direction by default; group chooses one business task. Compares two small approaches. | Individual spec reused for Studios/creative work; one shared group spec. |
+| **Launch** | Uses AI to explore personal interests and compare two ambitious concepts. Chooses any stack and a Dream/Promise/Experiment; group chooses one business task. | One selected-app spec for creative work and later Studios; one shared group spec. |
 | **Next class** | Brings a draft and one task; a peer tries it. Records a specific issue and responds. | Improved plan and observable checks, not another report. |
 | **Review 1 → 2** | Uses the plan to build the first useful path, then tests an independent expected result. | Current source, checks, contributions and a focused Studio receipt. |
 | **Review 2 → 3** | Integrates required pieces; a real peer tries the complete task. | One useful problem to improve, a revision and known limits. |
@@ -20,11 +20,11 @@ The later dates are **Planned** until Canvas posts them. The actual RPS-001 dead
 
 | Likely wrong turn | Clearer rule |
 | --- | --- |
-| “Do I need a separate new app for Studios and the creative project?” | By default, extend RPS and reuse the repository/spec. Keep another approved idea bounded. |
+| “Do I need a separate new app for Studios and the creative project?” | The creative app may use any language/framework and another game or non-game core. Preserve the completed RPS001 baseline; later planned Studios use the selected app. |
 | “Do two alternatives mean twice the entire build?” | Share core code/content. Compare one meaningful decision and explain the choice. |
 | “Is this new schedule already in Canvas?” | Posted means an existing assignment; Planned means preparation target. No invented submission links. |
 | “Are the example grades real?” | They assess the actual supplied packet; imagined peer/check claims receive no execution credit. Current RPS keeps its separate rubric. |
-| “Does the HTML preview prove the backend/auth work?” | It proves a narrow browser interaction. The course server, session behavior, tests and CI require their own evidence. |
+| “Does the HTML preview prove the backend/auth work?” | It proves a narrow browser interaction. RPS001 requires its exact Python checks. Creative projects test their chosen boundaries; accounts/server/storage need evidence only when part of their promise. |
 | “Can an AI customer approve my peer review?” | A simulated customer can clarify a scenario. Real classmates supply actual peer feedback and teamwork. |
 | “Do I start something new in the final work week?” | No. Finish integration, missed reviews, meaningful fixes/retests and rehearsal. |
 | “Does IS218 add another portfolio assignment?” | No new portfolio project is required. Use this work in existing professional materials where useful. |
@@ -48,3 +48,7 @@ Followed home → Section 001 → individual record → A/B preview, and separat
 Fixed: an assignment anchor containing a long dash, duplicate stage names in the example outline, ambiguous “fourth project” wording, and scores that gave too much credit to missing evidence. The phone-width class card, menu and career page fit the screen; wide tables scroll internally. The actual course backend, Canvas submission and human participation were not completed in this rehearsal.
 
 **Published-site check:** GitHub Pages navigation and static-preview JavaScript were verified after deployment. The local-link/anchor checks and preview logic checks also passed in GitHub Actions. External employer availability can still change.
+
+## Updated creative direction · November 3
+
+The instructor opens the later creative work to any language/framework. Try a bigger idea, define a finished promise and investigate one uncertain feature. Architecture, an actual pattern experiment, independent tests and a short agent-learning record carry through the reviews. [Start with ideas](/projects/creative-challenge) · [Inspect Bot Lab](/examples/bot-lab). Earlier preview checks remain a dated technical receipt, not a newly claimed student completion.

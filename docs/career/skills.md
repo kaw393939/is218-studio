@@ -4,11 +4,12 @@ Use a role description to choose your next practice. You do not need to learn ev
 
 | Skill | Evidence from IS218 | Build more depth later |
 | --- | --- | --- |
-| Programming | Nine RPS outcomes, input errors, replay, and meaningful tests. | Larger Python/TypeScript applications and debugging. |
-| Web systems | Interface → request → server result; later accounts and private pages. | APIs, SQL data models, secure sessions, and reliable updates. |
+| Programming | A bounded creative core in your chosen language, independent expectations and meaningful tests. | Larger Python/TypeScript applications and debugging. |
+| Web systems | Separate input/presentation from rules and state; test the real interactions your app uses. | APIs, SQL data models, secure sessions, and reliable updates. |
+| Design and architecture | Try a useful pattern, compare a simpler design and check a refactoring. | Larger systems, maintainable boundaries and tradeoffs. |
 | Quality | Full checks and CI on the final commit; explain a failure you fixed. | Broader automated tests and production monitoring. |
 | Collaboration | One issue and reviewed PR per useful change; fair shared work. | Customer workshops and ongoing maintenance. |
-| AI judgment | Explain AI’s help and verify the output yourself. | Model evaluation, retrieval, costs, latency, and human review. |
+| AI judgment | Compare your expectation with agent output, test it and explain what you kept or changed. | Model evaluation, retrieval, costs, latency, and human review. |
 
 These are instructor learning connections, not a claim that passing the course meets an employer’s requirements. [See the work behind the titles](/career/jobs-and-pay).
 

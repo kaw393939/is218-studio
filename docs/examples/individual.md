@@ -6,18 +6,20 @@ outline: false
 
 Start with one record that fits your current stage. Both identities and peer interactions are **fictional teaching scenarios**. Scores assess the written record and implementation evidence actually provided here, not the fictional person’s claimed execution. Imagined peer results earn no checked-evidence credit. These are not real Canvas grades or evidence of individual mastery. [How the proposed rubric works](/course/milestones#how-the-worked-examples-are-assessed).
 
-The records are filled, but the course projects are incomplete. The examples focus on creative choices and show where actual implementation/review evidence is missing. A course submission must also satisfy its posted Studio brief. The public RPS preview implements a narrow browser-only game; it does not provide Python-server, authentication or CI evidence.
+These are developing creative-project records, assessed against the November 3 direction: any language/framework, a working promise, tests, architecture, a pattern experiment and agent-learning evidence. The browser RPS preview is valid evidence of its own small behavior; it does not complete the separately posted Python RPS-001 task. [Bot Lab](/examples/bot-lab) supplies a richer working technical reference.
 
 <details>
 <summary>Example 1 · Leah's RPS Replay — a focused explanation-led game</summary>
 
-## 1 · Understand and plan
+## 1 · Plan
+
+**Dream:** an arcade that helps new players understand and explore opponents. **Promise:** one playable teaching round with a rule explanation and replay. **Experiment:** compare two ways to explain a losing result, with a reliable plain-text fallback.
 
 **Need:** a new player can see a result but may not understand *why* paper beats rock. I want one round to teach the relationship without a long rules page. This is a hypothesis to check with a classmate, not a research result about all players.
 
 **Two approaches:** A puts the choices first, with a short explanation beside the result. B puts a result overview first and the controls below. Both use the same nine outcomes and wording. I choose A provisionally because it starts the task sooner; I will compare both with the same losing round.
 
-**Stories/checks:** a player can choose a move and see both choices; all nine fixed matchups match the assignment table; a losing result explains the relationship; a keyboard user can make another round. Defer scoreboards, sound, accounts and a new framework from this creative slice. Any later account/dashboard Studio follows its own future brief.
+**Stories/checks:** a player can choose a move and see both choices; all nine fixed matchups match the assignment table; a losing result explains the relationship; a keyboard user can make another round. For this promise I choose browser JavaScript and defer scores, sound and accounts. Another student may choose a different stack. My next design experiment will compare one replaceable explanation function with scattered presentation conditions; its implementation and tests are still pending.
 
 **AI/ownership:** AI may draft options and code; I predict outcomes, inspect the changes and explain tests. Keep these notes in the RPS `SPEC.md`.
 
@@ -25,7 +27,7 @@ The records are filled, but the course projects are incomplete. The examples foc
 
 The described slice handles one round through the existing core and interface. I compare the result to literal expected outcomes rather than asking the same winner function to generate its own expected answer. Starter checks alone do not establish the rules.
 
-**Evidence to link in a real submission:** `game.py`, nine unit cases, a real request/result test, browser round/replay, the full local check, and the actual PR/CI revision. The static preview here is a separate teaching implementation; it cannot supply those receipts.
+**Supplied evidence:** the browser source separates rules from UI, and the preview receipt records independent outcomes and real browser checks. **Still needed:** the architecture explanation, actual pattern comparison, reproducible check/CI links for the evaluated revision and concise agent-learning note. Any server or storage claim would need corresponding checks; this promise makes neither claim. RPS-001 still needs its own exact Python receipts.
 
 ## 3 · Integrated build
 
@@ -37,18 +39,18 @@ In A/B, use the same moves and wording. Compare whether the rule and replay acti
 
 **Scenario response:** add the rule relationship, “Paper beats rock,” beside the losing result and keep both choices visible. **Scenario retest:** Rowan now explains the rule and starts a new round without coaching. A real student must obtain and record that human observation; this scenario is not peer credit.
 
-The final record links the chosen/alternate version, exact source revision, setup, executed checks and limits. Later Studio requirements remain separately identified. A fresh setup and real course-server checks would still need evidence before calling the complete course application ready.
+The final record links the chosen/alternate version, exact source revision, setup, executed checks and limits. The selected creative promise must have reproducible setup, actual checks, the pattern experiment and a short expectation/result/next-time note. My written scenario does not supply real peer evidence.
 
 ### Provisional assessment of the supplied packet
 
 | Review | Complete /25 | Thoughtful /25 | Checked /25 | Understood /25 | Total | Specific feedback |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| 1 | 25 | 24 | 20 | 20 | **89** | The actual written scope/comparison are useful. User need remains a hypothesis; understanding is judged from writing only. |
-| 2 | 15 | 23 | 10 | 18 | **66** | A browser implementation and narrow actual preview checks exist. Python server, full check and CI receipts are absent; listing expected evidence earns no execution credit. |
-| 3 | 15 | 24 | 12 | 18 | **69** | The supplied A/B previews are coherent. They do not establish integrated course-backend behavior or real peer observation. |
-| 4 | 12 | 24 | 8 | 18 | **62** | The reasoning is clear, but the human issue/change/retest is fictional and earns no peer-review evidence credit. Full application handoff/check receipts are missing. |
+| 1 | 22 | 22 | 17 | 20 | **81** | The written scope/comparison are useful. Add the architecture sketch and independent prediction; the audience need remains a hypothesis. |
+| 2 | 18 | 21 | 18 | 18 | **75** | A browser implementation and narrow actual preview checks exist. Architecture/pattern practice and revision-specific delivery receipts remain incomplete; listing planned evidence earns no execution credit. |
+| 3 | 16 | 22 | 15 | 18 | **71** | The supplied A/B previews are coherent. The architecture/pattern experiment and actual peer observation remain missing; a backend is not required for this browser-only promise. |
+| 4 | 12 | 22 | 8 | 18 | **60** | The reasoning is clear, but the human issue/change/retest is fictional and earns no peer-review evidence credit. The pattern/agent-learning record and complete handoff receipts remain missing. |
 
-**What would raise the later scores:** supply the actual Python application and full local/CI receipts for the evaluated revision; complete a real peer task, meaningful change and retest; then explain the code independently.
+**What would raise the later scores:** complete the architecture/pattern experiment and short agent-learning note; link actual selected-stack checks and revision; obtain a real peer task, change and retest. Explain the code independently. Completing RPS-001 remains a separate baseline requirement.
 
 <a href="/is218-studio/examples/rps/a.html" target="_self" data-native-route="true">Try the authored A preview</a> · <a href="/is218-studio/examples/rps/b.html" target="_self" data-native-route="true">Compare B</a>.
 
@@ -57,13 +59,15 @@ The final record links the chosen/alternate version, exact source revision, setu
 <details>
 <summary>Example 2 · Omar's Gesture Coach — promising work with evidence gaps</summary>
 
-## 1 · Understand and plan
+## 1 · Plan
+
+**Dream:** a physical gesture arcade. **Promise:** a reliable labeled-control game with clear results and replay. **Experiment:** investigate gesture input; use buttons if recognition is unreliable. I choose the engine/framework that lets me reproduce and test that promise.
 
 **Need:** a visitor at a small game display needs to play without a tutorial conversation. I initially wrote “make it fun,” which is too vague to check. I revise it to “choose a move, understand the result, then replay with keyboard controls.”
 
 **Two approaches:** A uses familiar word buttons; B adds gesture illustrations with the same text labels and rule logic. Choose A first because a missing illustration should not prevent playing. Defer sound and animation. The two approaches do not require two servers or different rules.
 
-My initial stories omit error behavior. Feedback on the plan should ask what happens when the server receives an unsupported choice and what an actual test would assert. This follows the existing RPS requirement rather than adding an unrelated feature.
+My initial stories omit error behavior. Feedback should ask what happens when the rules receive an unsupported move or a gesture is ambiguous, and what an actual test would assert. A server is optional for this creative promise; the separately posted RPS task keeps its server checks.
 
 ## 2 · First working slice
 
@@ -81,7 +85,7 @@ The first A/B comparison changed wording, images and button order at once. I nar
 
 **Scenario change:** move a clearly labeled “Play another round” control next to the result and retain a visible focus state. **Scenario retest:** Priya locates it and begins again. This is fictional; actual classmates must supply the real review evidence.
 
-The handoff still lacks a fresh-environment result and the full server/browser/CI receipts. Mark those **pending**. Do not call the static preview a passing Python assignment or invent a successful run. The useful next action is one reproducible check, not another new feature.
+The handoff still lacks implementation, architecture/pattern evidence, a fresh-environment result and selected-stack check receipts. Mark those **pending**. Do not claim gesture recognition or a successful run without actual evidence. The useful next action is one reproducible check, not another new feature.
 
 ### Provisional assessment of the supplied packet
 
@@ -96,4 +100,4 @@ The handoff still lacks a fresh-environment result and the full server/browser/C
 
 </details>
 
-[Copy the short record](/templates/project-record) · [Review another person's work](/process/collaboration) · [See the group examples](/examples/group).
+[Architecture and patterns](/process/architecture) · [Success and disappointment with agent coding](/examples/agent-learning) · [Copy the short record](/templates/project-record) · [Review another person's work](/process/collaboration) · [See the group examples](/examples/group).

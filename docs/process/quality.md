@@ -1,28 +1,31 @@
 # Check what you actually built
 
-**A test needs an expected result you can explain.** Check the main task, a likely mistake and the result shown to the user. Record the revision, expected/actual result, command or task, and any fix/retest in your existing spec.
+**A useful test has an expected result you can explain before running it.** Choose checks for your application's behavior and architecture, using tools that fit your language or framework.
 
-## Start with meaningful checks
+## Check the creative project in layers
 
-| Check | What to establish |
+| Layer | Example of useful evidence |
 | --- | --- |
-| Rules | Use nine literal expected RPS outcomes, including a valid losing round. Expected answers must not come from the winner function being tested. |
-| Layers | Check the rule function, the real request/result path, and a real browser round/replay separately. |
-| Rejected input | Try a missing or unsupported move; check the specified response. |
-| Delivery | Run the posted full check and inspect CI on the final PR commit; `--fast` is not final RPS-001 evidence. |
-| Interface | Try a narrow screen, keyboard controls, visible focus, labeled fields and clear errors. Check important links and setup steps. |
-| Peer task | Let a real classmate try without coaching. Record the obstacle, choose a meaningful change and retest. |
+| **Core rules** | Fixed inputs produce independently expected answers. An opponent strategy or request validator can be checked without opening the whole interface. |
+| **Connections** | Two real parts work together: a controller calls the rules, a screen displays the returned result, or a server stores and retrieves a request. Check the boundaries your app actually has. |
+| **User task** | Complete the main experience and a likely failure path. For a web app, try keyboard controls, a narrow screen and clear errors. |
+| **Delivery** | Run the chosen stack's documented checks at the actual revision. Inspect required CI and try the setup instructions. |
 
-**RPS-001:** keep its original rules, checks and 30/30/15/15/10 rubric. Later accounts/dashboard work is planned until posted. A browser-only login screen cannot prove future server-side authentication. [Current Studio scope](/projects/studios#rps-001-posted).
+Expected answers should come from the spec or an independent example. A test that calculates its expected answer using the same function being tested may repeat the same mistake.
 
-## Keep evidence honest
+Accounts, a database or a server belong in the test plan when your promised experience uses them. Verify actual enforcement or persistence when claimed. A static creative app can instead demonstrate its own rules, state changes and interface behavior.
 
-- **Executed:** identify the command/task, revision and actual result.
-- **Pending or failed:** say so and name the next action.
-- **Limited:** explain what the check does not prove. A pure-function test does not prove a real browser task or deployed service works.
+## Add evidence at each review
 
-A passing build is not a usability check. A screenshot of a role or success message is not proof of server enforcement or persistence. Use synthetic data, and remove secrets/private information from public evidence.
+- **Plan:** predict a success and failure; identify the boundary and design choice to investigate.
+- **First slice:** run meaningful tests. Try a small [pattern experiment](/process/architecture) in code and compare it with another approach.
+- **Integrated build:** check connected parts; use the experiment's evidence to keep, refactor or remove the pattern. Explain the problem, benefit and cost.
+- **Improve:** record a real peer's task, make a meaningful change and rerun the affected checks. Explain an AI success or disappointment and what you would change next time.
 
-For the group, each member checks someone else's work. Automated checks cover important behavior; a real walkthrough checks understanding and use. Keep the [issue → response → change → retest](/process/github-feedback) evidence linked from the same [project record](/templates/project-record).
+Keep command/task, revision, expected result and actual result in the [same record](/templates/project-record). Mark a check **passed, failed or not run**. Explain its limits: a pure-function test alone does not establish a working user journey.
 
-[Review routine](/process/collaboration) · [Current Studio requirements](/projects/studios).
+## Current RPS-001 keeps its exact checks
+
+Use the supplied Python project: nine literal outcomes, rejected-input checks, real request/result integration and a real browser round/replay. Run full `.venv/bin/python check.py` and inspect CI on the final PR commit; `--fast` is not final evidence. Its original **30/30/15/15/10** rubric remains unchanged. [Posted checklist](/projects/studios#rps-001-posted).
+
+[Review with a classmate](/process/collaboration) · [Issue → change → retest](/process/github-feedback).

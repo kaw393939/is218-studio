@@ -4,6 +4,8 @@ These fictional records show the level of reasoning and evidence to aim for. **T
 
 | Your task | Start here |
 | --- | --- |
+| Explore a working architecture and pattern | [Bot Lab: two opponents, match state and actual tests](/examples/bot-lab) |
+| Learn from agent output | [Success and disappointment: two filled notes](/examples/agent-learning) |
 | Choose scope and explain your own work | [Two individual records: RPS Replay and Gesture Coach](/examples/individual) |
 | Divide, integrate and review a business workflow | [Two group records: DeskReady and ClubKit](/examples/group) |
 | Follow the class sequence and spot uncertainty | [Student walkthrough and review notes](/examples/student-walkthrough) |
@@ -14,10 +16,10 @@ These fictional records show the level of reasoning and evidence to aim for. **T
 
 <a href="/is218-studio/examples/deskready/a.html" target="_self" data-native-route="true">DeskReady A</a> · <a href="/is218-studio/examples/deskready/b.html" target="_self" data-native-route="true">DeskReady B</a>: submit a synthetic room-setup inquiry and explain whether a time is booked. The versions share the workflow.
 
-These are static HTML/CSS/JavaScript examples. **They do not prove the course's Python server, request tests, authentication, database, CI or deployment requirements.** No account, message, booking or payment is created. Each preview links its source/setup and actual test notes.
+These are static HTML/CSS/JavaScript examples. They are valid browser examples for their stated behavior. **They do not complete the separate Python RPS-001 baseline or prove accounts, a database or deployment they do not implement.** No account, message, booking or payment is created. Each preview links its source/setup and actual test notes.
 
 ## Read the scores correctly
 
 The example records use **Complete, Thoughtful, Checked and Understood**, 25 points each, as a [proposed future-review teaching rubric](/course/milestones#how-the-worked-examples-are-assessed). Scores are provisional assessments of the actual supplied record, preview and technical receipts. Fictional peer/team claims earn no execution or human-review credit; missing full-system evidence lowers later-stage scores. They do not replace RPS-001's published 30/30/15/15/10 rubric or establish a real student's understanding.
 
-Actual students must supply their own working repository, real peer participation and evidence required by the posted brief. The examples do not turn pending work into completion.
+Creative work is assessed for the chosen promise and architecture, not for using Python or adding an unnecessary server. Actual students must supply their own working repository, tests, pattern experiment, agent-learning note, real peer participation and evidence required by the posted brief. The examples do not turn pending work into completion.

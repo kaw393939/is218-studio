@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An IS218 creative reference: play rock paper scissors against two explainable opponent strategies, then inspect the architecture and tests.">
+  <title>RPS Bot Lab · IS218 creative reference</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#game">Skip to the game</a>
+  <header class="site-header">
+    <a class="brand" href="/is218-studio/examples/bot-lab.html"><span class="brand-mark" aria-hidden="true">↗</span> IS218 / BOT LAB</a>
+    <a class="course-link" href="/is218-studio/examples/">Back to course examples <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <p class="eyebrow">A small game. A bigger question.</p>
+      <h1 id="page-title">Can you outthink<br><em>the pattern?</em></h1>
+      <p class="lede">Two bots. Three moves. First to two wins. Play a match, inspect the bot’s reasoning, and see where a simple prediction falls apart.</p>
+      <p class="reference-note">Playable teaching reference · browser only · no accounts or AI service</p>
+    </section>
+    <div class="lab-layout">
+      <section class="game-card" id="game" aria-labelledby="game-title">
+        <div class="card-top"><h2 id="game-title">Test your opponent</h2><span class="pill">FIRST TO 2</span></div>
+        <label class="field-label" for="opponent">Choose a bot <span>Changing bots starts a new match.</span></label>
+        <select id="opponent"><option value="clockwork">01 · Clockwork — find the cycle</option><option value="habit">02 · Habit Reader — break your habits</option></select>
+        <p class="bot-description" id="opponent-description">Follows a fixed cycle. Discover it, then beat it.</p>
+        <div class="scoreboard" aria-label="Match score">
+          <div><span class="score-label">YOU</span><strong id="player-score">0</strong></div>
+          <span class="versus" aria-hidden="true">/</span>
+          <div><span class="score-label" id="opponent-name">Clockwork</span><strong id="opponent-score">0</strong></div>
+        </div>
+        <div class="result">
+          <p class="eyebrow" id="round-label">Round 1 · first to 2</p>
+          <h3 id="headline">Your move. Find the pattern.</h3>
+          <p id="result-details">Pick rock, paper, or scissors below. Ties do not change the score.</p>
+        </div>
+        <div class="move-grid" role="group" aria-label="Play your next move">
+          <button class="move" type="button" data-move="rock"><span class="move-symbol" aria-hidden="true">●</span><span>Rock</span><small>beats scissors</small></button>
+          <button class="move" type="button" data-move="paper"><span class="move-symbol" aria-hidden="true">▰</span><span>Paper</span><small>beats rock</small></button>
+          <button class="move" type="button" data-move="scissors"><span class="move-symbol" aria-hidden="true">✂</span><span>Scissors</span><small>beats paper</small></button>
+        </div>
+        <button id="reset" class="reset" type="button">Start a new match <span aria-hidden="true">↻</span></button>
+        <div class="bot-explanation"><p class="eyebrow">INSIDE THE BOT</p><p id="bot-note">After each round, the bot explains its decision. It cannot see your current move.</p></div>
+        <div class="sr-only" id="announcement" role="status" aria-live="polite" aria-atomic="true"></div>
+        <noscript><p class="no-script">This game needs JavaScript. You can still read the linked rules, source, and testing guide.</p></noscript>
+      </section>
+      <aside class="lab-notes" aria-labelledby="notes-title">
+        <div class="note-card question-card"><p class="eyebrow">THE EXPERIMENT</p><h2 id="notes-title">A prediction is<br>not a promise.</h2><p>Habit Reader guesses your next move from earlier choices. Repeat a move, then switch. Did its explanation match what you observed?</p><p class="small">This is a deterministic frequency heuristic, not a trained model or an LLM. It does not learn across matches or store your data.</p></div>
+        <section class="note-card history-card" aria-labelledby="history-title"><div class="history-heading"><h2 id="history-title">Match trail</h2><span>CHOICES + RESULT</span></div><p id="history-empty" class="empty">Your first round starts the trail.</p><ol id="history" class="history"></ol></section>
+        <div class="source-links"><a href="/is218-studio/examples/bot-lab.html">How this was built + checked →</a><a href="/is218-studio/process/architecture.html">Architecture without extra machinery →</a></div>
+      </aside>
+    </div>
+    <section class="afterword" aria-labelledby="challenge-title"><p class="eyebrow">YOUR NEXT DESIGN QUESTION</p><h2 id="challenge-title">Keep the rules. Change the experience.</h2><p>What if this were a coaching tool, a sci-fi duel, or an exhibit about bad predictions? Keep one match reliable. Put the bigger idea in a separate experiment, and use tests to discover what the AI actually built.</p></section>
+  </main>
+  <footer><span>IS218 · Fictional creative reference</span><a href="/is218-studio/projects/individual.html">Your assignment’s scope and evidence →</a></footer>
+</body>
+</html>

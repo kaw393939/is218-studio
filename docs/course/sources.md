@@ -1,13 +1,17 @@
 # Course sources and setup notes
 
-Instructor reference · checked November 2, 2026. Students should begin with [their class card](/course/schedule), not this source inventory.
+Instructor reference · Canvas research November 2; creative direction updated November 3, 2026. Students should begin with [their class card](/course/schedule), not this source inventory.
 
-## Live Canvas facts
+## Canvas facts observed November 2
 
 - **001:** [70712 home](https://njit.instructure.com/courses/70712), Wed/Fri 10–11:20 a.m., CKB 313; [RPS 768166](https://njit.instructure.com/courses/70712/assignments/768166) due Nov 4 at 11:59 p.m.
 - **003:** [70713 home](https://njit.instructure.com/courses/70713), Mon/Thu 2:30–3:50 p.m., CKB 226; [RPS 767675](https://njit.instructure.com/courses/70713/assignments/767675) due Nov 2 at 11:59 p.m.
 - Both homes announce four individual/four group reviews, two or three more Studios, RPS accounts/dashboard development, an individual creative app and a modest group business app. No future review/Studio assignments were visible in the reviewed inventory. Their dates on this site remain planned.
 - RPS-001's original rubric is 30/30/15/15/10. The proposed future-review rubric and illustrative grades do not change it.
+
+## Instructor direction · November 3
+
+The creative project is open to any language, framework or engine. Students should imagine a bigger experience, finish a bounded user journey, practice tests/design patterns/architecture and investigate what agent coding delivers. A short success/disappointment/next-time record belongs in the existing spec. The revised prospective Studio 002/003 plan applies these skills in the chosen application; accounts/dashboard remain possible task-specific choices. This supersedes only the earlier unposted RPS-002/003 proposal. The posted RPS-001 scope, deadlines and rubric remain intact. Canvas future briefs must be updated to match before adopting the planned assessments.
 
 ## Syllabus and grading boundaries
 

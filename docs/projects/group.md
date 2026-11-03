@@ -2,7 +2,7 @@
 
 Choose a realistic product or service and make **one useful task** work from beginning to end. A service inquiry, content approval, equipment request or small order workflow is enough. An AI product is optional; you may use AI coding assistance to build a traditional service.
 
-Use your instructor-approved team. Start from existing experience and tools. A large catalog, payments, live customer data or a new framework is not a requirement by default. Define real program behavior and checks. If the approved workflow needs stored data or permissions, specify and verify the actual backend behavior; a static form alone cannot prove persistence or access control.
+Use your instructor-approved team. Any language, framework or engine is welcome when you can run, test and explain the result. Start from existing experience and tools. A large catalog, payments, live customer data or a new framework is not a requirement by default. Define real program behavior and checks. If the approved workflow needs stored data or permissions, specify and verify the actual backend behavior; a static form alone cannot prove persistence or access control.
 
 ## Agree on a small spec
 
@@ -19,6 +19,8 @@ Example: a campus organization requests a room setup. The application collects t
 | Both | Approve the spec, integrate early, run the full path and explain their work. | Rotate owner/reviewer roles; record actual findings. |
 
 This is an example, not a fixed job assignment. Aim for comparable effort. Everyone makes design decisions, implements meaningful work and checks another's work. Commit counts do not measure equal contributions.
+
+Practice testing, architecture and a useful pattern/design experiment as you go. A request validator, stateful workflow or replaceable data source can provide a concrete design question. Keep the AI expectation/result/next-time note in the shared record; each member explains their own decisions. [Engineering guide](/process/architecture).
 
 ## Four reviews, one shared record
 

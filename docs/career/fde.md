@@ -14,7 +14,7 @@ Turn a rule into code, test every outcome, connect a web interface to server beh
 | --- | --- |
 | Learn what the user needs | Scope your individual application and your group’s business task. |
 | Turn a need into behavior | Write a small spec with inputs, outputs, errors, and checks. |
-| Build and debug | Extend the current app; test rules, requests, and later authentication. |
+| Build and debug | Choose an appropriate architecture; test its rules, interactions and failure behavior. Authentication needs tests when the task uses it. |
 | Work with people | Use issues, branches, pull requests, and partner checks. |
 | Deliver and explain | Demonstrate the workflow, show checks, and name remaining limits. |
 

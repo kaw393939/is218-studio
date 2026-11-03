@@ -17,12 +17,12 @@ These targets organize preparation. **No future review deadline on this table ha
 
 | Individual and group | Section 003 | Section 001 |
 | --- | --- | --- |
-| 1 · Understand and plan | Nov 12, 2:30 p.m. | Nov 13, 10 a.m. |
+| 1 · Plan | Nov 12, 2:30 p.m. | Nov 13, 10 a.m. |
 | 2 · First working slice | Nov 19, 2:30 p.m. | Nov 20, 10 a.m. |
 | 3 · Integrated build | Nov 30, 2:30 p.m. | Dec 2, 10 a.m. |
 | 4 · Improve and hand off | **Dec 6, 11:59 p.m.** | **Dec 6, 11:59 p.m.** |
 
-The group and individual use the same stage dates. The RPS Studios support the individual application by default; [the Studio page](/projects/studios) explains the two later planning targets without adding another report.
+The group and individual use the same stage dates. [Later planned Studios](/projects/studios) practice tests/design and architecture/integration inside your selected creative app, in its chosen language/framework. Reuse the evidence instead of adding another report.
 
 ## Exceptions and protected time
 

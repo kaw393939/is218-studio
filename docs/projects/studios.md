@@ -26,15 +26,15 @@ A Studio practices a focused skill. The individual project gives the application
 
 Its rubric uses complete/full, partial/half, or missing/zero evidence per row. [Guided lab](https://kaw393939.github.io/218_spec/) · [Setup help](https://kaw393939.github.io/218_spec/setup.html).
 
-## Two later Studios — Planned
+## Two later Studios — planned
 
-These are prospective scopes and targets. **Their briefs and rubrics must be posted before becoming assignments.** They are not part of RPS-001's criteria.
+The instructor's **November 3 creative direction** replaces the earlier prospective accounts/dashboard outline with transferable engineering practice. Use your chosen creative application and its language/framework. These briefs, dates and rubrics remain planned until Canvas posts them; RPS-001 above is unchanged.
 
-| Studio | Bounded next result | Planning target |
+| Studio | Evidence in the selected app | Planning target |
 | --- | --- | --- |
-| **RPS-002 · Accounts and sessions** | Supported registration, login/logout and session behavior, including relevant rejected-input checks. Reuse the app; follow a reviewed server-side approach rather than inventing security. | 003 Nov 19, 2:30 p.m.; 001 Nov 20, 10 a.m. |
-| **RPS-003 · Dashboard and integration** | One useful dashboard in the same app. Check signed-in/signed-out behavior and integrated results; update the same spec. | 003 Nov 30, 2:30 p.m.; 001 Dec 2, 10 a.m. |
+| **Studio 002 · Tests and design decisions** | A new working slice, independently expected automated checks, and a useful pattern experiment compared with a simpler alternative. Explain the problem the design solves. | 003 Nov 19, 2:30 p.m.; 001 Nov 20, 10 a.m. |
+| **Studio 003 · Architecture and integration** | Connected responsibilities, a tested change/refactoring, a realistic user journey and actual check/CI results. Explain an agent-generated change you kept, revised or rejected. | 003 Nov 30, 2:30 p.m.; 001 Dec 2, 10 a.m. |
 
-A browser-only login screen is not evidence of server-enforced authentication. The [working teaching previews](/examples/) deliberately make no account/security claims.
+No second RPS account system is required just because you chose another creative app. Accounts, persistence or a dashboard can be useful design choices where your task needs them; claims about them need actual checks. A browser-only creative app can be appropriate for a browser-only promise.
 
-The local six-lesson pilot is a reference for teaching ideas, not six required Studios. Use the current posted task, then the instructor-approved next slice.
+Keep one evolving spec per project. A Studio receipt links the focused skill and check; the project review explains the whole app's progress. Reuse evidence rather than writing two reports. [Creative challenge](/projects/creative-challenge) · [Architecture and patterns](/process/architecture) · [Current section dates](/course/schedule).

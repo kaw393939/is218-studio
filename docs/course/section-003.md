@@ -10,11 +10,11 @@
 
 ## The rhythm
 
-Introduce a small task → next class: work, real peer feedback and GitHub issues → submit when the next step starts. Carry forward the same spec, source and evidence. By default your individual creative app extends RPS; the group keeps one modest business workflow.
+Introduce a small task → next class: work, real peer feedback and GitHub issues → submit when the next step starts. Carry forward the same spec, source and evidence. Your individual creative app may use any language/framework and an RPS, game or non-game core; the group keeps one useful business workflow. [Discover an idea](/projects/creative-challenge), then define its working promise.
 
 | Planned cycle | Introduce → work/review → target |
 | --- | --- |
-| Review 1 · Understand and plan | Nov 5 → Nov 9 → Nov 12 |
+| Review 1 · Plan | Nov 5 → Nov 9 → Nov 12 |
 | Review 2 · First working slice | Nov 12 → Nov 16 → Nov 19 |
 | Review 3 · Integrated build | Nov 19 → Nov 23 → Nov 30 |
 | Review 4 · Improve and hand off | Expectations before recess; work Nov 30 and Dec 3; **Dec 6, 11:59 p.m.** target |

@@ -19,7 +19,8 @@ Demonstrate your individual application and your own contribution to the group a
 2. Run the individual workflow; explain one choice and a test's expected result.
 3. Run the group workflow; identify your work and a teammate's connected part.
 4. Show an issue, the meaningful change and the retest.
-5. Name a limit and a useful next step.
+5. Explain an architecture/pattern choice and one test that would catch a real mistake.
+6. Compare an agent-coding expectation with the actual result: what succeeded or disappointed, and what would you change next time? Name a remaining limit.
 
 Every member should be able to explain their own work and how it fits together. Have the source, spec and evidence ready to open. Show failure behavior where relevant; do not imply simulated inquiries, accounts or customers are real.
 
