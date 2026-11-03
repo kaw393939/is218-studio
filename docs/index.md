@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: IS218 Studio
-  text: Build it. Check it. Explain it.
+  text: Build. Check. Explain.
   tagline: Keep a small application growing through useful changes, real reviews, and evidence you understand.
   actions:
     - theme: brand
