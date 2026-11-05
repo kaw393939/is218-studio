@@ -1,6 +1,8 @@
 # Research careers, then design your portfolio
 
-**Start here for the portfolio’s research stage.** Learn about FDE work and other AI responsibilities, then choose what your portfolio should communicate. This is part of the **proposed IS218 portfolio brief**; Canvas will confirm its assignment, points and dates before it becomes graded work.
+**Start here for the portfolio’s research stage.** Learn about FDE work and other AI responsibilities, then choose what your portfolio should communicate. This is part of the published IS218 portfolio Plan: [001](https://njit.instructure.com/courses/70712/assignments/769206) · [003](https://njit.instructure.com/courses/70713/assignments/769221). Canvas controls the required submission, points and section deadline.
+
+Use [AI Career Atlas](https://kaw393939.github.io/ai-career-research/) and its [repository](https://github.com/kaw393939/ai-career-research), or the [NY/NJ career research example](https://kaw393939.github.io/is117005-portfolio/), to discover possibilities. Open original sources, compare work that interests you and make your own choices. These are research examples, not a career direction to copy. Turn the findings into your portfolio specification and consistent, evidence-backed LinkedIn/GitHub updates. [How to use the examples](/course/research-examples).
 
 Keep the role comparison and reflection in the private Canvas submission. Your public portfolio record needs only the chosen audience, goals and suitable evidence. You are making decisions for one portfolio, not building another site.
 

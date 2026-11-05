@@ -26,7 +26,13 @@ for(const [id,section] of Object.entries(sections)){
  for(const c of section.checkpoints){
   if(keys.has(c.key))failures.push(`Section ${id}: duplicate checkpoint ${c.key}`);keys.add(c.key)
   if(!['posted','planned'].includes(c.status))failures.push(`Invalid status ${c.key}`)
-  if((c.status==='posted')!==Number.isInteger(c.assignmentId))failures.push(`${id}/${c.key}: posted must have real assignment ID; planned must not`)
+  const hasAssignment=Number.isInteger(c.assignmentId)&&c.assignmentId>0
+  const modulePrefix=`https://njit.instructure.com/courses/${section.courseId}/modules/items/`
+  const hasModuleLink=typeof c.canvasUrl==='string'&&c.canvasUrl.startsWith(modulePrefix)&&/^[1-9]\d*$/.test(c.canvasUrl.slice(modulePrefix.length))
+  if(c.assignmentId!==undefined&&!hasAssignment)failures.push(`${id}/${c.key}: invalid assignment ID`)
+  if(c.canvasUrl!==undefined&&!hasModuleLink)failures.push(`${id}/${c.key}: invalid Canvas module-item URL for this course`)
+  const linkCount=Number(hasAssignment)+Number(hasModuleLink)
+  if((c.status==='posted'&&linkCount!==1)||(c.status==='planned'&&linkCount!==0))failures.push(`${id}/${c.key}: posted must have one verified Canvas link; planned must not`)
   if(!/^2026-\d\d-\d\d$/.test(c.date)||!c.time)failures.push(`Missing date/time ${c.key}`)
  }
  for(const c of section.classes){

@@ -1,6 +1,6 @@
 # Make your GitHub useful to a new reader
 
-**Portfolio component.** Use this guide in your IS218 portfolio. Keep actual profiles, project claims and materials consistent. Portfolio dates and points remain planned until posted in Canvas. [Portfolio brief](/projects/portfolio).
+**Portfolio component.** Use this guide in your IS218 portfolio. Keep actual profiles, project claims and materials consistent. Follow the published Canvas portfolio reviews for dates, points and submissions. [Portfolio brief](/projects/portfolio) · [Your section's review links](/course/schedule).
 
 Your portfolio shows the result; GitHub shows the source and how you worked. Link your **own profile**, individual repository and shared group repository. Do not duplicate the group's code just to claim a separate project.
 

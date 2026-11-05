@@ -26,7 +26,7 @@ This is a foundation. FDE roles often expect more programming, databases, cloud 
 2. Choose one skill gap that your current project can help you address.
 3. Show accurate evidence through [GitHub](/career/github), [LinkedIn](/career/linkedin), and your [résumé](/career/resume).
 
-Career research is the starting point for the planned [portfolio project](/projects/portfolio). Compare FDE with [other AI roles across industries](/career/ai-roles). Networking and applications are professional next steps; assessment concerns your research, work and process, not getting hired.
+Career research is the starting point for the [portfolio project](/projects/portfolio) and its published Canvas Plan review. Compare FDE with [other AI roles across industries](/career/ai-roles). Networking and applications are professional next steps; assessment concerns your research, work and process, not getting hired.
 
 ## Start a professional conversation
 

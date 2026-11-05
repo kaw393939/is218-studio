@@ -2,7 +2,7 @@
 
 **Build or improve one personal website that helps someone understand you and your work.** Use career research to decide whom it should reach. Show your individual application, your group contribution, and professional materials you can explain.
 
-This is the IS218 portfolio brief. Reuse your existing website if you have one; keep the process and evidence here in IS218. This new portfolio direction is **planned until its submission details and rubric are posted in Canvas**. Update one portfolio record through the reviews; no additional weekly essay is needed. The current RPS-001 task is unchanged.
+This is the IS218 portfolio brief. Reuse your existing website if you have one; keep the process and evidence here in IS218. Portfolio review assignments and their rubric are **published in Canvas**: [001 Plan](https://njit.instructure.com/courses/70712/assignments/769206) · [003 Plan](https://njit.instructure.com/courses/70713/assignments/769221) · [all section dates](/course/schedule). Update one portfolio record through the reviews; no additional weekly essay is needed. The current RPS-001 task is unchanged.
 
 ## What belongs on the finished site?
 
@@ -17,6 +17,8 @@ A **case study** is a short project story: problem → your decisions and contri
 ## Start with a job that interests you
 
 Find one original employer posting. What would you actually do in that job? Write three responsibilities and one skill you want to build. Then use the [career research task](/career/explore) to complete the three-role comparison for your planning hand-in.
+
+Explore [AI Career Atlas](https://kaw393939.github.io/ai-career-research/) and its [research repository](https://github.com/kaw393939/ai-career-research), plus the [regional NY/NJ field guide](https://kaw393939.github.io/is117005-portfolio/). These instructor examples are starting points. Verify original employer sources and investigate work that personally interests you. Your findings become specifications for your own portfolio website and guide accurate updates to LinkedIn and GitHub. [Research examples → your spec](/course/research-examples).
 
 <details>
 <summary>Career research → audience → design → build → review</summary>
@@ -104,7 +106,7 @@ Choose the finished version. Check its links, layout, keyboard access and résum
 | **Build** | Two small presentation options, current case studies, résumé draft and owned profile/repository links. |
 | **Improve and hand off** | Chosen version, real peer issue → change → retest, checked links and updated case studies. |
 
-Use the class pattern: **introduce → next class work/review → submit and carry forward**. Canvas will specify portfolio checkpoints; do not infer extra deadlines from this table. Reuse project evidence and the same professional materials rather than producing repeated reports.
+Use the class pattern: **introduce → next class work/review → submit and carry forward**. Follow the [published section review dates and Canvas links](/course/schedule); this table adds no extra deadlines. Reuse project evidence and the same professional materials rather than producing repeated reports.
 
 **Ready check:** can someone identify your direction, try both projects, distinguish your contribution, inspect code/checks and find your professional materials without coaching?
 

@@ -8,6 +8,7 @@ const selected=ref(data.value?.classes[0]?.date||'')
 const card=computed(()=>data.value.classes.find(c=>c.date===selected.value)||data.value.classes[0])
 const link=path=>{if(/^https?:/.test(path))return path;const [route,hash]=path.split('#');return withBase(route+(route.endsWith('/')||/\.[a-z]+$/i.test(route)?'':'.html')+(hash?'#'+hash:''))}
 const checkpoint=key=>data.value.checkpoints.find(c=>c.key===key)
+const checkpointUrl=key=>{const c=checkpoint(key);return c.canvasUrl||(c.assignmentId?'https://njit.instructure.com/courses/'+data.value.courseId+'/assignments/'+c.assignmentId:'')}
 const dueText=key=>{const c=checkpoint(key);const [y,m,d]=c.date.split('-');return `${Number(m)}/${Number(d)}/${y}, ${c.time} Eastern`}
 onMounted(()=>{const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());selected.value=(data.value.classes.find(c=>c.date>=today)||data.value.classes.at(-1)).date})
 </script>
@@ -18,7 +19,7 @@ onMounted(()=>{const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Ne
 <h3>{{card.label}}</h3>
 <p v-if="card.win" class="class-win"><strong>Your goal</strong>{{card.win}}</p>
 <dl><dt>In class</dt><dd>{{card.work}}</dd><dt>Together</dt><dd>{{card.review}}</dd><dt>Keep</dt><dd>{{card.update}}</dd></dl>
-<div v-for="kind in ['due','next']" :key="kind"><template v-if="card[kind]?.length"><strong>{{kind==='due'?'Due / target':'Next hand-in'}}</strong><ul class="handins"><li v-for="key in card[kind]" :key="key"><span class="status">{{checkpoint(key).status==='posted'?'Posted':'Planned'}}</span> <a v-if="checkpoint(key).assignmentId" :href="'https://njit.instructure.com/courses/'+data.courseId+'/assignments/'+checkpoint(key).assignmentId">{{checkpoint(key).title}}</a><span v-else>{{checkpoint(key).title}}</span><strong v-if="checkpoint(key).points" class="points">{{checkpoint(key).points}} points</strong><small>{{dueText(key)}}</small></li></ul></template></div>
+<div v-for="kind in ['due','next']" :key="kind"><template v-if="card[kind]?.length"><strong>{{kind==='due'?'Due / target':'Next hand-in'}}</strong><ul class="handins"><li v-for="key in card[kind]" :key="key"><span class="status">{{checkpoint(key).status==='posted'?'Posted':'Planned'}}</span> <a v-if="checkpointUrl(key)" :href="checkpointUrl(key)">{{checkpoint(key).title}}</a><span v-else>{{checkpoint(key).title}}</span><strong v-if="checkpoint(key).points" class="points">{{checkpoint(key).points}} points</strong><small>{{dueText(key)}}</small></li></ul></template></div>
 <p class="card-links"><a :href="link(card.guide.link)">{{card.guide.text}}</a> · <a :href="link(card.example.link)">{{card.example.text}}</a></p>
 <details><summary>What to bring and class notes</summary><p><strong>Bring:</strong> {{card.bring}}</p><p v-if="card.note">{{card.note}}</p></details>
 <small>Canvas confirms deadlines and points. Planned targets are preparation only. Update the same project record.</small>

@@ -11,20 +11,20 @@ Open the linked task and one example. Bring your progress to class; keep using t
 <details>
 <summary>Full class plan, dates and course notes</summary>
 
-**Posted:** RPS-001, due **Nov 2, 11:59 p.m. Eastern**. **Planned:** later project reviews, further Studios and regular-class demo dates. Use Canvas for official deadlines and submissions; a planning target is not a new active assignment.
+**Published in Canvas:** RPS-001, due **Nov 2, 11:59 p.m. Eastern**, and the four reviews for each of the creative game, group customer project and portfolio. Separate later Studios and regular-class demo arrangements remain planned unless posted. Use the class-card assignment links for official deadlines and submissions.
 
 ## The rhythm
 
 Introduce a small task → next class: work, real peer feedback and GitHub issues → submit when the next step starts. Carry forward the same spec, source and evidence. Carry three products: a [creative game with accounts](/projects/individual), a [group customer simulation](/projects/group) and your [professional portfolio](/projects/portfolio). Use any suitable language/framework for the software; keep one record per product.
 
-| Planned cycle | Introduce → work/review → target |
+| Published review cycle | Introduce → work/review → due |
 | --- | --- |
 | Review 1 · Plan | Nov 5 → Nov 9 → Nov 12 |
 | Review 2 · First working slice | Nov 12 → Nov 16 → Nov 19 |
 | Review 3 · Integrated build | Nov 19 → Nov 23 → Nov 30 |
-| Review 4 · Improve and hand off | Expectations before recess; work Nov 30 and Dec 3; **Dec 6, 11:59 p.m.** target |
+| Review 4 · Improve and hand off | Expectations before recess; work Nov 30 and Dec 3; **Dec 6, 11:59 p.m.** deadline |
 
-These planned cycles apply to all three products. Career research is the portfolio’s first stage; complete it by the Review 1 target, the last class next week. Normal review targets are at class start. The holiday breaks the usual rhythm for Review 3. [The schedule explains the exceptions](/course/schedule#exceptions-and-protected-time).
+These published cycles apply to all three products. Career research is the portfolio’s first stage; complete it for Review 1 on **November 12 at 2:30 p.m. Eastern**. Use the [instructor research examples](/course/research-examples) to develop your own sources, decisions and specification. The first three reviews are due at class start; the holiday breaks the usual rhythm for Review 3. [The schedule explains the exceptions](/course/schedule#exceptions-and-protected-time).
 
 ## What to bring to a review
 
@@ -34,7 +34,7 @@ A Studio receipt links a focused skill/check; the project review links that same
 
 ## Finish and demonstrate
 
-**Nov 30–Dec 4:** no new topic. Use class for repair, missed reviews, integration and rehearsal. Keep the same links through the planned Dec 6 final-ready target.
+**Nov 30–Dec 4:** no new topic. Use class for repair, missed reviews, integration and rehearsal. Keep the same links through the published **Dec 6, 11:59 p.m.** Improve/final-ready deadline.
 
 **Dec 7 and Dec 10:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. Delivery and presentation slots still need confirmation. [Demo Days](/demo-days).
 

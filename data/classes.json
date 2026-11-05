@@ -15,59 +15,75 @@
       },
       {
         "key": "individual-1",
-        "title": "Individual Review 1 — Plan",
+        "title": "Creative Game Review 1 — Plan",
         "date": "2026-11-13",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769198,
+        "points": 100
       },
       {
         "key": "group-1",
         "title": "Group Review 1 — Plan",
         "date": "2026-11-13",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769202,
+        "points": 100
       },
       {
         "key": "individual-2",
-        "title": "Individual Review 2 — First working slice",
+        "title": "Creative Game Review 2 — First working slice",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769199,
+        "points": 100
       },
       {
         "key": "group-2",
         "title": "Group Review 2 — First working slice",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769203,
+        "points": 100
       },
       {
         "key": "individual-3",
-        "title": "Individual Review 3 — Integrated build",
+        "title": "Creative Game Review 3 — Integrated build",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769200,
+        "points": 100
       },
       {
         "key": "group-3",
         "title": "Group Review 3 — Integrated build",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769204,
+        "points": 100
       },
       {
         "key": "individual-4",
-        "title": "Individual Review 4 — Improve and hand off",
+        "title": "Creative Game Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769201,
+        "points": 100
       },
       {
         "key": "group-4",
         "title": "Group Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769205,
+        "points": 100
       },
       {
         "key": "studio-002",
@@ -88,28 +104,36 @@
         "title": "Portfolio Review 1 — Research and plan",
         "date": "2026-11-13",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769206,
+        "points": 100
       },
       {
         "key": "portfolio-2",
         "title": "Portfolio Review 2 — First presentation options",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769207,
+        "points": 100
       },
       {
         "key": "portfolio-3",
         "title": "Portfolio Review 3 — Integrated portfolio",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769208,
+        "points": 100
       },
       {
         "key": "portfolio-4",
         "title": "Portfolio Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769209,
+        "points": 100
       }
     ],
     "classes": [
@@ -136,7 +160,7 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "RPS-001 is due at 11:59 p.m., not before this class. Future targets are planned until Canvas posts them.",
+        "note": "RPS-001 is due at 11:59 p.m., not before this class. The four project reviews are now posted; separate Studios and teaching plans remain labeled.",
         "win": "Make a round work, explain a test, and show the code you checked."
       },
       {
@@ -160,7 +184,7 @@
           "link": "/examples/portfolio",
           "text": "Two portfolio draft records"
         },
-        "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting.",
+        "note": "The three projects have published Canvas reviews. Use the matching assignment links; confirm your group membership before submitting.",
         "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
       },
       {
@@ -189,7 +213,7 @@
       },
       {
         "date": "2026-11-13",
-        "label": "Fri Nov 13 · Review 1 target; start a working slice",
+        "label": "Fri Nov 13 · Review 1 due; start a working slice",
         "bring": "Portfolio research/design, game/account stories and the group’s agreed customer scope.",
         "work": "Start the game account/result slice, the customer workflow and two small portfolio presentation options.",
         "review": "Predict one successful task and one rejected action before testing.",
@@ -243,7 +267,7 @@
       },
       {
         "date": "2026-11-20",
-        "label": "Fri Nov 20 · Review 2 target; integrate the build",
+        "label": "Fri Nov 20 · Review 2 due; integrate the build",
         "bring": "Current game/accounts, group slice and chosen portfolio presentation.",
         "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
         "review": "Which account/data boundary or customer assumption needs a test or change?",
@@ -322,7 +346,7 @@
           "link": "/examples/student-walkthrough",
           "text": "Student walkthrough"
         },
-        "note": "Planned build target after the holiday. This does not add a new report or restart the project.",
+        "note": "Published integrated-build checkpoint after the holiday. This does not add a new report or restart the project.",
         "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
@@ -351,11 +375,11 @@
       },
       {
         "date": "2026-12-06",
-        "label": "Sun Dec 6 · Planned final-ready target — no class",
+        "label": "Sun Dec 6 · Final reviews due — no class",
         "bring": "The chosen game, customer workflow and portfolio; existing records and final source revisions.",
-        "work": "No Sunday class is scheduled. This is the proposed final-ready cutoff.",
+        "work": "No Sunday class is scheduled. Submit the published Improve/handoff reviews by 11:59 p.m. Eastern.",
         "review": "Include actual feedback/change/retest evidence; do not invent a missing check.",
-        "update": "Keep the same working links for the proposed class demos.",
+        "update": "Keep the same working project and source links for demonstrations.",
         "due": [
           "individual-4",
           "group-4",
@@ -370,7 +394,7 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Planned until posted in Canvas; 11:59 p.m. Eastern.",
+        "note": "Published in Canvas: 11:59 p.m. Eastern. Follow the matching review assignment for scope and submission.",
         "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {
@@ -451,59 +475,75 @@
       },
       {
         "key": "individual-1",
-        "title": "Individual Review 1 — Plan",
+        "title": "Creative Game Review 1 — Plan",
         "date": "2026-11-12",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769213,
+        "points": 100
       },
       {
         "key": "group-1",
         "title": "Group Review 1 — Plan",
         "date": "2026-11-12",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769217,
+        "points": 100
       },
       {
         "key": "individual-2",
-        "title": "Individual Review 2 — First working slice",
+        "title": "Creative Game Review 2 — First working slice",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239407",
+        "points": 100
       },
       {
         "key": "group-2",
         "title": "Group Review 2 — First working slice",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239409",
+        "points": 100
       },
       {
         "key": "individual-3",
-        "title": "Individual Review 3 — Integrated build",
+        "title": "Creative Game Review 3 — Integrated build",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239410",
+        "points": 100
       },
       {
         "key": "group-3",
         "title": "Group Review 3 — Integrated build",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239411",
+        "points": 100
       },
       {
         "key": "individual-4",
-        "title": "Individual Review 4 — Improve and hand off",
+        "title": "Creative Game Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239414",
+        "points": 100
       },
       {
         "key": "group-4",
         "title": "Group Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239413",
+        "points": 100
       },
       {
         "key": "studio-002",
@@ -524,28 +564,36 @@
         "title": "Portfolio Review 1 — Research and plan",
         "date": "2026-11-12",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "assignmentId": 769221,
+        "points": 100
       },
       {
         "key": "portfolio-2",
         "title": "Portfolio Review 2 — First presentation options",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239408",
+        "points": 100
       },
       {
         "key": "portfolio-3",
         "title": "Portfolio Review 3 — Integrated portfolio",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239412",
+        "points": 100
       },
       {
         "key": "portfolio-4",
         "title": "Portfolio Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
-        "status": "planned"
+        "status": "posted",
+        "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239415",
+        "points": 100
       }
     ],
     "classes": [
@@ -572,7 +620,7 @@
           "link": "/examples/individual",
           "text": "Individual example"
         },
-        "note": "RPS-001 is due at 11:59 p.m., not before this class. Future targets are planned until Canvas posts them.",
+        "note": "RPS-001 is due at 11:59 p.m., not before this class. The four project reviews are now posted; separate Studios and teaching plans remain labeled.",
         "win": "Make a round work, explain a test, and show the code you checked."
       },
       {
@@ -596,7 +644,7 @@
           "link": "/examples/portfolio",
           "text": "Two portfolio draft records"
         },
-        "note": "These are planned future reviews. Confirm current teams and Canvas instructions before submitting.",
+        "note": "The three projects have published Canvas reviews. Use the matching assignment links; confirm your group membership before submitting.",
         "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
       },
       {
@@ -625,7 +673,7 @@
       },
       {
         "date": "2026-11-12",
-        "label": "Thu Nov 12 · Review 1 target; start a working slice",
+        "label": "Thu Nov 12 · Review 1 due; start a working slice",
         "bring": "Portfolio research/design, game/account stories and the group’s agreed customer scope.",
         "work": "Start the game account/result slice, the customer workflow and two small portfolio presentation options.",
         "review": "Predict one successful task and one rejected action before testing.",
@@ -679,7 +727,7 @@
       },
       {
         "date": "2026-11-19",
-        "label": "Thu Nov 19 · Review 2 target; integrate the build",
+        "label": "Thu Nov 19 · Review 2 due; integrate the build",
         "bring": "Current game/accounts, group slice and chosen portfolio presentation.",
         "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
         "review": "Which account/data boundary or customer assumption needs a test or change?",
@@ -758,7 +806,7 @@
           "link": "/examples/student-walkthrough",
           "text": "Student walkthrough"
         },
-        "note": "Planned build target after the holiday. This does not add a new report or restart the project.",
+        "note": "Published integrated-build checkpoint after the holiday. This does not add a new report or restart the project.",
         "win": "Make your app easier to use and build a project story for an internship conversation."
       },
       {
@@ -787,11 +835,11 @@
       },
       {
         "date": "2026-12-06",
-        "label": "Sun Dec 6 · Planned final-ready target — no class",
+        "label": "Sun Dec 6 · Final reviews due — no class",
         "bring": "The chosen game, customer workflow and portfolio; existing records and final source revisions.",
-        "work": "No Sunday class is scheduled. This is the proposed final-ready cutoff.",
+        "work": "No Sunday class is scheduled. Submit the published Improve/handoff reviews by 11:59 p.m. Eastern.",
         "review": "Include actual feedback/change/retest evidence; do not invent a missing check.",
-        "update": "Keep the same working links for the proposed class demos.",
+        "update": "Keep the same working project and source links for demonstrations.",
         "due": [
           "individual-4",
           "group-4",
@@ -806,7 +854,7 @@
           "link": "/examples/",
           "text": "Worked examples"
         },
-        "note": "Planned until posted in Canvas; 11:59 p.m. Eastern.",
+        "note": "Published in Canvas: 11:59 p.m. Eastern. Follow the matching review assignment for scope and submission.",
         "win": "Show what you built, explain your contribution and describe what you learned."
       },
       {

@@ -34,6 +34,8 @@ This week: review RPS-001 and choose a first direction for each project. Archite
 
 **See what you can build:** [run the complete game example](/examples/full-game). Sign in, play, save a result and see your dashboard. Use it to understand the pieces, then make your own choices.
 
+**Research before choosing:** [open the instructor research examples](/course/research-examples) for the game notebook, AI Career Atlas and regional career guide. Investigate your own interests, verify sources and turn your decisions into the specifications for your game and portfolio website, LinkedIn and GitHub.
+
 **Why it matters:** you will have work you can demonstrate and explain in an internship or client conversation.
 
-[The whole plan](/course/overview) · [What to hand in](/course/milestones) · [Examples](/examples/). Canvas holds official assignments and grades; future targets here remain planned until posted.
+[The whole plan](/course/overview) · [What to hand in](/course/milestones) · [Examples](/examples/). The four reviews for all three final projects are published in Canvas. Additional Studio and teaching plans remain labeled separately; Canvas holds official assignments and grades.

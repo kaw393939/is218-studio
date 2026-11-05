@@ -94,7 +94,7 @@ Imani's résumé should describe checked course work rather than imply professio
 
 ## Proposed rubric, provisional scores and feedback
 
-This uses the site's [four-row teaching rubric](/course/milestones#how-the-worked-examples-are-assessed), **25 points per row**. Adoption and any graded portfolio criteria remain planned until posted in Canvas. These are scores for the **supplied draft records**, not final-product grades or evidence of a person's understanding. Missing career sources, sites, owned profiles, execution and real review lower the scores.
+This uses the site's [four-row project-review rubric](/course/milestones#how-the-worked-examples-are-assessed), **25 points per row**, now published in the Canvas portfolio reviews. These are illustrative scores for the **supplied draft records**, not final-product grades or evidence of a person's understanding. Missing career sources, sites, owned profiles, execution and real review lower the scores.
 
 | Criterion | Sam | Imani | What is evidenced or missing |
 | --- | --- | --- | --- |

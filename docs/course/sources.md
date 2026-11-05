@@ -1,6 +1,14 @@
 # Course sources and setup notes
 
-Instructor reference · Canvas research November 2; creative direction updated November 3, 2026. Students should begin with [their class card](/course/schedule), not this source inventory.
+Instructor reference · Initial Canvas research November 2; creative direction November 3; published-review alignment November 5, 2026. Students should begin with [their class card](/course/schedule), not this source inventory.
+
+## Current Canvas alignment · November 5
+
+Both sections now have published Plan, First Working Slice, Integrated Build and Improve reviews for the creative game, group customer project and portfolio. The first three deadlines are at class start; Improve is **December 6 at 11:59 p.m. Eastern**. Section 003 uses November 12, November 19 and November 30; Section 001 uses November 13, November 20 and December 2. The class-card data links the actual assignments or their verified Canvas module items, with the published points. [Published schedule](/course/schedule).
+
+The [instructor research examples](/course/research-examples) connect the game notebook, AI Career Atlas and regional field guide to students' own investigation and specifications. They do not choose a career or stack, replace original sources, remove the complete account/game journey or create another report. Private career reflection stays in Canvas; public professional materials use actual work and suitable goals.
+
+The earlier snapshots below document what was observed then. Their statements that reviews had not yet been posted are historical. Separate Studio 002/003 assignments, exact Docker teaching evidence and regular-class demo arrangements are not treated as posted without their own Canvas confirmation. RPS-001's original requirements, rubric and dates remain unchanged; this guide changes no course category weights.
 
 ## Canvas facts observed November 2
 
@@ -15,7 +23,7 @@ The current plan has **three products**: creative game, group simulated-customer
 
 The instructor also plans architecture/Docker teaching next week, using the existing application. Exact timing and graded Docker evidence are not yet confirmed. This week reviews the current Studio and launches all three project tasks.
 
-This latest direction supersedes the earlier November 3 proposal that made game accounts optional and omitted a portfolio. **The posted RPS-001 scope, deadlines and rubric are unchanged.** Later briefs remain planned until Canvas is aligned; no category-weight change is implied.
+This direction superseded the earlier November 3 proposal that made game accounts optional and omitted a portfolio. **The posted RPS-001 scope, deadlines and rubric are unchanged.** The final-project reviews have since been published as recorded in the November 5 alignment above; no category-weight change is implied.
 
 ## Studio teaching reference
 
@@ -33,7 +41,9 @@ It states Midterm 25%, Final 25%, Homework 50% complete/incomplete, expected cla
 
 The attachment has no specific AI rule; the published RPS task explicitly permits AI with predictions, checking and ownership. The tentative older weekly outline and older communication-channel wording do not override the current home and assignment. Use Canvas Inbox for private course questions as the current home directs.
 
-## Setup issues to resolve in Canvas
+## Setup issues recorded November 2
+
+This historical checklist is not the current assignment inventory. The final-project modules and review boxes are now published. Other items require their own current verification before changing Canvas.
 
 1. Section 001 RPS prose says Nov 2, but the actual due table and home say **Nov 4**. Correct the prose without moving the deadline.
 2. Section 001's RPS sits in Imported Assignments, 0%; 003's is in Assignments, 50%. Confirm intended placement before changing it.

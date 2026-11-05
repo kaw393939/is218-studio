@@ -16,6 +16,8 @@
 
 **This week:** review RPS-001; find an interesting AI job, compare two game ideas and choose a group customer.
 
+Use the [instructor research examples](/course/research-examples) to begin your own investigation. The game notebook and career guides show a process; your sources, interests and decisions become your own specification, portfolio website and accurate LinkedIn/GitHub presentation.
+
 **Next week, planned:** use the same app to explore architecture and Docker. Work with classmates and finish the first research/planning cycle. Exact lesson timing will be confirmed in Canvas.
 
 ## Follow one class at a time
@@ -39,7 +41,7 @@ Choose your language/framework. Keep a bigger creative idea and a small finished
 
 ## Posted and planned
 
-RPS-001 keeps its supplied Python starter, original scope, checks, deadline and rubric. Later reviews and Studios remain planned until Canvas posts them; no category weights change. [What to hand in and the rubrics](/course/milestones).
+RPS-001 keeps its supplied Python starter, original scope, checks, deadline and rubric. The four reviews for the creative game, group customer project and portfolio are now published in both Canvas sections. Follow their submission links and adopted rubric. Separate later Studios and exact Docker teaching requirements remain planned until posted; no category weights change. [What to hand in and the rubrics](/course/milestones).
 
 Nov 30–Dec 4 is finishing/review time. The announced final/redo block is Dec 16, 2:30–5 p.m. Eastern. [Dates](/course/schedule) · [Demo details](/demo-days).
 

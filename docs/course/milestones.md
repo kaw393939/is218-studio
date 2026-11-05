@@ -28,9 +28,9 @@ Compare two options where the decision matters. Shared code, content and assets 
 
 </details>
 
-## Proposed example rubric {#how-the-worked-examples-are-assessed}
+## Published project-review rubric {#how-the-worked-examples-are-assessed}
 
-The worked examples use **25 points per row**. Canvas must publish any adopted future rubric before grading. This does not set course category weights.
+The published final-project review assignments use **25 points per row**. The worked examples illustrate those four criteria; their fictional scores are not student grades. Follow Canvas for the required scope, dates and points. This does not change course category weights or the earlier RPS-001 rubric.
 
 | Criterion | Evidence |
 | --- | --- |

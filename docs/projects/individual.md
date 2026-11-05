@@ -2,13 +2,15 @@
 
 **Imagine a game you want to make. Finish a small version that someone can sign into, play, return to and manage.** RPS or another simple game supplies the core. Any language, framework or engine is welcome when it supports the required behavior and meaningful tests.
 
-Canvas will confirm this planned final brief; the posted RPS-001 task stays unchanged.
+The final-project review assignments are published in Canvas for both sections. Follow your [section's review links and dates](/course/schedule); the posted RPS-001 task stays unchanged.
 
 ## Start with one playable idea
 
 Two rough directions help you choose. Build **one** finished game/account flow; shared code and assets are fine.
 
 [Try the complete game reference](/examples/full-game), then choose a theme, opponent or interaction that interests you. Sketch two possible first screens. Your own code and checks will grow from that choice.
+
+For research, inspect the [AI Game Lab notebook](https://kaw393939.github.io/is218-individual-game/) and its [repository](https://github.com/kaw393939/is218-individual-game). It is an instructor research/planning example, not a completed game or required engine choice. Investigate your own concepts, compare original sources and turn your decisions into a specification. Its narrower exploratory scope does not replace the complete account/game journey below. [All research examples and how to use them](/course/research-examples).
 
 ## Required final experience
 

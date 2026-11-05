@@ -1,6 +1,6 @@
 # Write a résumé you can explain
 
-**Portfolio component.** Use this guide in your IS218 portfolio. Keep actual profiles, project claims and materials consistent. Portfolio dates and points remain planned until posted in Canvas. [Portfolio brief](/projects/portfolio).
+**Portfolio component.** Use this guide in your IS218 portfolio. Keep actual profiles, project claims and materials consistent. Follow the published Canvas portfolio reviews for dates, points and submissions. [Portfolio brief](/projects/portfolio) · [Your section's review links](/course/schedule).
 
 Aim for about one readable page for an early-career résumé. Describe **your contribution + what you built or checked + evidence**. Label course projects; do not invent employment, credentials, metrics or tests.
 

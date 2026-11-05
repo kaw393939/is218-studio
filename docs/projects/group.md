@@ -39,4 +39,4 @@ Give a real classmate a task without coaching. Record what happens, respond in a
 
 [DeskReady and ClubKit](/examples/group) are earlier, partial teaching records. Their static previews illustrate wording and A/B design; they do **not** meet the new customer kit's stored-workflow contract. Use the kit's stories and your own executed checks for your project.
 
-[Start the customer simulator](/projects/customer-simulator) · [Section dates](/course/schedule). Future dates and grading arrangements remain planned until posted in Canvas; the current RPS-001 assignment is unchanged.
+[Start the customer simulator](/projects/customer-simulator) · [Published section review dates](/course/schedule). Use your own discovery and evidence to write the team's specification; [instructor research examples](/course/research-examples) illustrate the process. Canvas has the current review assignments and rubric; the current RPS-001 assignment is unchanged.
