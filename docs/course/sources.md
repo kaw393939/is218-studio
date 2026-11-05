@@ -10,6 +10,8 @@ The [instructor research examples](/course/research-examples) connect the game n
 
 The earlier snapshots below document what was observed then. Their statements that reviews had not yet been posted are historical. Separate Studio 002/003 assignments, exact Docker teaching evidence and regular-class demo arrangements are not treated as posted without their own Canvas confirmation. RPS-001's original requirements, rubric and dates remain unchanged; this guide changes no course category weights.
 
+The November 5 Student View audit also confirmed all three Final Product assessments in each section: final work ready December 6 at 11:59 p.m., reuse of Review 4 URLs with no new upload/report, and a short PowerPoint supporting the live demonstration. [Final assessment links](/course/milestones#final-products-and-demo-day) · [Demo Day preparation](/demo-days#prepare-your-demo-day-powerpoint). These assignments do not add a paid host or public game-deployment requirement; the guide retains the reproducible local application option and suitable public portfolio hosting.
+
 ## Canvas facts observed November 2
 
 - **001:** [70712 home](https://njit.instructure.com/courses/70712), Wed/Fri 10–11:20 a.m., CKB 313; [RPS 768166](https://njit.instructure.com/courses/70712/assignments/768166) due Nov 4 at 11:59 p.m.

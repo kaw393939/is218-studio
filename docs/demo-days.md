@@ -9,9 +9,17 @@ Start from your portfolio, demonstrate your creative account-based game and expl
 | **003 · Dec 7 and Dec 10**, normal class time | Planned regular-class demos. Slots and format need instructor confirmation. |
 | **001 · Dec 9 and Dec 11**, normal class time | Planned regular-class demos. |
 | **Dec 16 · 2:30–5 p.m. Eastern**, both sections | Already announced official final/redo block. |
-| **Dec 6 · 11:59 p.m.** | Planned final-ready target, not a posted Canvas deadline or Sunday class. |
+| **Dec 6 · 11:59 p.m. Eastern** | Published Improve/final-work-ready deadline in Canvas; no Sunday class meeting. |
 
 **Delivery details are not settled:** the current course homes say Zoom, with the link forthcoming; the Registrar lists **FMH 408** for the December 16 block. Follow the instructor's confirmed Canvas instructions before making attendance arrangements. [Official schedule](https://www.njit.edu/registrar/exams/finalexams).
+
+## Prepare your Demo Day PowerPoint
+
+The published Final Product assignments require a **short PowerPoint presentation supporting the live demonstration**. Use a consulting-style story: problem and audience → solution and live demo → evidence and results → lessons and next steps.
+
+Give each slide one clear takeaway. Use screenshots or simple visuals, show your own contribution, and keep the slides brief enough to leave room for the demonstration and questions. Teams prepare one shared deck; individuals prepare their own. Canvas will confirm presentation slots, duration and delivery details; this guide adds no slide-count or separate upload requirement.
+
+Keep final work, source and the continuing record at your Review 4 URLs. **No new upload or report** is required for the Final Product grade entries. If a URL changes, send the correction privately through Canvas Inbox. [Final Product links and review submission guidance](/course/milestones#final-products-and-demo-day).
 
 ## Prepare a short demonstration
 

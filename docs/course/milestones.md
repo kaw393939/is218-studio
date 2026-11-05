@@ -11,6 +11,15 @@ The group shares one record and names each person's work. A Studio can use the s
 
 **See the size to aim for:** [short update example](/examples/). [Your next class](/course/schedule) has the current task and date.
 
+## Final products and Demo Day
+
+The three Final Product assessments use your finished work and live explanation at the **existing Review 4 URLs**. Have final work ready **December 6, 2026, at 11:59 p.m. Eastern**. There is **no new upload or report**; send a changed URL privately through Canvas Inbox.
+
+Prepare the short **PowerPoint supporting your live demonstration** required by those assignments. Teams prepare one shared deck; individuals prepare their own. Follow the [Demo Day presentation guidance](/demo-days#prepare-your-demo-day-powerpoint) and Canvas's confirmed slots, duration and delivery details.
+
+- **Section 001 final assessments:** [creative game](https://njit.instructure.com/courses/70712/assignments/769210) · [group customer project](https://njit.instructure.com/courses/70712/assignments/769211) · [portfolio](https://njit.instructure.com/courses/70712/assignments/769212).
+- **Section 003 final assessments:** [creative game](https://njit.instructure.com/courses/70713/assignments/769225) · [group customer project](https://njit.instructure.com/courses/70713/assignments/769226) · [portfolio](https://njit.instructure.com/courses/70713/assignments/769227).
+
 <details>
 <summary>What each of the four reviews adds</summary>
 
