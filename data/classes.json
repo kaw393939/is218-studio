@@ -15,7 +15,7 @@
       },
       {
         "key": "individual-1",
-        "title": "Creative Game Review 1 — Plan",
+        "title": "Creative Project Review 1 — Plan",
         "date": "2026-11-13",
         "time": "10:00 a.m.",
         "status": "posted",
@@ -33,7 +33,7 @@
       },
       {
         "key": "individual-2",
-        "title": "Creative Game Review 2 — First working slice",
+        "title": "Creative Project Review 2 — First working slice",
         "date": "2026-11-20",
         "time": "10:00 a.m.",
         "status": "posted",
@@ -51,7 +51,7 @@
       },
       {
         "key": "individual-3",
-        "title": "Creative Game Review 3 — Integrated build",
+        "title": "Creative Project Review 3 — Integrated build",
         "date": "2026-12-02",
         "time": "10:00 a.m.",
         "status": "posted",
@@ -69,7 +69,7 @@
       },
       {
         "key": "individual-4",
-        "title": "Creative Game Review 4 — Improve and hand off",
+        "title": "Creative Project Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
         "status": "posted",
@@ -190,10 +190,10 @@
       {
         "date": "2026-11-11",
         "label": "Wed Nov 11 · Plan workshop and peer questions",
-        "bring": "Three role cards, two portfolio directions, the game/account plan and a chosen group customer.",
+        "bring": "Both published research sites and repository links: career/portfolio and AI/programming; existing role cards, directions and chosen group customer.",
         "work": "Planned architecture/Docker introduction using the same app, then portfolio/design review and customer discovery. Compare local/container startup; exact lesson timing will be confirmed.",
-        "review": "Can a peer identify the audience, required game journey and customer problem without coaching?",
-        "update": "Keep career/design notes with the portfolio; game checks and labeled customer notes stay in their own records.",
+        "review": "Present both sites to a partner. Trace an original source through evidence, alternatives, decision and next check; distinguish facts from assumptions.",
+        "update": "Open useful GitHub issues, record decisions, link documentation/code changes and verify before resolution. Keep private career reflection in Canvas.",
         "due": [],
         "next": [
           "individual-1",
@@ -201,21 +201,21 @@
           "portfolio-1"
         ],
         "guide": {
-          "link": "/process/architecture",
-          "text": "Architecture, patterns and tests"
+          "link": "/course/research-examples",
+          "text": "Two research sites and peer-review checklist"
         },
         "example": {
           "link": "/examples/individual",
           "text": "Individual example"
         },
         "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets.",
-        "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
+        "win": "Leave with a creative idea, a career direction and a customer your team wants to build for."
       },
       {
         "date": "2026-11-13",
         "label": "Fri Nov 13 · Review 1 due; start a working slice",
-        "bring": "Portfolio research/design, game/account stories and the group’s agreed customer scope.",
-        "work": "Start the game account/result slice, the customer workflow and two small portfolio presentation options.",
+        "bring": "Two published research sites with repository links for the matching creative/portfolio Plan submissions; existing stories, design decisions and group customer scope.",
+        "work": "Start the application account/result slice, the customer workflow and two small portfolio presentation options.",
         "review": "Predict one successful task and one rejected action before testing.",
         "update": "Link actual code/checks and current portfolio drafts; use the same three records.",
         "due": [
@@ -238,15 +238,15 @@
           "text": "Individual example"
         },
         "note": "",
-        "win": "Show one working path from sign-in to a saved game result."
+        "win": "Show one working path from sign-in to a saved task result."
       },
       {
         "date": "2026-11-18",
         "label": "Wed Nov 18 · Build workshop and cross-review",
-        "bring": "Accounts plus a playable game slice, group workflow code and two portfolio presentations.",
-        "work": "Test a saved game and account boundaries; cross-review the group slice and try portfolio reader tasks.",
+        "bring": "Accounts plus a working core-task slice, group workflow code and two portfolio presentations.",
+        "work": "Test a saved task result and account boundaries; cross-review the group slice and try portfolio reader tasks.",
         "review": "Observe a real classmate, open a useful issue and compare the design alternatives.",
-        "update": "Record actual checks, pattern/AI decisions and peer findings; reuse game evidence for Studio 002.",
+        "update": "Record actual checks, pattern/AI decisions and peer findings; reuse application evidence for Studio 002.",
         "due": [],
         "next": [
           "individual-2",
@@ -263,15 +263,15 @@
           "text": "Bot Lab architecture example"
         },
         "note": "",
-        "win": "Show one working path from sign-in to a saved game result."
+        "win": "Show one working path from sign-in to a saved task result."
       },
       {
         "date": "2026-11-20",
         "label": "Fri Nov 20 · Review 2 due; integrate the build",
-        "bring": "Current game/accounts, group slice and chosen portfolio presentation.",
+        "bring": "Current application/accounts, group slice and chosen portfolio presentation.",
         "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
         "review": "Which account/data boundary or customer assumption needs a test or change?",
-        "update": "Reuse the game evidence for the Studio; update customer notes and portfolio case studies.",
+        "update": "Reuse the application evidence for the Studio; update customer notes and portfolio case studies.",
         "due": [
           "individual-2",
           "group-2",
@@ -293,12 +293,12 @@
           "text": "Bot Lab design and checks"
         },
         "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week.",
-        "win": "Show one working path from sign-in to a saved game result."
+        "win": "Show one working path from sign-in to a saved task result."
       },
       {
         "date": "2026-11-25",
         "label": "Wed Nov 25 · Integration and review workshop",
-        "bring": "Integrated account/game, customer workflow and portfolio with current links.",
+        "bring": "Integrated account/core-task, customer workflow and portfolio with current links.",
         "work": "Check persistence, dashboard, account updates and ownership. Resolve the customer change and test portfolio navigation.",
         "review": "Try each product’s agreed task without coaching; compare expected with actual behavior.",
         "update": "Record defects, actual tests and response/retest plans. Freeze scope before finishing week.",
@@ -323,7 +323,7 @@
       {
         "date": "2026-12-02",
         "label": "Wed Dec 2 · Build snapshot; protected finishing work",
-        "bring": "Three Review 3 snapshots, game integration checks and unresolved issues.",
+        "bring": "Three Review 3 snapshots, application integration checks and unresolved issues.",
         "work": "Capture the snapshots; repair account/data, customer workflow and portfolio issues. Complete missed peer reviews; no new topic.",
         "review": "Observe the changed task and rerun the affected checks.",
         "update": "Keep the same three records and URLs; finalize actual AI-learning and contribution notes.",
@@ -353,7 +353,7 @@
         "date": "2026-12-04",
         "label": "Fri Dec 4 · Protected reviews and rehearsal",
         "bring": "All working projects, issue responses, final links and actual contribution notes.",
-        "work": "Finish repairs and real reviews for game, customer project and portfolio; rehearse the architecture, evidence and professional introduction.",
+        "work": "Finish repairs and real reviews for the creative application, customer project and portfolio; rehearse the architecture, evidence and professional introduction.",
         "review": "Have a peer try the changed task again; verify the result and remaining limits.",
         "update": "Finalize the same record: actual checks, pattern choice and one next-time change. No new feature area.",
         "due": [],
@@ -376,7 +376,7 @@
       {
         "date": "2026-12-06",
         "label": "Sun Dec 6 · Final reviews due — no class",
-        "bring": "The chosen game, customer workflow and portfolio; existing records and final source revisions.",
+        "bring": "The chosen application, customer workflow and portfolio; existing records and final source revisions.",
         "work": "No Sunday class is scheduled. Submit the published Improve/handoff reviews by 11:59 p.m. Eastern.",
         "review": "Include actual feedback/change/retest evidence; do not invent a missing check.",
         "update": "Keep the same working project and source links for demonstrations.",
@@ -475,7 +475,7 @@
       },
       {
         "key": "individual-1",
-        "title": "Creative Game Review 1 — Plan",
+        "title": "Creative Project Review 1 — Plan",
         "date": "2026-11-12",
         "time": "2:30 p.m.",
         "status": "posted",
@@ -493,7 +493,7 @@
       },
       {
         "key": "individual-2",
-        "title": "Creative Game Review 2 — First working slice",
+        "title": "Creative Project Review 2 — First working slice",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
         "status": "posted",
@@ -511,7 +511,7 @@
       },
       {
         "key": "individual-3",
-        "title": "Creative Game Review 3 — Integrated build",
+        "title": "Creative Project Review 3 — Integrated build",
         "date": "2026-11-30",
         "time": "2:30 p.m.",
         "status": "posted",
@@ -529,7 +529,7 @@
       },
       {
         "key": "individual-4",
-        "title": "Creative Game Review 4 — Improve and hand off",
+        "title": "Creative Project Review 4 — Improve and hand off",
         "date": "2026-12-06",
         "time": "11:59 p.m.",
         "status": "posted",
@@ -650,10 +650,10 @@
       {
         "date": "2026-11-09",
         "label": "Mon Nov 9 · Plan workshop and peer questions",
-        "bring": "Three role cards, two portfolio directions, the game/account plan and a chosen group customer.",
+        "bring": "Both published research sites and repository links: career/portfolio and AI/programming; existing role cards, directions and chosen group customer.",
         "work": "Planned architecture/Docker introduction using the same app, then portfolio/design review and customer discovery. Compare local/container startup; exact lesson timing will be confirmed.",
-        "review": "Can a peer identify the audience, required game journey and customer problem without coaching?",
-        "update": "Keep career/design notes with the portfolio; game checks and labeled customer notes stay in their own records.",
+        "review": "Present both sites to a partner. Trace an original source through evidence, alternatives, decision and next check; distinguish facts from assumptions.",
+        "update": "Open useful GitHub issues, record decisions, link documentation/code changes and verify before resolution. Keep private career reflection in Canvas.",
         "due": [],
         "next": [
           "individual-1",
@@ -661,21 +661,21 @@
           "portfolio-1"
         ],
         "guide": {
-          "link": "/process/architecture",
-          "text": "Architecture, patterns and tests"
+          "link": "/course/research-examples",
+          "text": "Two research sites and peer-review checklist"
         },
         "example": {
           "link": "/examples/individual",
           "text": "Individual example"
         },
         "note": "Docker teaching is planned for next week. No new Docker deadline or grading rule is posted; keep the existing research/plan targets.",
-        "win": "Leave with a game idea, a career direction and a customer your team wants to build for."
+        "win": "Leave with a creative idea, a career direction and a customer your team wants to build for."
       },
       {
         "date": "2026-11-12",
         "label": "Thu Nov 12 · Review 1 due; start a working slice",
-        "bring": "Portfolio research/design, game/account stories and the group’s agreed customer scope.",
-        "work": "Start the game account/result slice, the customer workflow and two small portfolio presentation options.",
+        "bring": "Two published research sites with repository links for the matching creative/portfolio Plan submissions; existing stories, design decisions and group customer scope.",
+        "work": "Start the application account/result slice, the customer workflow and two small portfolio presentation options.",
         "review": "Predict one successful task and one rejected action before testing.",
         "update": "Link actual code/checks and current portfolio drafts; use the same three records.",
         "due": [
@@ -698,15 +698,15 @@
           "text": "Individual example"
         },
         "note": "",
-        "win": "Show one working path from sign-in to a saved game result."
+        "win": "Show one working path from sign-in to a saved task result."
       },
       {
         "date": "2026-11-16",
         "label": "Mon Nov 16 · Build workshop and cross-review",
-        "bring": "Accounts plus a playable game slice, group workflow code and two portfolio presentations.",
-        "work": "Test a saved game and account boundaries; cross-review the group slice and try portfolio reader tasks.",
+        "bring": "Accounts plus a working core-task slice, group workflow code and two portfolio presentations.",
+        "work": "Test a saved task result and account boundaries; cross-review the group slice and try portfolio reader tasks.",
         "review": "Observe a real classmate, open a useful issue and compare the design alternatives.",
-        "update": "Record actual checks, pattern/AI decisions and peer findings; reuse game evidence for Studio 002.",
+        "update": "Record actual checks, pattern/AI decisions and peer findings; reuse application evidence for Studio 002.",
         "due": [],
         "next": [
           "individual-2",
@@ -723,15 +723,15 @@
           "text": "Bot Lab architecture example"
         },
         "note": "",
-        "win": "Show one working path from sign-in to a saved game result."
+        "win": "Show one working path from sign-in to a saved task result."
       },
       {
         "date": "2026-11-19",
         "label": "Thu Nov 19 · Review 2 due; integrate the build",
-        "bring": "Current game/accounts, group slice and chosen portfolio presentation.",
+        "bring": "Current application/accounts, group slice and chosen portfolio presentation.",
         "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
         "review": "Which account/data boundary or customer assumption needs a test or change?",
-        "update": "Reuse the game evidence for the Studio; update customer notes and portfolio case studies.",
+        "update": "Reuse the application evidence for the Studio; update customer notes and portfolio case studies.",
         "due": [
           "individual-2",
           "group-2",
@@ -753,12 +753,12 @@
           "text": "Bot Lab design and checks"
         },
         "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week.",
-        "win": "Show one working path from sign-in to a saved game result."
+        "win": "Show one working path from sign-in to a saved task result."
       },
       {
         "date": "2026-11-23",
         "label": "Mon Nov 23 · Integration and review workshop",
-        "bring": "Integrated account/game, customer workflow and portfolio with current links.",
+        "bring": "Integrated account/core-task, customer workflow and portfolio with current links.",
         "work": "Check persistence, dashboard, account updates and ownership. Resolve the customer change and test portfolio navigation.",
         "review": "Try each product’s agreed task without coaching; compare expected with actual behavior.",
         "update": "Record defects, actual tests and response/retest plans. Freeze scope before finishing week.",
@@ -783,7 +783,7 @@
       {
         "date": "2026-11-30",
         "label": "Mon Nov 30 · Build snapshot; protected finishing work",
-        "bring": "Three Review 3 snapshots, game integration checks and unresolved issues.",
+        "bring": "Three Review 3 snapshots, application integration checks and unresolved issues.",
         "work": "Capture the snapshots; repair account/data, customer workflow and portfolio issues. Complete missed peer reviews; no new topic.",
         "review": "Observe the changed task and rerun the affected checks.",
         "update": "Keep the same three records and URLs; finalize actual AI-learning and contribution notes.",
@@ -813,7 +813,7 @@
         "date": "2026-12-03",
         "label": "Thu Dec 3 · Protected reviews and rehearsal",
         "bring": "All working projects, issue responses, final links and actual contribution notes.",
-        "work": "Finish repairs and real reviews for game, customer project and portfolio; rehearse the architecture, evidence and professional introduction.",
+        "work": "Finish repairs and real reviews for the creative application, customer project and portfolio; rehearse the architecture, evidence and professional introduction.",
         "review": "Have a peer try the changed task again; verify the result and remaining limits.",
         "update": "Finalize the same record: actual checks, pattern choice and one next-time change. No new feature area.",
         "due": [],
@@ -836,7 +836,7 @@
       {
         "date": "2026-12-06",
         "label": "Sun Dec 6 · Final reviews due — no class",
-        "bring": "The chosen game, customer workflow and portfolio; existing records and final source revisions.",
+        "bring": "The chosen application, customer workflow and portfolio; existing records and final source revisions.",
         "work": "No Sunday class is scheduled. Submit the published Improve/handoff reviews by 11:59 p.m. Eastern.",
         "review": "Include actual feedback/change/retest evidence; do not invent a missing check.",
         "update": "Keep the same working project and source links for demonstrations.",

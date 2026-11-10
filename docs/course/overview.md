@@ -6,15 +6,17 @@
 
 | Make this | What you can show someone |
 | --- | --- |
-| **[Creative Extravaganza](/projects/individual)** | Your take on RPS or another simple game, with accounts, saved scores, dashboard and account maintenance. |
+| **[Creative Extravaganza](/projects/individual)** | A game or useful bounded non-game workflow, with accounts, saved results, private dashboard and account maintenance. |
 | **[Group Customer Studio](/projects/group)** | A useful workflow built with teammates for one prepared customer scenario. |
 | **[Your portfolio](/projects/portfolio)** | Your career direction, projects, résumé, GitHub and LinkedIn. Improve an existing site if you have one. |
 
 [See the working game](/examples/full-game) · [Meet the customers](/projects/customer-simulator) · [See a short update](/examples/).
 
+Publish [two research sites](/course/research-examples) for the existing individual Plan checkpoints: career research leading to the portfolio, and AI/programming exploration leading to the creative application. A game is optional; the account/persistence/security learning goals remain.
+
 ## This week and next week
 
-**This week:** review RPS-001; find an interesting AI job, compare two game ideas and choose a group customer.
+**This week:** review RPS-001; find an interesting AI job, compare two creative application ideas and choose a group customer.
 
 Use the [instructor research examples](/course/research-examples) to begin your own investigation. The game notebook and career guides show a process; your sources, interests and decisions become your own specification, portfolio website and accurate LinkedIn/GitHub presentation.
 
@@ -37,11 +39,11 @@ Reuse Python/Git/testing, your OOP and pattern work, the CLI calculator and GitH
 
 ## Keep ambition and scope together
 
-Choose your language/framework. Keep a bigger creative idea and a small finished promise that includes the account/game requirements. Try one uncertain experiment; explain what worked or disappointed. Compare two meaningful approaches and use real peer feedback. [Full brief](/projects/individual) · [Engineering help](/process/architecture).
+Choose your language/framework. Keep a bigger creative idea and a small finished promise that includes the account/core-task requirements. Try one uncertain experiment; explain what worked or disappointed. Compare two meaningful approaches and use real peer feedback. [Full brief](/projects/individual) · [Engineering help](/process/architecture).
 
 ## Posted and planned
 
-RPS-001 keeps its supplied Python starter, original scope, checks, deadline and rubric. The four reviews for the creative game, group customer project and portfolio are now published in both Canvas sections. Follow their submission links and adopted rubric. Separate later Studios and exact Docker teaching requirements remain planned until posted; no category weights change. [What to hand in and the rubrics](/course/milestones).
+RPS-001 keeps its supplied Python starter, original scope, checks, deadline and rubric. The four reviews for the creative application, group customer project and portfolio are now published in both Canvas sections. Follow their submission links and adopted rubric. Separate later Studios and exact Docker teaching requirements remain planned until posted; no category weights change. [What to hand in and the rubrics](/course/milestones).
 
 Nov 30–Dec 4 is finishing/review time. The announced final/redo block is Dec 16, 2:30–5 p.m. Eastern. [Dates](/course/schedule) · [Demo details](/demo-days).
 

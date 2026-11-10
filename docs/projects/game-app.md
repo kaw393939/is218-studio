@@ -1,13 +1,15 @@
-# From a playable game to a complete application
+# From a core task to a complete application
 
-**One game, one account type, one private dashboard.** Keep the world, style and experience creative while making the required account/result journey reliable. This is the later creative-project plan; [posted RPS-001](/projects/studios#rps-001-posted) keeps its original scope.
+**One core workflow, one account type, one private dashboard.** A game is one path, not a requirement. Keep the world, style and experience creative while making the required account/result journey reliable. This is the later creative-project plan; [posted RPS-001](/projects/studios#rps-001-posted) keeps its original scope.
+
+For a non-game project, map the game examples below to a meaningful task/result/history workflow without prior approval. For example, validate a synthetic equipment request, save its pending result (not a confirmed booking), display only that user's request history and support the same account maintenance. Replace game-rule checks with independently expected workflow-rule checks; retain every authentication, ownership, persistence, duplicate-submission, failure, integration and browser check.
 
 ## Five stories to adapt
 
 | Story | Observable result |
 | --- | --- |
 | **Join and return** | A new user can register, sign in and return later. Duplicate accounts and wrong passwords produce useful errors. Passwords are stored as hashes using the framework/library. |
-| **Play and save** | A signed-in player completes a game; the backend validates the action and records the correct result for that player. Repeating the same completed-game request cannot add the result twice. |
+| **Act and save** | A signed-in user completes the chosen task (a game on the game path); the backend validates the action and records the correct result for that user. Repeating the same completed-task request cannot add the result twice. |
 | **See my progress** | The private dashboard shows my saved totals and recent results. A new account gets a clear empty state; refresh/restart preserves saved data. |
 | **Maintain my account** | I can change my display name and change my password by verifying the current password. The old password then fails; stale sessions are revoked according to the documented flow. I can sign in again with the new password. |
 | **Leave safely** | Logout invalidates the session. A direct private-page or data request after logout is denied, even if a browser still has an old page open. |
@@ -28,17 +30,17 @@ For RPS, the backend determines the outcome from validated moves and its opponen
 
 | Step | Independent check before moving on |
 | --- | --- |
-| **Game core** | All nine RPS outcomes, or the chosen game's complete small rule table; ties, ending and replay. |
+| **Core rules** | The chosen workflow's complete small rule/validation table, failure cases and repeat behavior. For games: all nine RPS outcomes or the chosen game's rules, ties, ending and replay. |
 | **Accounts + first saved result** | Create a throwaway user, reject a wrong password, save a valid result, reload it and log out. |
 | **Dashboard + maintenance** | Empty state, correct totals/history, two-user isolation, rejected invalid updates, display-name change, password/session behavior. |
 | **Integrated handoff** | A browser journey from signup to logout, denied direct requests, persistent data, full documented checks/CI and one regression after peer feedback. |
 
 Predict expected answers independently of the generated code. Unit tests check rules; integration tests check requests/session/database together; browser tests check a complete journey. A green starter or a pure-function test does not establish the later layers.
 
-Use synthetic users and game data. Keep local databases, secrets and personal passwords out of Git. Document setup and how tests create/reset their own data.
+Use synthetic users and task data. Keep local databases, secrets and personal passwords out of Git. Document setup and how tests create/reset their own data.
 
 ## Bound the delivery
 
-A local application with reproducible setup can demonstrate these behaviors. Put the public portfolio on suitable hosting; a backend game requires hosting that runs its server or supported service. GitHub Pages alone serves static files. A public game deployment is a later confirmed delivery choice, not an instruction to buy a VPS or reproduce another course's hosting stack.
+A local application with reproducible setup can demonstrate these behaviors. Put the public portfolio on suitable hosting; a backend application requires hosting that runs its server or supported service. GitHub Pages alone serves static files. A public application deployment is a later confirmed delivery choice, not an instruction to buy a VPS or reproduce another course's hosting stack.
 
 **Evidence:** link the source revision, actual test/CI results, architecture/pattern decision and a real peer issue/change/retest from the [same project record](/templates/project-record). Do not claim a static preview implements the missing account system.

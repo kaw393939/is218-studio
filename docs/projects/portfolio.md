@@ -4,6 +4,10 @@
 
 This is the IS218 portfolio brief. Reuse your existing website if you have one; keep the process and evidence here in IS218. Portfolio review assignments and their rubric are **published in Canvas**: [001 Plan](https://njit.instructure.com/courses/70712/assignments/769206) · [003 Plan](https://njit.instructure.com/courses/70713/assignments/769221) · [all section dates](/course/schedule). Update one portfolio record through the reviews; no additional weekly essay is needed. The current RPS-001 task is unchanged.
 
+## Plan: publish the career research site
+
+Publish a distinct career research website that makes your public source-based findings and portfolio decisions easy for a partner to inspect. Link its repository and your programming research site; submit the career site/repository with Portfolio Plan at the existing section deadline. Use the [two-site research guide](/course/research-examples) and the same portfolio record, not an additional report. Keep the full role comparison and personal reflection private in Canvas. The research site informs the finished portfolio; it does not require two complete portfolios.
+
 ## What belongs on the finished site?
 
 - A short introduction: what interests you, what you can demonstrate now, and the opportunity you want next.

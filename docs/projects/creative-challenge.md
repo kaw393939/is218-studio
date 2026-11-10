@@ -16,7 +16,7 @@ For the creative work **after the baseline, you may choose any programming langu
 | **Promise** | Which complete journey will your final version deliver? | Sign in, choose an opponent, play, save the result, view my dashboard and update my account. |
 | **Experiment** | Which uncertain idea will you investigate? | Can an opponent use recent moves in a way the player can understand? |
 
-The final promise includes [accounts, saved scores, a private dashboard and account maintenance](/projects/game-app). The ideas below describe the creative game core inside that shared application journey. Keep one game mode small; use the required account features with every direction. The experiment may succeed, change direction or be dropped. Write a **stop rule before starting**: “After 60 minutes, if I cannot explain its behavior and check one useful result, I will keep the reliable opponent and record what I learned.” Sixty minutes is an example, not a required work limit.
+A game is optional; choose a useful bounded non-game workflow without prior approval. The final promise includes [accounts, saved results, a private dashboard and account maintenance](/projects/game-app). The ideas below describe the creative game core inside that shared application journey. Keep one game mode small; use the required account features with every direction. The experiment may succeed, change direction or be dropped. Write a **stop rule before starting**: “After 60 minutes, if I cannot explain its behavior and check one useful result, I will keep the reliable opponent and record what I learned.” Sixty minutes is an example, not a required work limit.
 
 An ambitious plan with a small finished promise can be strong work. An unfinished promise is not rescued by a long feature list or by saying AI failed.
 
@@ -51,7 +51,7 @@ These are creative directions, not seven assignments. One scene or one short mat
 | **Campus event shortlister** | Synthetic events, a few preferences and an explanation of the shortlist. | Matching rules, unsupported preferences and no matching events. |
 | **Equipment-request planner** | One request journey, validation and a truthful pending status using synthetic data. | Missing information, incompatible selections and the difference between a request and a confirmed booking. |
 
-For a different game, keep equivalent score/history measures. For an already agreed non-game idea, confirm its equivalent meaningful result/history workflow. Keep the account journey and tests. The group has its own [prepared customer choices](/projects/customer-simulator).
+For a different game, keep equivalent score/history measures. For a non-game idea, document its equivalent meaningful result/history workflow. No prior approval is needed. Keep the account journey and tests. The group has its own [prepared customer choices](/projects/customer-simulator).
 
 </details>
 
@@ -67,8 +67,7 @@ Help me discover an application I would care about making.
 First ask me three short questions about my interests, the experience
 I want to create, and the time/tools I have. Wait for my answers.
 
-Then suggest three ambitious, distinct pitches. Include a surprising
-RPS direction and another simple game. Each must fit accounts, a
+Then suggest three ambitious, distinct pitches. Include a game direction and a useful bounded non-game direction. Each must fit accounts, a
 private dashboard, saved results and account maintenance. Give a user, a memorable
 interaction, a small complete version, and one technical uncertainty.
 
@@ -83,9 +82,9 @@ AI can also propose architecture or tests. You still decide which boundaries hel
 
 | Review | What your creative project adds |
 | --- | --- |
-| **1 · Plan** | Two ideas, a selected promise, a small architecture sketch, checks and the experiment's stop rule. |
-| **2 · First slice** | Accounts and one correct saved game; actual tests and a design decision. |
-| **3 · Integrate** | Dashboard, scores and account maintenance work together. Compare approaches, record the experiment's result and get peer feedback. |
+| **1 · Plan** | Published programming research site/repository linked to the separate career research site, two ideas, a selected promise, a small architecture sketch, checks and the experiment's stop rule. |
+| **2 · First slice** | Accounts and one correct saved task result; actual tests and a design decision. |
+| **3 · Integrate** | Dashboard, saved results and account maintenance work together. Compare approaches, record the experiment's result and get peer feedback. |
 | **4 · Improve** | Resolve a meaningful feedback issue, retest, hand off the chosen version and explain what you would do differently. |
 
 Keep short notes in your [existing record](/templates/project-record). No extra idea essay or full chat transcript. [Two filled AI-learning examples](/examples/agent-learning) show how a success and a disappointment can both improve your judgment. Follow Canvas for the actual posted requirements and dates.

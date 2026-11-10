@@ -1,6 +1,6 @@
 # One evolving project record
 
-Copy these headings into your existing `SPEC.md` or link this record from it. Keep one per creative game and one shared customer-project record. The [portfolio brief](/projects/portfolio) has a smaller career/design record; it does not need a game-style pattern experiment. Use short notes and actual links; fill later sections as the work develops.
+Copy these headings into your existing `SPEC.md` or link this record from it. Keep one per creative application and one shared customer-project record. The [portfolio brief](/projects/portfolio) has a smaller career/design record; it does not need a game-style pattern experiment. Use short notes and actual links; fill later sections as the work develops.
 
 For the current posted RPS-001, follow its supplied SPEC and exact requirements. The creative headings below organize later project work without changing that assignment.
 
@@ -15,11 +15,20 @@ For the current posted RPS-001, follow its supplied SPEC and exact requirements.
 - Current review stage; checks passed, failed or not run.
 - Group: actual member contributions and reviewers.
 
+## Research-site navigation (individual work)
+
+Publish this existing creative record as the programming research site and link the separate career research site/portfolio record. Put both site URLs and repository links near the top. See the [two-site guide](/course/research-examples); the shared group record does not acquire a two-site requirement.
+
+- Question/audience → original source and review date → relevant evidence.
+- Facts versus assumptions → alternatives → decision and reason.
+- Next experiment/check: expected result, actual result when run, and limits.
+- AI assistance and human verification; partner walkthrough → GitHub issue → decision → documentation/code change → verification → resolution.
+
 ## 1 · Plan (understand the idea and choose the promise)
 
 - Evidence about the need; assumptions still to check.
 - Two approaches; choice, reason and tradeoff.
-- Creative game: five [account/game stories](/projects/game-app). Group: three to five agreed customer stories, each with observable success/failure checks.
+- Creative application: five [account/core-task stories](/projects/game-app). Group: three to five agreed customer stories, each with observable success/failure checks.
 - Simple sketch of the parts and their connections. Where are the core rules?
 - One small pattern experiment: design problem, two approaches and planned code/test comparison. A function-based pattern is valid.
 - AI experiment: my prediction and how I will check it.
@@ -35,7 +44,7 @@ For the current posted RPS-001, follow its supplied SPEC and exact requirements.
 
 ## 3 · Integrated build
 
-- How the parts now work together; actual connection and user-task checks. Game: private saved scores/dashboard, account maintenance, ownership and session behavior. Group: bounded customer change and the agreed response.
+- How the parts now work together; actual connection and user-task checks. Individual application: private saved results/dashboard, account maintenance, ownership and session behavior. Group: bounded customer change and the agreed response.
 - Pattern decision: actual experiment, problem, alternative, benefit and cost. Keep, refactor or remove it based on the evidence; explain the final simpler code if that won.
 - Current selected/alternate approaches; what stays constant in the comparison.
 - Real peer task, observation and the issue to improve next.
