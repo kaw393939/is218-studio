@@ -3,7 +3,7 @@ layout: home
 hero:
   name: IS218 Studio
   text: Build something you want to show.
-  tagline: Make a game. Work with a customer. Use AI, test your work, and build a story for your next opportunity.
+  tagline: Make a useful application. Work with a customer. Use AI, test your work, and build a story for your next opportunity.
   actions:
     - theme: brand
       text: Section 001 · My next class
@@ -13,9 +13,9 @@ hero:
       link: /course/section-003#before-next-class
 features:
   - title: Creative Extravaganza
-    details: Make RPS or another small game your own—with accounts, saved scores and a dashboard.
+    details: Make a game or bounded non-game workflow your own, with accounts, saved results and a private dashboard.
     link: /projects/individual
-    linkText: See the game brief
+    linkText: See the creative-project brief
   - title: Group Customer Studio
     details: Choose a customer, ask good questions and build one useful workflow with your team.
     link: /projects/group
@@ -34,7 +34,9 @@ This week: review RPS-001 and choose a first direction for each project. Archite
 
 **See what you can build:** [run the complete game example](/examples/full-game). Sign in, play, save a result and see your dashboard. Use it to understand the pieces, then make your own choices.
 
-**Research before choosing:** [open the instructor research examples](/course/research-examples) for the game notebook, AI Career Atlas and regional career guide. Investigate your own interests, verify sources and turn your decisions into the specifications for your game and portfolio website, LinkedIn and GitHub.
+**Research before choosing:** [open the instructor research examples](/course/research-examples) for the game notebook, AI Career Atlas and regional career guide. Investigate your own interests, verify sources and turn your decisions into the specifications for your application and portfolio website, LinkedIn and GitHub.
+
+**For Plan:** publish two distinct research sites, one for career/portfolio and one for AI/programming exploration. Link their repositories and present them to a partner. A game is optional. [Research-site contents and submissions](/course/research-examples).
 
 **Why it matters:** you will have work you can demonstrate and explain in an internship or client conversation.
 
