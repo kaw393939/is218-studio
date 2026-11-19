@@ -30,7 +30,7 @@ Prepare the short **PowerPoint supporting your live demonstration** required by 
 | Review | Creative application | Group customer project | Portfolio |
 | --- | --- | --- | --- |
 | **1 · Plan** | Programming research site/repository linked to the career research site; two concepts, account/core-task promise, stack, stories and architecture. | Select a prepared customer; discovery, two proposals, agreed small workflow and work split. | Career research site/repository; three role cards, two career directions, audience/persona, two brand/layout directions and a short spec. |
-| **2 · First slice** | Accounts, one correct saved task result and focused tests/design experiment. | One real workflow slice; actual member contributions and cross-review. | A readable draft with two lightweight presentation options; résumé/profile/repository links. |
+| **2 · First slice** | **001:** Accounts, one correct saved task result and focused tests/design experiment. **003 (Nov 19):** Updated research site and SPEC (project plan). | One real workflow slice; actual member contributions and cross-review. | A readable draft with two lightweight presentation options; résumé/profile/repository links. |
 | **3 · Integrated build** | Private results/dashboard, account maintenance, ownership and regression checks. | Integrated workflow; respond to the simulator's bounded change; real peer observation. | Chosen presentation, accurate project evidence and working professional links. |
 | **4 · Improve/handoff** | Peer issue → change → retest; setup, CI and AI-learning note. | Peer issue → change → retest; customer acceptance comparison, handoff and each person's work. | Peer issue → change → retest; finished site, résumé, GitHub/LinkedIn and honest case studies. |
 
