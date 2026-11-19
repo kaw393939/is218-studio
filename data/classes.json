@@ -43,7 +43,7 @@
       {
         "key": "group-2",
         "title": "Group Review 2 — First working slice",
-        "date": "2026-11-20",
+        "date": "2026-12-09",
         "time": "10:00 a.m.",
         "status": "posted",
         "assignmentId": 769203,
@@ -61,7 +61,7 @@
       {
         "key": "group-3",
         "title": "Group Review 3 — Integrated build",
-        "date": "2026-12-02",
+        "date": "2026-12-09",
         "time": "10:00 a.m.",
         "status": "posted",
         "assignmentId": 769204,
@@ -79,8 +79,8 @@
       {
         "key": "group-4",
         "title": "Group Review 4 — Improve and hand off",
-        "date": "2026-12-06",
-        "time": "11:59 p.m.",
+        "date": "2026-12-09",
+        "time": "10:00 a.m.",
         "status": "posted",
         "assignmentId": 769205,
         "points": 100
@@ -493,7 +493,7 @@
       },
       {
         "key": "individual-2",
-        "title": "Creative Project Review 2 — First working slice",
+        "title": "Creative Project Review 2 — Research site and project plan",
         "date": "2026-11-19",
         "time": "2:30 p.m.",
         "status": "posted",
@@ -503,7 +503,7 @@
       {
         "key": "group-2",
         "title": "Group Review 2 — First working slice",
-        "date": "2026-11-19",
+        "date": "2026-12-07",
         "time": "2:30 p.m.",
         "status": "posted",
         "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239409",
@@ -521,7 +521,7 @@
       {
         "key": "group-3",
         "title": "Group Review 3 — Integrated build",
-        "date": "2026-11-30",
+        "date": "2026-12-07",
         "time": "2:30 p.m.",
         "status": "posted",
         "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239411",
@@ -539,8 +539,8 @@
       {
         "key": "group-4",
         "title": "Group Review 4 — Improve and hand off",
-        "date": "2026-12-06",
-        "time": "11:59 p.m.",
+        "date": "2026-12-07",
+        "time": "2:30 p.m.",
         "status": "posted",
         "canvasUrl": "https://njit.instructure.com/courses/70713/modules/items/2239413",
         "points": 100
