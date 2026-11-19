@@ -2,7 +2,7 @@
 
 **Monday/Thursday · 2:30–3:50 p.m. · CKB 226 · Fall 2026.** Bring your computer, current revision and one task for a reviewer. Attend and participate; follow the syllabus and approved accommodations.
 
-## November 19: what to submit
+## November 19: what to submit {#before-next-class}
 
 **Section 003 clarification:** use the existing Canvas submission slots. The November 19, 2:30 p.m. checkpoint dates and points have not changed.
 
