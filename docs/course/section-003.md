@@ -8,7 +8,7 @@
 
 - **Creative project:** update your research site with your **SPEC (project plan)**. Include what you chose to build and a check you plan to run. Submit the link in [Review 2 — First Working Slice — Creative Project](https://njit.instructure.com/courses/70713/modules/items/2239407). A working implementation is **not required for this checkpoint**; do not leave the submission missing because of the slot's title.
 - **Portfolio:** submit a **readable draft and two presentation options** in the [Portfolio Working Slice slot](https://njit.instructure.com/courses/70713/modules/items/2239408). This requirement is unchanged; the creative project's plan-only clarification does not replace it.
-- **Group project:** hold off on further group work until the instructor confirms the dates and directions. Do not redo an already submitted Group Customer Studio Plan while the schedule is clarified.
+- **Group project:** resume group work in class **Monday, Nov 30**. Bring the group plan you already submitted and use class time for a peer review.
 
 Dates support pacing and can be adjusted. There is **no late penalty**, and you may revise after feedback without a penalty. Do not assume all later checkpoints are canceled: follow the instructor's confirmed Canvas guidance for the remaining sequence.
 
@@ -46,7 +46,7 @@ A Studio receipt links a focused skill/check; the project review links that same
 
 **Nov 30–Dec 4:** no new topic. Use class for repair, missed reviews, integration and rehearsal. Keep the same links through the **Dec 6, 11:59 p.m.** creative and portfolio deadline. See the [group dates](/course/schedule#group-customer-project-dates).
 
-**Dec 7 and Dec 10:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. Delivery and presentation slots still need confirmation. [Demo Days](/demo-days).
+**Dec 7 and Dec 10:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. The Dec 16 block is on Zoom. Check Canvas for the link and presentation slots. [Demo Days](/demo-days).
 
 [Current Studios](/projects/studios) · [Individual app](/projects/individual) · [Customer project](/projects/group) · [Portfolio](/projects/portfolio) · [Canvas assignments](https://njit.instructure.com/courses/70713/assignments) · [Section 001](/course/section-001).
 

@@ -13,7 +13,7 @@ Start from your portfolio, demonstrate your creative application and explain you
 
 **Group final:** Dec 10 for 003 and Dec 11 for 001, both at 11:59 p.m. Eastern.
 
-The Registrar lists **FMH 408** for the December 16 block. Check Canvas for the confirmed location and presentation time. [Official schedule](https://www.njit.edu/registrar/exams/finalexams).
+**Dec 16 is on Zoom for both sections.** Check Canvas for the meeting link and your presentation time. [Official schedule](https://www.njit.edu/registrar/exams/finalexams).
 
 ## Prepare your Demo Day PowerPoint
 
