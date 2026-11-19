@@ -1,16 +1,16 @@
 # Course sources and setup notes
 
-Instructor reference · Initial Canvas research November 2; creative direction November 3; published-review alignment November 5, 2026. Students should begin with [their class card](/course/schedule), not this source inventory.
+Instructor reference · Initial Canvas research November 2; creative direction November 3; published-review alignment November 5, 2026. Students should begin with the [current schedule](/course/schedule).
 
-## Current Canvas alignment · November 5
+## Canvas snapshot · November 5
 
-Both sections now have published Plan, First Working Slice, Integrated Build and Improve reviews for the creative game, group customer project and portfolio. The first three deadlines are at class start; Improve is **December 6 at 11:59 p.m. Eastern**. Section 003 uses November 12, November 19 and November 30; Section 001 uses November 13, November 20 and December 2. The class-card data links the actual assignments or their verified Canvas module items, with the published points. [Published schedule](/course/schedule).
+Both sections had published project reviews by November 5. For current deadlines and section-specific instructions, use the [published schedule](/course/schedule) and [hand-in guide](/course/milestones).
 
 The [instructor research examples](/course/research-examples) connect the game notebook, AI Career Atlas and regional field guide to students' own investigation and specifications. They do not choose a career or stack, replace original sources, remove the complete account/game journey or create another report. Private career reflection stays in Canvas; public professional materials use actual work and suitable goals.
 
 The earlier snapshots below document what was observed then. Their statements that reviews had not yet been posted are historical. Separate Studio 002/003 assignments, exact Docker teaching evidence and regular-class demo arrangements are not treated as posted without their own Canvas confirmation. RPS-001's original requirements, rubric and dates remain unchanged; this guide changes no course category weights.
 
-The November 5 Student View audit also confirmed all three Final Product assessments in each section: final work ready December 6 at 11:59 p.m., reuse of Review 4 URLs with no new upload/report, and a short PowerPoint supporting the live demonstration. [Final assessment links](/course/milestones#final-products-and-demo-day) · [Demo Day preparation](/demo-days#prepare-your-demo-day-powerpoint). These assignments do not add a paid host or public game-deployment requirement; the guide retains the reproducible local application option and suitable public portfolio hosting.
+The November 5 Student View audit also confirmed all three Final Product assessments in each section: reuse of Review 4 URLs with no new upload/report, and a short PowerPoint supporting the live demonstration. [Final assessment links](/course/milestones#final-products-and-demo-day) · [Demo Day preparation](/demo-days#prepare-your-demo-day-powerpoint). These assignments do not add a paid host or public game-deployment requirement; the guide retains the reproducible local application option and suitable public portfolio hosting.
 
 ## Canvas facts observed November 2
 
