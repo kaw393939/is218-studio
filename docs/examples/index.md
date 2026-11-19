@@ -2,6 +2,8 @@
 
 **[Run the complete account-based game](/examples/full-game).** It has real sign-in, saved results, a private dashboard and account maintenance. Start with its short setup guide, then inspect one part you need.
 
+The browser demos let you preview one interaction. Start with the complete example to see how accounts and saved results work.
+
 ## A short review update
 
 This illustrates the size and specificity of an update; replace it with your own work and actual links.

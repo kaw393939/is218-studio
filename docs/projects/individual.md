@@ -1,4 +1,4 @@
-# Your Creative Extravaganza: a useful application with a real account journey
+# Creative project: build an app people can sign into
 
 **Imagine an application you want to make. Finish a small version that someone can sign into, use, return to and manage.** A game is optional: choose RPS, another simple game or a useful bounded non-game workflow without prior approval. Any language, framework or engine is welcome when it supports the required behavior and meaningful tests.
 
