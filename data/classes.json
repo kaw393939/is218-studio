@@ -727,11 +727,11 @@
       },
       {
         "date": "2026-11-19",
-        "label": "Thu Nov 19 · Review 2 due; integrate the build",
-        "bring": "Current application/accounts, group slice and chosen portfolio presentation.",
-        "work": "Introduce dashboard and account maintenance. Request the customer simulator’s bounded change; plan integration and final reviews.",
-        "review": "Which account/data boundary or customer assumption needs a test or change?",
-        "update": "Reuse the application evidence for the Studio; update customer notes and portfolio case studies.",
+        "label": "Thu Nov 19 · Creative plan and portfolio draft",
+        "bring": "Bring your creative research site and project plan, plus a readable portfolio draft with two layout options.",
+        "work": "Review your creative plan and try one task on a classmate’s portfolio.",
+        "review": "Can a reader find your work, résumé and profile links?",
+        "update": "Record one check you plan to run for your creative app. Update your portfolio record with both layout options.",
         "due": [
           "individual-2",
           "group-2",
@@ -752,8 +752,8 @@
           "link": "/examples/bot-lab",
           "text": "Bot Lab design and checks"
         },
-        "note": "Final-review expectations are explained now, before recess. No new topic starts in the protected finish week.",
-        "win": "Show one working path from sign-in to a saved task result."
+        "note": "Wait for your instructor’s group project instructions.",
+        "win": "Submit the creative plan and portfolio draft in Canvas."
       },
       {
         "date": "2026-11-23",
