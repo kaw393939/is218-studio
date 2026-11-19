@@ -9,7 +9,7 @@ const card=computed(()=>data.value.classes.find(c=>c.date===selected.value)||dat
 const link=path=>{if(/^https?:/.test(path))return path;const [route,hash]=path.split('#');return withBase(route+(route.endsWith('/')||/\.[a-z]+$/i.test(route)?'':'.html')+(hash?'#'+hash:''))}
 const checkpoint=key=>data.value.checkpoints.find(c=>c.key===key)
 const checkpointUrl=key=>{const c=checkpoint(key);return c.canvasUrl||(c.assignmentId?'https://njit.instructure.com/courses/'+data.value.courseId+'/assignments/'+c.assignmentId:'')}
-const postedKeys=kind=>(card.value[kind]||[]).filter(key=>checkpoint(key).status==='posted')
+const postedKeys=kind=>(card.value[kind]||[]).filter(key=>checkpoint(key).status==='posted' && !/^group-[234]$/.test(key))
 const plannedKeys=computed(()=>[...new Set([...(card.value.due||[]),...(card.value.next||[])])].filter(key=>checkpoint(key).status==='planned'))
 const dueText=key=>{const c=checkpoint(key);const [y,m,d]=c.date.split('-');return `${Number(m)}/${Number(d)}/${y}, ${c.time} Eastern`}
 onMounted(()=>{const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());selected.value=(data.value.classes.find(c=>c.date>=today)||data.value.classes.at(-1)).date})
