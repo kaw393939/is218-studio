@@ -1,6 +1,6 @@
 # Show the work. Explain the decision.
 
-Start from your portfolio, demonstrate your creative account-based game and explain your own contribution to the group customer application. Use a real working task, one decision and its checks, plus one feedback-driven improvement. A polished narration cannot replace work you can explain.
+Start from your portfolio, demonstrate your creative application and explain your own contribution to the group customer application. Use a real working task, one decision and its checks, plus one feedback-driven improvement. A polished narration cannot replace work you can explain.
 
 ## Dates and status
 
@@ -9,9 +9,11 @@ Start from your portfolio, demonstrate your creative account-based game and expl
 | **003 · Dec 7 and Dec 10**, normal class time | Planned regular-class demos. Slots and format need instructor confirmation. |
 | **001 · Dec 9 and Dec 11**, normal class time | Planned regular-class demos. |
 | **Dec 16 · 2:30–5 p.m. Eastern**, both sections | Already announced official final/redo block. |
-| **Dec 6 · 11:59 p.m. Eastern** | Published Improve/final-work-ready deadline in Canvas; no Sunday class meeting. |
+| **Dec 6 · 11:59 p.m. Eastern** | Creative project and portfolio Improve/final-ready deadline. |
 
-**Delivery details are not settled:** the current course homes say Zoom, with the link forthcoming; the Registrar lists **FMH 408** for the December 16 block. Follow the instructor's confirmed Canvas instructions before making attendance arrangements. [Official schedule](https://www.njit.edu/registrar/exams/finalexams).
+**Group final:** Dec 10 for 003 and Dec 11 for 001, both at 11:59 p.m. Eastern.
+
+The Registrar lists **FMH 408** for the December 16 block. Check Canvas for the confirmed location and presentation time. [Official schedule](https://www.njit.edu/registrar/exams/finalexams).
 
 ## Prepare your Demo Day PowerPoint
 
@@ -24,7 +26,7 @@ Keep final work, source and the continuing record at your Review 4 URLs. **No ne
 ## Prepare a short demonstration
 
 1. Open your portfolio: state your career direction and show where the résumé, GitHub and LinkedIn links live.
-2. Run the individual account → game → saved result/dashboard journey. Show account maintenance and one independently expected check.
+2. Run the individual sign-in, one useful task, and its saved result. Show account maintenance and one independently expected check.
 3. Name the simulated customer and agreed workflow; run it and identify your work and a teammate's connected part.
 4. Show an issue, the meaningful change and the retest.
 5. Explain an architecture/pattern choice and one test that would catch a real mistake.

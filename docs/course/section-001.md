@@ -4,6 +4,8 @@
 
 ## Before next class
 
+Check [the group dates](/course/schedule#group-customer-project-dates). For Creative Review 2, show one task from sign-in to a saved result. For Portfolio Review 2, bring a readable draft and two small layouts using the same content.
+
 <ClassWorkCard section="001" />
 
 For Plan, publish [two distinct research sites](/course/research-examples): career/portfolio and AI/programming. Submit each site and repository at its matching individual Plan checkpoint. Bring both sites for partner review; keep using the same records. A game is optional; the creative application's account, persistence, security and testing requirements remain.

@@ -15,7 +15,7 @@ At Plan, link the programming research site and its repository in the individual
 
 ## Final products and Demo Day
 
-The three Final Product assessments use your finished work and live explanation at the **existing Review 4 URLs**. Have final work ready **December 6, 2026, at 11:59 p.m. Eastern**. There is **no new upload or report**; send a changed URL privately through Canvas Inbox.
+The three Final Product assessments use your finished work and live explanation at the **existing Review 4 URLs**. Have your creative project and portfolio ready **Dec 6 at 11:59 p.m. Eastern**. The group final is due **Dec 10 at 11:59 p.m. for 003** and **Dec 11 at 11:59 p.m. for 001**. There is **no new upload or report**; send a changed URL privately through Canvas Inbox.
 
 Prepare the short **PowerPoint supporting your live demonstration** required by those assignments. Teams prepare one shared deck; individuals prepare their own. Follow the [Demo Day presentation guidance](/demo-days#prepare-your-demo-day-powerpoint) and Canvas's confirmed slots, duration and delivery details.
 
@@ -53,6 +53,15 @@ The published final-project review assignments use **25 points per row**. The wo
 For software, include meaningful automated and integration checks plus an actual pattern experiment. For the portfolio, use reader tasks, link/mobile/keyboard checks and accurate career/project evidence. A static portfolio does not need a database or a game-style design pattern.
 
 An optional experiment can fail and still show judgment. Required behavior still needs repair. Fictional peer stories and unrun tests cannot earn execution credit.
+
+## What counts as evidence
+
+- **Plan:** Link your plan. Name one decision and one check you intend to run.
+- **Build:** Link the feature or draft and show a check you ran. For an app, try signing in, completing one task and reopening the saved result.
+- **Improve:** Show what a peer tried, what you changed and what happened when you checked again. For an app, use two test accounts to check that each only sees its own data.
+- **Group and portfolio:** For a group, point to each person’s contribution in the shared record. For a portfolio, ask a reader to find your contribution, code and résumé.
+
+Use the requirements for your section and checkpoint. Label checks as planned, passed or failed.
 
 ## Current RPS-001 rubric stays the same
 
