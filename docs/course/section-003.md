@@ -2,11 +2,11 @@
 
 **Monday/Thursday · 2:30–3:50 p.m. · CKB 226 · Fall 2026.** Bring your computer, current revision and one task for a reviewer. Attend and participate; follow the syllabus and approved accommodations.
 
-## November 19: what to submit
+## November 19: what to submit {#before-next-class}
 
 **Section 003 clarification:** use the existing Canvas submission slots. The November 19, 2:30 p.m. checkpoint dates and points have not changed.
 
-- **Creative project:** submit your updated research-site link with the **SPEC/plan only** in [Review 2 — First Working Slice — Creative Project](https://njit.instructure.com/courses/70713/modules/items/2239407). A working implementation is **not required for this checkpoint**; do not leave the submission missing because of the slot's title.
+- **Creative project:** update your research site with your **SPEC (project plan)**. Include what you chose to build and a check you plan to run. Submit the link in [Review 2 — First Working Slice — Creative Project](https://njit.instructure.com/courses/70713/modules/items/2239407). A working implementation is **not required for this checkpoint**; do not leave the submission missing because of the slot's title.
 - **Portfolio:** submit a **readable draft and two presentation options** in the [Portfolio Working Slice slot](https://njit.instructure.com/courses/70713/modules/items/2239408). This requirement is unchanged; the creative project's plan-only clarification does not replace it.
 - **Group project:** hold off on further group work until the instructor confirms the dates and directions. Do not redo an already submitted Group Customer Studio Plan while the schedule is clarified.
 
@@ -44,7 +44,7 @@ A Studio receipt links a focused skill/check; the project review links that same
 
 ## Finish and demonstrate
 
-**Nov 30–Dec 4:** no new topic. Use class for repair, missed reviews, integration and rehearsal. Keep the same links through the published **Dec 6, 11:59 p.m.** Improve/final-ready deadline.
+**Nov 30–Dec 4:** no new topic. Use class for repair, missed reviews, integration and rehearsal. Keep the same links through the **Dec 6, 11:59 p.m.** creative and portfolio deadline. See the [group dates](/course/schedule#group-customer-project-dates).
 
 **Dec 7 and Dec 10:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. Delivery and presentation slots still need confirmation. [Demo Days](/demo-days).
 

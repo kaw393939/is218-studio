@@ -12,8 +12,8 @@ hero:
       text: Section 003 · My next class
       link: /course/section-003#before-next-class
 features:
-  - title: Creative Extravaganza
-    details: Make a game or bounded non-game workflow your own, with accounts, saved results and a private dashboard.
+  - title: Creative project
+    details: Build a game or another app around one useful task, with accounts, saved results and a private dashboard.
     link: /projects/individual
     linkText: See the creative-project brief
   - title: Group Customer Studio
@@ -29,8 +29,6 @@ features:
 ## Start with one class
 
 Open your section above. The card shows **what to do, when to hand it in, and the points when posted**. You will have class time to work, get feedback and improve.
-
-This week: review RPS-001 and choose a first direction for each project. Architecture and Docker teaching is planned for next week using the same application.
 
 **See what you can build:** [run the complete game example](/examples/full-game). Sign in, play, save a result and see your dashboard. Use it to understand the pieces, then make your own choices.
 
