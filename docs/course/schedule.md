@@ -27,7 +27,7 @@ Open your section’s class card for the Canvas links and what to submit. Sectio
 | Reviews 2–4 | Dec 7, 2:30 p.m. | Dec 9, 10 a.m. |
 | Final Product | Dec 10, 11:59 p.m. | Dec 11, 11:59 p.m. |
 
-Section 003 should wait for the instructor’s group restart instructions. Use class time after the restart to let a peer try the workflow and to fix what they find. Keep using the same group record.
+Section 003 resumes group work in class **Monday, Nov 30**. Use class time to let a peer try the workflow, then fix what they find. Keep using the same group record.
 
 ## Earlier work
 
@@ -40,6 +40,6 @@ Section 003 should wait for the instructor’s group restart instructions. Use c
 - **Nov 30–Dec 4:** finishing, peer review, repairs and rehearsal. Review 3 captures a build snapshot; no new topic starts. Keep the same links through the final target.
 - **Dec 6:** creative project and portfolio Improve/final-ready deadline, **11:59 p.m. Eastern**, not a Sunday class meeting.
 - **Dec 7/10 (003) and Dec 9/11 (001):** proposed regular-class demo dates.
-- **Dec 16, 2:30–5 p.m.:** already announced final/redo block for both sections; delivery details need confirmation. [Demo Days](/demo-days).
+- **Dec 16, 2:30–5 p.m.:** final/redo block on Zoom for both sections. Check Canvas for the link and time slot. [Demo Days](/demo-days).
 
 [Registrar calendar](https://www.njit.edu/registrar/calendars) · [Official final schedule](https://www.njit.edu/registrar/exams/finalexams).

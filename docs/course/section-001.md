@@ -38,7 +38,7 @@ A Studio receipt links a focused skill/check; the project review links that same
 
 **Nov 30–Dec 4:** no new topic. Use class for repair, missed reviews, integration and rehearsal. Keep the same links through the published **Dec 6, 11:59 p.m.** creative and portfolio deadline. See the [group dates](/course/schedule#group-customer-project-dates).
 
-**Dec 9 and Dec 11:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. Delivery and presentation slots still need confirmation. [Demo Days](/demo-days).
+**Dec 9 and Dec 11:** proposed regular-class demos. **Dec 16, 2:30–5 p.m.:** announced final/redo block. The Dec 16 block is on Zoom. Check Canvas for the link and presentation slots. [Demo Days](/demo-days).
 
 [Current Studios](/projects/studios) · [Individual app](/projects/individual) · [Customer project](/projects/group) · [Portfolio](/projects/portfolio) · [Canvas assignments](https://njit.instructure.com/courses/70712/assignments) · [Section 003](/course/section-003).
 
